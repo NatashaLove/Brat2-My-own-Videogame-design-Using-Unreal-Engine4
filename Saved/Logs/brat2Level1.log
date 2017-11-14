@@ -358,3 +358,112 @@ LogInit: Object subsystem initialized
 [2017.11.14-21.10.21:028][703]Cmd: MAP CHECKDEP NOCLEARLOG
 [2017.11.14-21.10.21:148][703]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119.094ms to complete.
 [2017.11.14-21.10.21:148][703]LogFileHelpers: Loading map 'level1' took 0.676
+[2017.11.14-21.15.55:991][515]LogRenderer: Reallocating scene render targets to support 900x440 Format 10 NumSamples 1 (Frame:2147).
+[2017.11.14-21.16.24:667][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.14-21.16.37:551][687]LogActorFactory: Actor Factory created Wall_Window_400x400
+[2017.11.14-21.16.40:701][772]LogActorFactory: Actor Factory created Wall_Window_400x400
+[2017.11.14-21.17.42:401][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.14-21.17.48:572][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2017.11.14-21.17.56:236][991]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-21.17.57:324][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2017.11.14-21.18.19:815][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.14-21.18.21:123][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2017.11.14-21.18.27:016][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.14-21.18.28:049][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2017.11.14-21.18.34:590][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2017.11.14-21.18.35:101][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.14-21.19.33:048][823]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-21.19.45:250][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.14-21.19.59:194][581]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-21.20.07:282][826]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-21.20.08:713][869]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-21.20.12:115][972]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-21.20.17:664][140]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-21.20.28:020][419]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-21.20.28:054][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-21.20.28:055][419]PIE: New page: PIE session: level1 (Nov 14, 2017, 9:20:28 AM)
+[2017.11.14-21.20.28:056][419]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.14-21.20.28:070][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014864s)
+[2017.11.14-21.20.28:071][419]LogAIModule: Creating AISystem for world level1
+[2017.11.14-21.20.28:071][419]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2017.11.14-21.20.28:072][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.016215s)
+[2017.11.14-21.20.28:084][419]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.14-21.20.28:096][419]LogInit: FAudioDevice initialized.
+[2017.11.14-21.20.28:138][419]LogLoad: Game class is 'GameModeBase'
+[2017.11.14-21.20.28:144][419]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.14-15.20.28
+[2017.11.14-21.20.28:144][419]LogWorld: Bringing up level for play took: 0.005053
+[2017.11.14-21.20.28:228][419]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.14-21.20.28:230][419]PIE: Play in editor start time for /Game/UEDPIE_0_level1 0.148
+[2017.11.14-21.21.59:063][171]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-21.21.59:075][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-21.21.59:076][171]PIE: New page: PIE session: level1 (Nov 14, 2017, 9:21:59 AM)
+[2017.11.14-21.21.59:076][171]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.14-21.21.59:090][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014007s)
+[2017.11.14-21.21.59:090][171]LogAIModule: Creating AISystem for world level1
+[2017.11.14-21.21.59:091][171]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2017.11.14-21.21.59:091][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.015093s)
+[2017.11.14-21.21.59:101][171]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.14-21.21.59:113][171]LogInit: FAudioDevice initialized.
+[2017.11.14-21.21.59:178][171]LogLoad: Game class is 'GameModeBase'
+[2017.11.14-21.21.59:182][171]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.14-15.21.59
+[2017.11.14-21.21.59:182][171]LogWorld: Bringing up level for play took: 0.003286
+[2017.11.14-21.21.59:183][171]PIE: Play in editor start time for /Game/UEDPIE_0_level1 1.102
+[2017.11.14-21.22.31:392][151]Cmd: SELECT NONE
+[2017.11.14-21.23.30:703][952]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.14-21.23.40:243][ 92]LogSavePackage: Save=414.05ms
+[2017.11.14-21.23.40:244][ 92]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto1DE114C5F4991EABD9F73CF862F84339E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto1.umap'
+[2017.11.14-21.23.40:247][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto1.umap
+[2017.11.14-21.23.40:251][ 92]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.439
+[2017.11.14-21.23.40:251][ 92]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.439
+[2017.11.14-21.24.48:966][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.14-21.25.03:341][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2017.11.14-21.25.04:578][649]Cmd: DELETE
+[2017.11.14-21.25.04:578][649]Cmd: ACTOR DELETE
+[2017.11.14-21.25.04:586][649]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.14-21.25.04:594][649]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.11.14-21.25.07:277][710]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2017.11.14-21.25.09:879][789]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2017.11.14-21.25.18:383][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-21.25.38:674][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.14-21.26.31:557][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.14-21.26.33:021][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.14-21.26.47:291][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.14-21.26.59:280][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.14-21.27.07:838][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.14-21.27.24:806][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.14-21.27.33:312][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-21.27.34:586][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.14-21.27.50:847][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.14-21.27.52:565][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.14-21.29.42:150][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.14-21.30.29:310][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.14-21.31.02:750][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x325)
+[2017.11.14-21.31.14:041][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.14-21.31.19:220][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x332)
+[2017.11.14-21.31.31:047][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.14-21.32.49:551][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x332)
+[2017.11.14-21.32.58:312][475]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-21.32.59:963][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x330)
+[2017.11.14-21.33.09:175][763]Cmd: TRANSACTION UNDO
+[2017.11.14-21.33.09:175][763]LogEditorTransaction: Undo Scale Actors
+[2017.11.14-21.33.09:187][763]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.Wall_400x332.StaticMeshComponent0) Component already registered.
+[2017.11.14-21.33.09:193][763]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.Wall_400x333.StaticMeshComponent0) Component already registered.
+[2017.11.14-21.33.47:214][707]LogSavePackage: Save=414.26ms
+[2017.11.14-21.33.47:214][707]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto2B2893E4847DD5C558A5186AA9154451E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto2.umap'
+[2017.11.14-21.33.47:217][707]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto2.umap
+[2017.11.14-21.33.47:220][707]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.473
+[2017.11.14-21.33.47:220][707]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.473
+[2017.11.14-21.34.03:239][174]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x303)
+[2017.11.14-21.34.04:159][185]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-21.34.04:632][200]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-21.34.05:677][211]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-21.34.12:078][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x302)
+[2017.11.14-21.34.18:330][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.14-21.34.19:520][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.14-21.34.24:709][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x330)
+[2017.11.14-21.34.36:916][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x308)
+[2017.11.14-21.34.50:507][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x328)
+[2017.11.14-21.34.59:296][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.14-21.34.59:773][745]LogSavePackage: Save=462.41ms
+[2017.11.14-21.34.59:773][745]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level13D414F4548F72712ED224A81498E0D75.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.14-21.34.59:779][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
