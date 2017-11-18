@@ -511,3 +511,148 @@ LogInit: Object subsystem initialized
 [2017.11.18-21.11.02:297][464]LogSavePackage: Save=319.99ms
 [2017.11.18-21.11.02:297][464]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1C1C76C50436231C07A6476B64A883935.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
 [2017.11.18-21.11.02:303][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.18-21.23.03:307][ 84]LogActorFactory: Actor Factory created Cube
+[2017.11.18-21.23.09:001][424]LogActorFactory: Actor Factory created Cube
+[2017.11.18-21.24.29:314][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.11.18-21.24.29:323][224]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.11.18-21.24.38:426][766]Cmd: TRANSACTION UNDO
+[2017.11.18-21.24.38:426][766]LogEditorTransaction: Undo Create Actors
+[2017.11.18-21.24.46:730][259]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2017.11.18-21.26.41:745][138]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.18-21.26.53:228][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.18-21.27.38:727][529]LogSavePackage: Save=322.70ms
+[2017.11.18-21.27.38:727][529]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto3AA2E315548946161304295BE89F984C3.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto3.umap'
+[2017.11.18-21.27.38:730][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto3.umap
+[2017.11.18-21.27.38:733][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.353
+[2017.11.18-21.27.38:733][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.353
+[2017.11.18-21.28.42:450][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x383)
+[2017.11.18-21.28.43:242][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x414)
+[2017.11.18-21.28.52:130][915]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-21.28.52:166][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-21.28.52:167][915]PIE: New page: PIE session: level1 (Nov 18, 2017, 9:28:52 AM)
+[2017.11.18-21.28.52:167][915]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.18-21.28.52:184][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016900s)
+[2017.11.18-21.28.52:186][915]LogAIModule: Creating AISystem for world level1
+[2017.11.18-21.28.52:186][915]LogPlayLevel: PIE: World Init took: (0.002335s)
+[2017.11.18-21.28.52:187][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.019739s)
+[2017.11.18-21.28.52:198][915]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.18-21.28.52:208][915]LogInit: FAudioDevice initialized.
+[2017.11.18-21.28.52:249][915]LogLoad: Game class is 'GameModeBase'
+[2017.11.18-21.28.52:264][915]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.18-15.28.52
+[2017.11.18-21.28.52:265][915]LogWorld: Bringing up level for play took: 0.009863
+[2017.11.18-21.28.52:376][915]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.11.18-21.28.52:377][915]PIE: Play in editor start time for /Game/UEDPIE_0_level1 0.809
+[2017.11.18-21.29.28:806][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-21.29.28:816][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-21.29.28:816][ 95]PIE: New page: PIE session: level1 (Nov 18, 2017, 9:29:28 AM)
+[2017.11.18-21.29.28:816][ 95]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.18-21.29.28:831][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015157s)
+[2017.11.18-21.29.28:832][ 95]LogAIModule: Creating AISystem for world level1
+[2017.11.18-21.29.28:832][ 95]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2017.11.18-21.29.28:832][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.016605s)
+[2017.11.18-21.29.28:842][ 95]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.18-21.29.28:853][ 95]LogInit: FAudioDevice initialized.
+[2017.11.18-21.29.28:883][ 95]LogLoad: Game class is 'GameModeBase'
+[2017.11.18-21.29.28:888][ 95]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.18-15.29.28
+[2017.11.18-21.29.28:888][ 95]LogWorld: Bringing up level for play took: 0.004141
+[2017.11.18-21.29.28:889][ 95]PIE: Play in editor start time for /Game/UEDPIE_0_level1 -0.679
+[2017.11.18-21.29.41:275][832]MapCheck: New page: Map Check
+[2017.11.18-21.29.41:290][832]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.18-21.29.41:291][832]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.18-21.29.41:548][832]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.18-21.29.41:556][832]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.11.18-21.29.41:561][832]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2017.11.18-21.29.41:567][832]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2017.11.18-21.29.41:572][832]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2017.11.18-21.29.46:861][832]TextureStreamingBuild: Display: Compiling optional shaders took 5.324 seconds.
+[2017.11.18-21.29.46:872][832]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2017.11.18-21.29.46:890][832]TextureStreamingBuild: Display: Build Texture Streaming took 0.018 seconds.
+[2017.11.18-21.29.46:901][832]LightingResults: New page: Lighting Build - Nov 18, 2017, 9:29:46 AM
+[2017.11.18-21.29.46:947][832]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.18-21.29.47:182][832]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.18-21.29.47:205][832]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.18-21.29.47:722][832]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.18-21.29.47:723][832]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5596
+[2017.11.18-21.29.50:318][832]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.11.18-21.29.50:318][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.18-21.29.50:318][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.18-21.29.50:318][832]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.18-21.29.50:318][832]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.18-21.29.50:318][832]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.18-21.29.50:645][832]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.18-21.29.50:645][832]MapCheck: New page: level1 - Nov 18, 2017, 9:29:50 AM
+[2017.11.18-21.29.50:647][832]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.11.18-21.29.50:741][832]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 95.69ms to complete.
+[2017.11.18-21.29.50:763][832]LogEditorBuildUtils: Build time 0:09
+[2017.11.18-21.29.50:792][832]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2017.11.18-21.29.50:806][832]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2017.11.18-21.29.50:908][833]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.11.18-21.29.50:915][833]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.11.18-21.29.50:953][834]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2017.11.18-21.29.50:960][834]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2017.11.18-21.29.50:991][835]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2017.11.18-21.29.51:000][835]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2017.11.18-21.29.51:027][836]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.18-21.29.51:038][836]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.18-21.30.08:572][716]Job is a success!
+[2017.11.18-21.30.08:692][717]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.079s
+[2017.11.18-21.30.08:692][717]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2017.11.18-21.30.08:692][717]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2017.11.18-21.30.08:692][717]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.18-21.30.08:692][717]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2017.11.18-21.30.08:692][717]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2017.11.18-21.30.08:692][717]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2017.11.18-21.30.11:349][717]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2017.11.18-21.30.11:350][717]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2017.11.18-21.30.11:350][717]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 64X64)
+[2017.11.18-21.30.11:350][717]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 64X64)
+[2017.11.18-21.30.11:549][717]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 128X128)
+[2017.11.18-21.30.11:549][717]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X256)
+[2017.11.18-21.30.11:549][717]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 128X256)
+[2017.11.18-21.30.11:549][717]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 32X32)
+[2017.11.18-21.30.11:549][717]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2017.11.18-21.30.11:619][717]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2017.11.18-21.30.11:652][717]Lightmass on DESKTOP-ROEGA92: 17.5 sec total, 433 ms importing, 35 ms setup, 2.47 sec photons, 14.5 sec processing, 0 ms extra exporting [346/346 mappings]. Threads: 1:41 min total, 1:07 min processing.
+[2017.11.18-21.30.11:681][717]LogStaticLightingSystem: Illumination: 24.7 sec (2.32 sec encoding lightmaps, 265 ms encoding shadowmaps)
+[2017.11.18-21.30.11:681][717]LogStaticLightingSystem: Lightmap texture memory:  16.6 MB (16.1 MB streaming, 0.5 MB non-streaming), 22 textures
+[2017.11.18-21.30.11:681][717]LogStaticLightingSystem: Shadowmap texture memory: 9.6 MB (9.4 MB streaming, 0.2 MB non-streaming), 6 textures
+[2017.11.18-21.30.12:326][717]DumpUnbuiltLightIteractions
+[2017.11.18-21.30.12:326][717]Lights with unbuilt interactions: 0
+[2017.11.18-21.30.12:326][717]
+[2017.11.18-21.30.12:326][717]Primitives with unbuilt interactions: 0
+[2017.11.18-21.30.12:349][718]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.18-21.30.12:349][718]MapCheck: New page: level1 - Nov 18, 2017, 9:30:12 AM
+[2017.11.18-21.30.12:464][718]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.107ms to complete.
+[2017.11.18-21.30.38:773][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x414)
+[2017.11.18-21.30.46:562][759]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x400)
+[2017.11.18-21.30.47:693][822]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x412)
+[2017.11.18-21.30.48:569][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x413)
+[2017.11.18-21.38.19:932][119]LogSavePackage: Save=579.77ms
+[2017.11.18-21.38.19:932][119]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto4BF004CC14FC391C9EE8FE491A1EABF10.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto4.umap'
+[2017.11.18-21.38.19:937][119]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto4.umap
+[2017.11.18-21.38.19:940][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.619
+[2017.11.18-21.38.19:940][119]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.619
+[2017.11.18-21.38.19:952][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/level1_BuiltData] ([1] browsable assets)...
+[2017.11.18-21.38.19:952][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/level1_BuiltData]
+[2017.11.18-21.38.20:032][119]LogSavePackage: Save=69.60ms
+[2017.11.18-21.38.20:032][119]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData_Auto4EB058E9D4E911910F7257192B9732A11.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_BuiltData_Auto4.uasset'
+[2017.11.18-21.38.20:035][119]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_BuiltData_Auto4.uasset
+[2017.11.18-21.38.20:035][119]LogFileHelpers: Auto-saving content packages took 0.089
