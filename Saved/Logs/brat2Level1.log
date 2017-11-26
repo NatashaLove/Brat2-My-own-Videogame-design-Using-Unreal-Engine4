@@ -1464,3 +1464,149 @@ LogInit: Object subsystem initialized
 [2017.11.26-17.47.40:264][458]LogSavePackage: Save=883.30ms
 [2017.11.26-17.47.40:264][458]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataDBAA70DE49A15306A1E32CB01FF08141.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
 [2017.11.26-17.47.40:268][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.26-23.04.51:469][143]LogHttp: Warning: 000001EC10A62800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.26-23.04.51:469][143]LogHttp: Warning: 000001EC10A62800: libcurl info message cache 0 (Connection 154 seems to be dead!)
+[2017.11.26-23.04.51:469][143]LogHttp: Warning: 000001EC10A62800: libcurl info message cache 1 (Closing connection 154)
+[2017.11.26-23.04.51:469][143]LogHttp: Warning: 000001EC10A62800: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.11.26-23.04.51:469][143]LogHttp: Warning: 000001EC10A62800: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.26-23.04.51:469][143]LogHttp: Warning: 000001EC10A62800: libcurl info message cache 4 (Closing connection 155)
+[2017.11.26-23.16.05:854][149]LogHttp: Warning: 000001EC10A62800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.26-23.16.05:854][149]LogHttp: Warning: 000001EC10A62800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.26-23.16.05:854][149]LogHttp: Warning: 000001EC10A62800: libcurl info message cache 1 (Closing connection 156)
+[2017.11.26-23.16.42:889][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.17.15:101][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.17.35:580][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x303)
+[2017.11.26-23.17.38:615][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.17.57:543][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x330)
+[2017.11.26-23.17.59:899][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x330)
+[2017.11.26-23.18.05:901][408]LogHttp: Warning: 000001EC04853A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.26-23.18.05:901][408]LogHttp: Warning: 000001EC04853A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.26-23.18.05:901][408]LogHttp: Warning: 000001EC04853A00: libcurl info message cache 1 (Closing connection 157)
+[2017.11.26-23.18.06:947][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x332)
+[2017.11.26-23.18.09:108][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x332)
+[2017.11.26-23.18.40:104][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x308)
+[2017.11.26-23.18.41:176][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x327)
+[2017.11.26-23.19.04:915][886]Cmd: DUPLICATE
+[2017.11.26-23.19.04:915][886]Cmd: ACTOR DUPLICATE
+[2017.11.26-23.20.05:921][439]LogHttp: Warning: 000001EC1DCA9780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.26-23.20.05:921][439]LogHttp: Warning: 000001EC1DCA9780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.26-23.20.05:921][439]LogHttp: Warning: 000001EC1DCA9780: libcurl info message cache 1 (Closing connection 158)
+[2017.11.26-23.20.43:631][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.20.44:738][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.20.48:251][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.20.49:164][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.20.52:812][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.20.54:432][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.21.09:730][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.21.11:984][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.21.24:588][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.21.25:437][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x365)
+[2017.11.26-23.21.26:609][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.22.01:815][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.22.02:795][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.22.04:449][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.22.05:956][459]LogHttp: Warning: 000001EBCA9D7280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.26-23.22.05:956][459]LogHttp: Warning: 000001EBCA9D7280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.26-23.22.05:956][459]LogHttp: Warning: 000001EBCA9D7280: libcurl info message cache 1 (Closing connection 159)
+[2017.11.26-23.22.52:948][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.23.19:240][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.23.20:280][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.23.59:356][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.26-23.24.00:603][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.24.37:995][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.24.42:147][454]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.26-23.24.43:082][501]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.26-23.24.45:761][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.24.55:092][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.24.57:244][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.24.59:232][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.24.59:773][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.25.11:315][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.25.13:855][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.25.24:662][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.25.59:087][786]Cmd: DUPLICATE
+[2017.11.26-23.25.59:087][786]Cmd: ACTOR DUPLICATE
+[2017.11.26-23.26.05:572][141]Cmd: DUPLICATE
+[2017.11.26-23.26.05:572][141]Cmd: ACTOR DUPLICATE
+[2017.11.26-23.26.08:380][278]Cmd: DUPLICATE
+[2017.11.26-23.26.08:381][278]Cmd: ACTOR DUPLICATE
+[2017.11.26-23.26.28:880][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x364)
+[2017.11.26-23.26.36:226][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x363)
+[2017.11.26-23.26.38:838][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x302)
+[2017.11.26-23.26.45:711][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x362)
+[2017.11.26-23.26.58:384][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.27.04:126][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.27.13:432][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.27.34:570][100]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush44)
+[2017.11.26-23.28.05:210][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.28.14:859][406]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.28.15:898][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.28.59:885][957]LogSavePackage: Save=918.06ms
+[2017.11.26-23.28.59:885][957]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto2E6ECE58E4EC45BAB2219D9AC57B0FE4D.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto2.umap'
+[2017.11.26-23.28.59:889][957]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto2.umap
+[2017.11.26-23.28.59:892][957]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 1.108
+[2017.11.26-23.28.59:892][957]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.108
+[2017.11.26-23.30.26:842][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.30.55:613][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.31.00:158][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.31.07:662][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.31.38:725][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.31.39:589][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x420)
+[2017.11.26-23.31.41:104][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.32.15:469][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.32.21:997][691]Cmd: TRANSACTION UNDO
+[2017.11.26-23.32.21:998][691]LogEditorTransaction: Undo Select Brush Surface
+[2017.11.26-23.32.23:877][795]Cmd: TRANSACTION UNDO
+[2017.11.26-23.32.23:877][795]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.26-23.32.25:522][891]Cmd: TRANSACTION UNDO
+[2017.11.26-23.32.25:522][891]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.26-23.32.27:391][997]Cmd: TRANSACTION UNDO
+[2017.11.26-23.32.27:391][997]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.26-23.32.29:521][122]Cmd: TRANSACTION UNDO
+[2017.11.26-23.32.29:522][122]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.26-23.32.31:352][226]Cmd: TRANSACTION UNDO
+[2017.11.26-23.32.31:352][226]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.26-23.32.33:418][342]Cmd: TRANSACTION UNDO
+[2017.11.26-23.32.33:418][342]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.26-23.32.35:980][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.32.37:330][553]Cmd: DELETE
+[2017.11.26-23.32.37:330][553]Cmd: ACTOR DELETE
+[2017.11.26-23.32.37:400][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.26-23.32.37:404][553]LogEditorActor: Deleted Actor: Brush
+[2017.11.26-23.32.37:405][553]LogEditorActor: Deleted Actor: Brush
+[2017.11.26-23.32.37:513][553]LogEditorActor: Deleted 3 Actors (0.182 secs)
+[2017.11.26-23.32.40:893][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.32.42:236][821]Cmd: DUPLICATE
+[2017.11.26-23.32.42:236][821]Cmd: ACTOR DUPLICATE
+[2017.11.26-23.32.48:188][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.32.50:687][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.32.56:049][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.33.02:748][943]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.26-23.33.03:760][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.26-23.33.17:094][744]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.33.23:163][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.33.30:887][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.33.35:849][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.26-23.33.47:130][448]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.33.53:000][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.34.01:345][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.34.54:701][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.34.56:783][429]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.35.01:471][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.35.04:022][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.35.06:413][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.35.10:873][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.35.17:258][555]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x418)
+[2017.11.26-23.35.18:442][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.26-23.36.05:042][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.26-23.36.06:081][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.26-23.36.07:018][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x420)
+[2017.11.26-23.36.17:897][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x420)
+[2017.11.26-23.36.55:790][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.26-23.36.56:958][134]LogSavePackage: Save=1123.17ms
+[2017.11.26-23.36.56:958][134]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level19289CAE8483DE6D4676FA5806342DADF.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.26-23.36.56:964][134]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.26-23.36.57:009][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.26-23.36.58:109][134]LogSavePackage: Save=909.94ms
+[2017.11.26-23.36.58:109][134]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataBF22A877453B9911C753B8BF2DE1B69F.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.26-23.36.58:113][134]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
