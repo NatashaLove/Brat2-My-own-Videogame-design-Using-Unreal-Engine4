@@ -5607,3 +5607,1005 @@ LogInit: Object subsystem initialized
 [2017.11.27-21.24.15:846][573]LogSavePackage: Save=808.91ms
 [2017.11.27-21.24.15:846][573]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData5C98EF2C47F511DB26FE289002F2FC96.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
 [2017.11.27-21.24.15:851][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.27-21.30.05:502][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x324)
+[2017.11.27-21.30.14:260][220]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x326)
+[2017.11.27-21.30.18:624][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x326)
+[2017.11.27-21.30.29:594][113]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x326)
+[2017.11.27-21.30.30:290][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x326)
+[2017.11.27-21.30.55:074][611]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2017.11.27-21.31.23:078][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.27-21.31.24:107][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2017.11.27-21.31.24:462][331]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2017.11.27-21.31.28:732][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.27-21.31.30:221][665]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2017.11.27-21.31.44:639][512]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2017.11.27-21.32.11:199][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x329)
+[2017.11.27-21.33.03:474][107]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2017.11.27-21.33.18:088][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x331)
+[2017.11.27-21.33.20:461][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x311)
+[2017.11.27-21.34.08:189][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-21.34.08:829][910]LogSavePackage: Save=610.76ms
+[2017.11.27-21.34.08:829][910]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1D145644D40059F21FA55B4B6025C56BA.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.27-21.34.08:835][910]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.27-21.34.08:867][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.27-21.34.09:677][910]LogSavePackage: Save=790.47ms
+[2017.11.27-21.34.09:677][910]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData7E01EEA04A1BE6D0ED67C081E7AC6AF9.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.27-21.34.09:681][910]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.27-21.34.11:539][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-21.34.11:551][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-21.34.11:554][ 15]PIE: New page: PIE session: level1 (Nov 27, 2017, 9:34:11 AM)
+[2017.11.27-21.34.11:554][ 15]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.27-21.34.11:615][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061466s)
+[2017.11.27-21.34.11:616][ 15]LogAIModule: Creating AISystem for world level1
+[2017.11.27-21.34.11:617][ 15]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2017.11.27-21.34.11:617][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.063292s)
+[2017.11.27-21.34.11:630][ 15]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.27-21.34.11:641][ 15]LogInit: FAudioDevice initialized.
+[2017.11.27-21.34.11:674][ 15]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-21.34.11:681][ 15]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.27-15.34.11
+[2017.11.27-21.34.11:681][ 15]LogWorld: Bringing up level for play took: 0.006377
+[2017.11.27-21.34.11:683][ 15]PIE: Play in editor start time for /Game/UEDPIE_0_level1 1.042
+[2017.11.27-21.41.10:721][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x373)
+[2017.11.27-21.41.19:177][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x374)
+[2017.11.27-21.41.40:005][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x304)
+[2017.11.27-21.41.43:884][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x376)
+[2017.11.27-21.41.53:705][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.27-21.41.59:429][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.27-21.42.01:564][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x333)
+[2017.11.27-21.42.06:601][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.27-21.42.10:932][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x381)
+[2017.11.27-21.42.26:430][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.27-21.42.27:617][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x309)
+[2017.11.27-21.42.28:254][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x407)
+[2017.11.27-21.42.47:060][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x381)
+[2017.11.27-21.42.57:775][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x374)
+[2017.11.27-21.43.22:734][837]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2017.11.27-21.43.49:413][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2017.11.27-21.44.53:332][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.27-21.44.56:742][427]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight18)
+[2017.11.27-21.45.02:614][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x360)
+[2017.11.27-21.45.09:403][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x341)
+[2017.11.27-21.45.28:482][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x368)
+[2017.11.27-21.45.44:255][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x344)
+[2017.11.27-21.46.03:736][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x340)
+[2017.11.27-21.46.23:871][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x311)
+[2017.11.27-21.46.25:225][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x367)
+[2017.11.27-21.46.27:945][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.46.46:529][875]Cmd: POLY SELECT ADJACENT COPLANARS
+[2017.11.27-21.46.57:891][549]Cmd: POLY SELECT ADJACENT SLANTS
+[2017.11.27-21.47.03:490][884]Cmd: POLY SELECT ADJACENT WALLS
+[2017.11.27-21.47.18:693][781]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.27-21.47.54:292][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.48.19:689][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.48.27:659][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.49.08:801][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.49.25:451][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.49.32:908][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.49.35:310][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.49.41:837][ 83]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.49.51:837][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.49.52:454][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x412)
+[2017.11.27-21.49.58:200][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.49.58:480][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.50.36:516][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.51.30:377][394]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.27-21.51.54:586][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.53.52:630][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.54.17:898][199]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.54.18:842][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.54.36:952][322]Cmd: POLY SELECT ADJACENT SLANTS
+[2017.11.27-21.54.47:104][928]Cmd: POLY SELECT MATCHING BRUSH
+[2017.11.27-21.54.54:610][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.55.03:889][915]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.27-21.55.10:503][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.27-21.55.28:937][386]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.55.44:681][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x411)
+[2017.11.27-21.56.16:475][152]Cmd: TRANSACTION UNDO
+[2017.11.27-21.56.16:475][152]LogEditorTransaction: Undo Scale Actors
+[2017.11.27-21.56.16:487][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush3_6.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:487][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:487][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:488][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:488][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:488][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:488][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.GroupActor_47.GroupComponent) Component already registered.
+[2017.11.27-21.56.16:497][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.LinearStairBrush4.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:497][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:498][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:498][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush56_74.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:498][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:499][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2017.11.27-21.56.16:499][152]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush38_44.BrushComponent0) Component already registered.
+[2017.11.27-21.56.20:539][392]Cmd: TRANSACTION UNDO
+[2017.11.27-21.56.20:539][392]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.27-21.56.29:840][938]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-21.56.34:489][209]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x411)
+[2017.11.27-21.56.38:364][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x411)
+[2017.11.27-21.56.45:930][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-21.56.57:602][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.56.59:416][599]Cmd: DUPLICATE
+[2017.11.27-21.56.59:416][599]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.57.01:023][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x417)
+[2017.11.27-21.57.27:653][252]Cmd: DELETE
+[2017.11.27-21.57.27:653][252]Cmd: ACTOR DELETE
+[2017.11.27-21.57.27:677][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.27-21.57.27:714][252]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2017.11.27-21.57.34:737][660]Cmd: DUPLICATE
+[2017.11.27-21.57.34:737][660]Cmd: ACTOR DUPLICATE
+[2017.11.27-21.58.24:393][552]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x411)
+[2017.11.27-21.58.25:162][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.27-21.58.35:260][179]Cmd: TRANSACTION UNDO
+[2017.11.27-21.58.35:260][179]LogEditorTransaction: Undo Move Actors
+[2017.11.27-21.58.35:272][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:273][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:273][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:273][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:273][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:273][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.GroupActor_45.GroupComponent) Component already registered.
+[2017.11.27-21.58.35:281][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:282][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.LinearStairBrush5.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:282][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush53_67.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:282][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:283][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:283][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:283][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:283][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:283][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:284][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2017.11.27-21.58.35:284][179]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush37_43.BrushComponent0) Component already registered.
+[2017.11.27-21.58.52:939][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.27-21.59.59:937][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-22.00.04:994][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x411)
+[2017.11.27-22.01.51:690][613]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.27-22.02.27:622][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.27-22.02.35:780][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-22.03.56:098][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x411)
+[2017.11.27-22.03.58:487][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x411)
+[2017.11.27-22.04.14:689][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.27-22.04.51:371][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.27-22.04.55:022][261]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x410)
+[2017.11.27-22.04.55:712][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.27-22.04.56:357][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-22.05.05:327][859]Cmd: DUPLICATE
+[2017.11.27-22.05.05:327][859]Cmd: ACTOR DUPLICATE
+[2017.11.27-22.06.02:805][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x411)
+[2017.11.27-22.06.35:412][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-22.06.36:591][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.27-22.06.55:581][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x313)
+[2017.11.27-22.07.13:927][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x312)
+[2017.11.27-22.07.15:716][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x312)
+[2017.11.27-22.07.18:099][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x313)
+[2017.11.27-22.07.24:295][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x313)
+[2017.11.27-22.07.25:423][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x313)
+[2017.11.27-22.07.27:548][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.27-22.07.28:769][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x391)
+[2017.11.27-22.07.46:371][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x313)
+[2017.11.27-22.08.04:966][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x313)
+[2017.11.27-22.08.05:597][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x313)
+[2017.11.27-22.08.16:582][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x385)
+[2017.11.27-22.08.27:944][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x377)
+[2017.11.27-22.08.28:335][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x377)
+[2017.11.27-22.09.16:575][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.27-22.09.17:175][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x377)
+[2017.11.27-22.09.41:241][ 15]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2017.11.27-22.09.51:667][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x377)
+[2017.11.27-22.10.01:482][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x415)
+[2017.11.27-22.10.19:726][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x414)
+[2017.11.27-22.10.28:927][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x362)
+[2017.11.27-22.10.36:969][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x362)
+[2017.11.27-22.10.43:253][631]LogMaterial: Missing cached shader map for material T_Fire_SubUV_Mat, compiling. 
+[2017.11.27-22.10.56:275][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x361)
+[2017.11.27-22.10.57:692][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x326)
+[2017.11.27-22.10.58:313][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x360)
+[2017.11.27-22.11.00:558][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x361)
+[2017.11.27-22.11.03:203][791]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x300)
+[2017.11.27-22.11.35:553][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-22.11.36:247][685]LogSavePackage: Save=640.56ms
+[2017.11.27-22.11.36:247][685]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level156E913534F2D378F6CA9FEA1C2B1CA81.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.27-22.11.36:254][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.27-22.11.36:290][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.27-22.11.37:113][685]LogSavePackage: Save=799.13ms
+[2017.11.27-22.11.37:113][685]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData4B4BEDAF452AB89D9AF3B3882B6BA0E1.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.27-22.11.37:117][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.27-22.11.51:210][498]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x331)
+[2017.11.27-22.11.51:962][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x331)
+[2017.11.27-22.11.53:131][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x331)
+[2017.11.27-22.11.53:553][626]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2017.11.27-22.12.37:309][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x424)
+[2017.11.27-22.12.40:901][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x306)
+[2017.11.27-22.12.41:834][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.27-22.12.45:930][693]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x300)
+[2017.11.27-22.12.46:596][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x324)
+[2017.11.27-22.12.53:352][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x307)
+[2017.11.27-22.12.54:969][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x324)
+[2017.11.27-22.13.02:815][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x324)
+[2017.11.27-22.13.12:284][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x326)
+[2017.11.27-22.13.14:762][368]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight22)
+[2017.11.27-22.13.25:137][972]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight23)
+[2017.11.27-22.14.00:355][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-22.14.00:966][ 43]LogSavePackage: Save=593.15ms
+[2017.11.27-22.14.00:966][ 43]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1AE97DAB34F4194808A174289A7A8B0B3.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.27-22.14.00:980][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.27-22.14.01:017][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.27-22.14.01:823][ 43]LogSavePackage: Save=800.90ms
+[2017.11.27-22.14.01:823][ 43]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData317CC5BB47760A7EB1750C93A36E645C.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.27-22.14.01:828][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.27-22.24.00:521][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.011
+[2017.11.27-22.24.00:524][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:538][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat.T_Rock_Smooth_Granite_Mat]
+[2017.11.27-22.24.00:538][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat]
+[2017.11.27-22.24.00:555][927]LogSavePackage: Save=13.94ms
+[2017.11.27-22.24.00:555][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Rock_Smooth_Granite_Mat_Auto593EA4DE74C137022EF0FA388D52E2F0E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:557][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat_Auto5.uasset
+[2017.11.27-22.24.00:558][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Slate_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:571][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Slate_Mat.T_Rock_Slate_Mat]
+[2017.11.27-22.24.00:571][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Slate_Mat]
+[2017.11.27-22.24.00:587][927]LogSavePackage: Save=13.86ms
+[2017.11.27-22.24.00:587][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Rock_Slate_Mat_Auto5980607B04C6488C8B31ACD8A6156A91F.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:589][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto5.uasset
+[2017.11.27-22.24.00:591][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Smoke_Tiled_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:603][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Smoke_Tiled_Mat.T_Smoke_Tiled_Mat]
+[2017.11.27-22.24.00:603][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Smoke_Tiled_Mat]
+[2017.11.27-22.24.00:617][927]LogSavePackage: Save=11.84ms
+[2017.11.27-22.24.00:617][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Smoke_Tiled_Mat_Auto5DE0F76FA42FBD5AB640862AB9261D6F7.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Smoke_Tiled_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:621][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Smoke_Tiled_Mat_Auto5.uasset
+[2017.11.27-22.24.00:622][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:635][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat.T_Concrete_Tiles_M_Mat]
+[2017.11.27-22.24.00:635][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat]
+[2017.11.27-22.24.00:650][927]LogSavePackage: Save=12.01ms
+[2017.11.27-22.24.00:650][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Concrete_Tiles_M_Mat_Auto528F3ADDB4A22857101C088AE1EA8C065.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:653][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_M_Mat_Auto5.uasset
+[2017.11.27-22.24.00:655][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Perlin_Noise_M_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:667][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Perlin_Noise_M_Mat.T_Perlin_Noise_M_Mat]
+[2017.11.27-22.24.00:667][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Perlin_Noise_M_Mat]
+[2017.11.27-22.24.00:684][927]LogSavePackage: Save=14.41ms
+[2017.11.27-22.24.00:684][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Perlin_Noise_M_Mat_Auto51EE7AE8749A0705FE475DC9B04A9C772.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Perlin_Noise_M_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:686][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Perlin_Noise_M_Mat_Auto5.uasset
+[2017.11.27-22.24.00:687][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Basalt_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:700][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Basalt_Mat.T_Rock_Basalt_Mat]
+[2017.11.27-22.24.00:700][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Basalt_Mat]
+[2017.11.27-22.24.00:716][927]LogSavePackage: Save=14.14ms
+[2017.11.27-22.24.00:716][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Rock_Basalt_Mat_Auto5E90AF82D490A96B28B6325987EC1B924.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Basalt_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:718][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Basalt_Mat_Auto5.uasset
+[2017.11.27-22.24.00:720][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:732][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat.T_Rock_Marble_Polished_Mat]
+[2017.11.27-22.24.00:732][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat]
+[2017.11.27-22.24.00:747][927]LogSavePackage: Save=12.06ms
+[2017.11.27-22.24.00:747][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Rock_Marble_Polished_Mat_Auto536F83F734C2CD840831B5E85A49CCA11.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:750][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Marble_Polished_Mat_Auto5.uasset
+[2017.11.27-22.24.00:751][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Single_Tile_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:761][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Single_Tile_Mat.T_Single_Tile_Mat]
+[2017.11.27-22.24.00:761][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Single_Tile_Mat]
+[2017.11.27-22.24.00:774][927]LogSavePackage: Save=11.19ms
+[2017.11.27-22.24.00:774][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Single_Tile_Mat_Auto5BA5E982D496AD8B2F6AE2186FEAF2C6E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Single_Tile_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:777][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Single_Tile_Mat_Auto5.uasset
+[2017.11.27-22.24.00:778][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_TableRound_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:789][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_TableRound_Mat.T_TableRound_Mat]
+[2017.11.27-22.24.00:789][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_TableRound_Mat]
+[2017.11.27-22.24.00:802][927]LogSavePackage: Save=10.80ms
+[2017.11.27-22.24.00:802][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_TableRound_Mat_Auto5A826B1524441B9E60479349E86EC4617.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_TableRound_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:805][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_TableRound_Mat_Auto5.uasset
+[2017.11.27-22.24.00:807][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Statue_M_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:818][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Statue_M_Mat.T_Statue_M_Mat]
+[2017.11.27-22.24.00:818][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Statue_M_Mat]
+[2017.11.27-22.24.00:832][927]LogSavePackage: Save=11.66ms
+[2017.11.27-22.24.00:832][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Statue_M_Mat_Auto53DDAA1E94E2277E5F86956B897727B4E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Statue_M_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:834][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Statue_M_Mat_Auto5.uasset
+[2017.11.27-22.24.00:835][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:847][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat.T_Tech_Hex_Tile_M_Mat]
+[2017.11.27-22.24.00:848][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat]
+[2017.11.27-22.24.00:862][927]LogSavePackage: Save=12.58ms
+[2017.11.27-22.24.00:862][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Tech_Hex_Tile_M_Mat_Auto5C597DAF34407CCCEABCDAE92C8EBBB6C.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:865][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat_Auto5.uasset
+[2017.11.27-22.24.00:866][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Water_M_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:878][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Water_M_Mat.T_Water_M_Mat]
+[2017.11.27-22.24.00:878][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Water_M_Mat]
+[2017.11.27-22.24.00:892][927]LogSavePackage: Save=12.03ms
+[2017.11.27-22.24.00:892][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Water_M_Mat_Auto52FEB1AB442396779A2AEBDB38950611A.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Water_M_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:894][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Water_M_Mat_Auto5.uasset
+[2017.11.27-22.24.00:896][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Water_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:906][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Water_Mat.T_Water_Mat]
+[2017.11.27-22.24.00:907][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Water_Mat]
+[2017.11.27-22.24.00:920][927]LogSavePackage: Save=11.35ms
+[2017.11.27-22.24.00:920][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Water_Mat_Auto5CFAFE14F4D5A1C6E091DFDAB67F072D9.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Water_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:922][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Water_Mat_Auto5.uasset
+[2017.11.27-22.24.00:923][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Lamp_M_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:935][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Lamp_M_Mat.T_Lamp_M_Mat]
+[2017.11.27-22.24.00:935][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Lamp_M_Mat]
+[2017.11.27-22.24.00:950][927]LogSavePackage: Save=12.08ms
+[2017.11.27-22.24.00:950][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Lamp_M_Mat_Auto5E7F6999E42F689D2E170FCA4656D81BE.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Lamp_M_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:952][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Lamp_M_Mat_Auto5.uasset
+[2017.11.27-22.24.00:954][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_MacroVariation_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:966][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_MacroVariation_Mat.T_MacroVariation_Mat]
+[2017.11.27-22.24.00:966][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_MacroVariation_Mat]
+[2017.11.27-22.24.00:982][927]LogSavePackage: Save=13.68ms
+[2017.11.27-22.24.00:982][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_MacroVariation_Mat_Auto5567ADBB848668126289E8FAE7C4CEC7D.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_MacroVariation_Mat_Auto5.uasset'
+[2017.11.27-22.24.00:984][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_MacroVariation_Mat_Auto5.uasset
+[2017.11.27-22.24.00:985][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Lamp_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.00:996][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Lamp_Mat.T_Lamp_Mat]
+[2017.11.27-22.24.00:996][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Lamp_Mat]
+[2017.11.27-22.24.01:011][927]LogSavePackage: Save=12.67ms
+[2017.11.27-22.24.01:011][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Lamp_Mat_Auto53F41B7A842A004F904B13EBAF755A7CC.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Lamp_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:014][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Lamp_Mat_Auto5.uasset
+[2017.11.27-22.24.01:016][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Metal_Copper_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:027][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Metal_Copper_Mat.T_Metal_Copper_Mat]
+[2017.11.27-22.24.01:027][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Metal_Copper_Mat]
+[2017.11.27-22.24.01:041][927]LogSavePackage: Save=12.33ms
+[2017.11.27-22.24.01:041][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Metal_Copper_Mat_Auto521992E5340ED2E311367DD948347C0C5.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Copper_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:043][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Copper_Mat_Auto5.uasset
+[2017.11.27-22.24.01:045][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Ground_Gravel_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:056][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Ground_Gravel_Mat.T_Ground_Gravel_Mat]
+[2017.11.27-22.24.01:056][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Ground_Gravel_Mat]
+[2017.11.27-22.24.01:071][927]LogSavePackage: Save=13.51ms
+[2017.11.27-22.24.01:072][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Ground_Gravel_Mat_Auto5AC3F88084A6A643EECBDD782A1311AB3.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Ground_Gravel_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:074][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Ground_Gravel_Mat_Auto5.uasset
+[2017.11.27-22.24.01:075][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Metal_Steel_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:087][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Metal_Steel_Mat.T_Metal_Steel_Mat]
+[2017.11.27-22.24.01:087][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Metal_Steel_Mat]
+[2017.11.27-22.24.01:103][927]LogSavePackage: Save=14.04ms
+[2017.11.27-22.24.01:103][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Metal_Steel_Mat_Auto530CA51414800CAC9AA2295B6D199F2BB.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Steel_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:105][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Steel_Mat_Auto5.uasset
+[2017.11.27-22.24.01:107][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Shelf_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:117][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Shelf_Mat.T_Shelf_Mat]
+[2017.11.27-22.24.01:117][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Shelf_Mat]
+[2017.11.27-22.24.01:131][927]LogSavePackage: Save=11.14ms
+[2017.11.27-22.24.01:131][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Shelf_Mat_Auto5CFA7A31946DE9EEF895BE795C06CE6D9.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Shelf_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:133][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Shelf_Mat_Auto5.uasset
+[2017.11.27-22.24.01:134][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Oak_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:145][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat]
+[2017.11.27-22.24.01:145][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Oak_Mat]
+[2017.11.27-22.24.01:162][927]LogSavePackage: Save=13.16ms
+[2017.11.27-22.24.01:162][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Wood_Oak_Mat_Auto5D9E8FA4F40A83D3CB91E739F5185DBBB.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Oak_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:164][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Oak_Mat_Auto5.uasset
+[2017.11.27-22.24.01:165][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Tiles_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:177][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Tiles_Mat.T_Concrete_Tiles_Mat]
+[2017.11.27-22.24.01:177][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Tiles_Mat]
+[2017.11.27-22.24.01:193][927]LogSavePackage: Save=13.14ms
+[2017.11.27-22.24.01:193][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Concrete_Tiles_Mat_Auto58A0AABA84FDA2EB932BBE0AE31285DE9.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:195][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_Mat_Auto5.uasset
+[2017.11.27-22.24.01:196][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Metal_Rust_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:208][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat]
+[2017.11.27-22.24.01:208][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Metal_Rust_Mat]
+[2017.11.27-22.24.01:223][927]LogSavePackage: Save=13.61ms
+[2017.11.27-22.24.01:223][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Metal_Rust_Mat_Auto59044102A4FE8CF78A8EA2B83DE48D422.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Rust_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:226][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Rust_Mat_Auto5.uasset
+[2017.11.27-22.24.01:227][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Tech_Panel_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:238][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Tech_Panel_Mat.T_Tech_Panel_Mat]
+[2017.11.27-22.24.01:238][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Tech_Panel_Mat]
+[2017.11.27-22.24.01:251][927]LogSavePackage: Save=11.21ms
+[2017.11.27-22.24.01:251][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Tech_Panel_Mat_Auto5492E8C114E4FCD77430F5FA52886C68D.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Tech_Panel_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:254][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Tech_Panel_Mat_Auto5.uasset
+[2017.11.27-22.24.01:255][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Spark_Core_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:266][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Spark_Core_Mat.T_Spark_Core_Mat]
+[2017.11.27-22.24.01:266][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Spark_Core_Mat]
+[2017.11.27-22.24.01:281][927]LogSavePackage: Save=12.74ms
+[2017.11.27-22.24.01:281][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Spark_Core_Mat_Auto51B490628410C3339FBABE1BC6B783536.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Spark_Core_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:284][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Spark_Core_Mat_Auto5.uasset
+[2017.11.27-22.24.01:285][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Smoke_SubUV_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:297][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Smoke_SubUV_Mat.T_Smoke_SubUV_Mat]
+[2017.11.27-22.24.01:297][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Smoke_SubUV_Mat]
+[2017.11.27-22.24.01:311][927]LogSavePackage: Save=11.68ms
+[2017.11.27-22.24.01:311][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Smoke_SubUV_Mat_Auto52E75B3D74D593B951CAFE39AAB9E0A0C.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Smoke_SubUV_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:313][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Smoke_SubUV_Mat_Auto5.uasset
+[2017.11.27-22.24.01:315][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Fire_SubUV_Mat] ([1] browsable assets)...
+[2017.11.27-22.24.01:326][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Fire_SubUV_Mat.T_Fire_SubUV_Mat]
+[2017.11.27-22.24.01:326][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Fire_SubUV_Mat]
+[2017.11.27-22.24.01:340][927]LogSavePackage: Save=11.94ms
+[2017.11.27-22.24.01:340][927]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Fire_SubUV_Mat_Auto52E662D4A49252114F6DDE484E9E9C578.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Fire_SubUV_Mat_Auto5.uasset'
+[2017.11.27-22.24.01:342][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Fire_SubUV_Mat_Auto5.uasset
+[2017.11.27-22.24.01:342][927]LogFileHelpers: Auto-saving content packages took 0.820
+[2017.11.27-22.56.47:809][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x307)
+[2017.11.27-22.58.06:602][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2017.11.27-22.58.10:026][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x425)
+[2017.11.27-22.59.19:042][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x362)
+[2017.11.27-22.59.31:042][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x425)
+[2017.11.27-22.59.50:113][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-22.59.50:694][634]LogSavePackage: Save=560.25ms
+[2017.11.27-22.59.50:694][634]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level19184231C4672A1CF8043CBB893804CEF.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.27-22.59.50:700][634]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.27-22.59.50:732][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.27-22.59.51:547][634]LogSavePackage: Save=794.40ms
+[2017.11.27-22.59.51:547][634]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataB09FD6C94C75121D012FD78772569454.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.27-22.59.51:550][634]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.28-02.52.17:670][ 10]LogHttp: Warning: 000001EC8288AB00: request failed, libcurl error: 0 (No error)
+[2017.11.28-02.52.17:670][ 10]LogHttp: Warning: 000001EC8288AB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ebcb2f8598 [can pipeline])
+[2017.11.28-02.52.17:670][ 10]LogHttp: Warning: 000001EC8288AB00: libcurl info message cache 1 (Re-using existing connection! (#352) with host datarouter.ol.epicgames.com)
+[2017.11.28-02.52.17:670][ 10]LogHttp: Warning: 000001EC8288AB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.158.153) port 443 (#352))
+[2017.11.28-02.52.17:670][ 10]LogHttp: Warning: 000001EC8288AB00: libcurl info message cache 3 (Closing connection 352)
+[2017.11.28-03.30.20:450][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x418)
+[2017.11.28-03.30.27:124][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.28-03.31.16:683][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x304)
+[2017.11.28-03.32.13:152][948]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-03.32.50:561][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.28-03.33.05:093][997]Cmd: POLY SELECT ADJACENT WALLS
+[2017.11.28-03.33.07:878][162]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-03.33.15:600][615]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-03.34.25:202][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x381)
+[2017.11.28-03.34.26:392][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x308)
+[2017.11.28-03.34.31:667][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x308)
+[2017.11.28-03.36.22:678][719]LogActorFactory: Actor Factory created SM_CornerFrame
+[2017.11.28-03.36.24:875][850]LogActorFactory: Actor Factory created SM_CornerFrame
+[2017.11.28-03.36.28:323][ 54]LogActorFactory: Actor Factory created SM_CornerFrame
+[2017.11.28-03.36.29:436][120]LogActorFactory: Actor Factory created SM_CornerFrame
+[2017.11.28-03.37.06:882][338]Cmd: DELETE
+[2017.11.28-03.37.06:882][338]Cmd: ACTOR DELETE
+[2017.11.28-03.37.06:891][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-03.37.06:901][338]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.11.28-03.37.09:726][496]LogActorFactory: Actor Factory created SM_Chair
+[2017.11.28-03.37.10:828][560]LogActorFactory: Actor Factory created SM_Chair
+[2017.11.28-03.37.26:796][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.11.28-03.37.35:638][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.11.28-03.37.42:740][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.11.28-03.37.46:203][642]Cmd: DUPLICATE
+[2017.11.28-03.37.46:203][642]Cmd: ACTOR DUPLICATE
+[2017.11.28-03.38.04:540][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.11.28-03.38.31:660][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2017.11.28-03.38.45:059][111]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-03.38.47:462][252]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-03.39.15:156][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-03.39.15:769][834]LogSavePackage: Save=575.68ms
+[2017.11.28-03.39.15:769][834]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level18FA8751046CCB061F9145CA69FEC8EE9.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.28-03.39.15:775][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.28-03.39.15:814][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.28-03.39.16:775][834]LogSavePackage: Save=831.93ms
+[2017.11.28-03.39.16:775][834]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataED973B324746B533028FB6B6A314F6CE.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.28-03.39.16:778][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.28-03.40.07:579][876]LogActorFactory: Actor Factory created Cube
+[2017.11.28-03.40.09:869][ 10]LogActorFactory: Actor Factory created Cube
+[2017.11.28-03.40.25:365][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-03.41.03:335][171]LogMaterial: Missing cached shader map for material M_Shelf, compiling. 
+[2017.11.28-03.41.33:600][953]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-03.41.35:608][ 72]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-03.42.40:838][932]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2017.11.28-03.43.10:189][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-03.43.10:774][654]LogSavePackage: Save=568.87ms
+[2017.11.28-03.43.10:774][654]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1C7C97AC84838B1F727ADB285195BB2C2.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.28-03.43.10:780][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.28-03.43.10:800][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.28-03.43.11:611][654]LogSavePackage: Save=805.44ms
+[2017.11.28-03.43.11:611][654]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData1BEFEA9648F476E716261EA8766396F0.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.28-03.43.11:615][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.28-03.43.12:302][690]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-03.43.12:313][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-03.43.12:313][690]PIE: New page: PIE session: level1 (Nov 27, 2017, 3:43:12 PM)
+[2017.11.28-03.43.12:314][690]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.28-03.43.12:372][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058441s)
+[2017.11.28-03.43.12:373][690]LogAIModule: Creating AISystem for world level1
+[2017.11.28-03.43.12:373][690]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2017.11.28-03.43.12:374][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.059649s)
+[2017.11.28-03.43.12:385][690]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-03.43.12:397][690]LogInit: FAudioDevice initialized.
+[2017.11.28-03.43.12:430][690]LogLoad: Game class is 'GameModeBase'
+[2017.11.28-03.43.12:437][690]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.27-21.43.12
+[2017.11.28-03.43.12:437][690]LogWorld: Bringing up level for play took: 0.006396
+[2017.11.28-03.43.12:439][690]PIE: Play in editor start time for /Game/UEDPIE_0_level1 -0.163
+[2017.11.28-03.44.11:986][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame)
+[2017.11.28-03.44.13:111][301]Cmd: DELETE
+[2017.11.28-03.44.13:112][301]Cmd: ACTOR DELETE
+[2017.11.28-03.44.13:120][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-03.44.13:129][301]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.11.28-03.44.19:056][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x385)
+[2017.11.28-03.44.32:490][415]LogActorFactory: Actor Factory created SM_Couch
+[2017.11.28-03.44.33:348][465]LogActorFactory: Actor Factory created SM_Couch
+[2017.11.28-03.45.40:871][483]LogActorFactory: Actor Factory created SM_WindowFrame
+[2017.11.28-03.45.42:116][557]LogActorFactory: Actor Factory created SM_WindowFrame
+[2017.11.28-03.46.03:070][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2017.11.28-03.46.22:728][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.28-03.46.23:466][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x421)
+[2017.11.28-03.46.29:989][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2017.11.28-03.46.52:919][752]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-03.46.53:833][803]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-03.46.55:550][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2017.11.28-03.47.11:375][807]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-03.47.12:457][870]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-03.47.18:584][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue)
+[2017.11.28-03.47.22:861][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x385)
+[2017.11.28-03.47.24:261][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue)
+[2017.11.28-03.48.17:648][677]LogMaterial: Missing cached shader map for material M_Bush, compiling. 
+[2017.11.28-03.48.23:619][ 28]LogMaterial: Missing cached shader map for material M_MaterialSphere_Plain, compiling. 
+[2017.11.28-03.48.38:608][909]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2017.11.28-03.48.38:771][915]LogActorFactory: Actor Factory created SM_Door
+[2017.11.28-03.48.40:329][  3]LogActorFactory: Actor Factory created SM_Door
+[2017.11.28-03.49.42:870][715]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-03.49.42:882][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-03.49.42:882][715]PIE: New page: PIE session: level1 (Nov 27, 2017, 3:49:42 PM)
+[2017.11.28-03.49.42:882][715]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.28-03.49.42:918][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035747s)
+[2017.11.28-03.49.42:919][715]LogAIModule: Creating AISystem for world level1
+[2017.11.28-03.49.42:919][715]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2017.11.28-03.49.42:920][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.037194s)
+[2017.11.28-03.49.42:931][715]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-03.49.42:942][715]LogInit: FAudioDevice initialized.
+[2017.11.28-03.49.42:973][715]LogLoad: Game class is 'GameModeBase'
+[2017.11.28-03.49.42:980][715]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.27-21.49.42
+[2017.11.28-03.49.42:981][715]LogWorld: Bringing up level for play took: 0.006399
+[2017.11.28-03.49.42:982][715]PIE: Play in editor start time for /Game/UEDPIE_0_level1 0.379
+[2017.11.28-03.50.53:949][920]LogActorFactory: Actor Factory created SM_GlassWindow
+[2017.11.28-03.50.56:438][ 68]LogActorFactory: Actor Factory created SM_GlassWindow
+[2017.11.28-03.51.12:907][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.28-03.51.31:237][118]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-03.51.33:291][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow)
+[2017.11.28-03.51.35:586][371]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WindowFrame)
+[2017.11.28-03.51.38:309][531]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_GlassWindow)
+[2017.11.28-03.51.42:593][784]Cmd: DUPLICATE
+[2017.11.28-03.51.42:593][784]Cmd: ACTOR DUPLICATE
+[2017.11.28-03.51.54:407][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2017.11.28-03.51.55:065][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2017.11.28-03.52.06:676][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x421)
+[2017.11.28-03.52.18:720][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2017.11.28-03.52.20:130][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame2)
+[2017.11.28-03.52.53:869][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-03.53.54:993][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-03.53.55:614][611]LogSavePackage: Save=599.95ms
+[2017.11.28-03.53.55:614][611]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level11797C6BE4543A658374B10AAF21BC0DB.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.28-03.53.55:620][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.28-03.53.55:654][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.28-03.53.56:477][611]LogSavePackage: Save=805.45ms
+[2017.11.28-03.53.56:477][611]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataF0E6102C49364DD6E6984298A508F2AB.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.28-03.53.56:481][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.28-03.54.09:910][371]LogActorFactory: Actor Factory created SM_Shelf
+[2017.11.28-03.54.11:191][446]LogActorFactory: Actor Factory created SM_Shelf
+[2017.11.28-03.54.59:629][290]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2017.11.28-03.55.01:921][424]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2017.11.28-03.55.13:681][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-03.55.16:634][296]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.11.28-03.55.25:524][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-03.55.33:786][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling)
+[2017.11.28-03.55.52:143][388]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.11.28-03.56.18:732][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-03.56.19:858][ 11]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.11.28-03.56.21:502][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-03.56.55:494][ 53]LogMaterial: Missing cached shader map for material M_MaterialSphere, compiling. 
+[2017.11.28-03.56.56:434][105]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2017.11.28-03.56.57:654][175]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2017.11.28-03.57.02:549][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-03.57.04:144][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MatPreviewMesh_02)
+[2017.11.28-03.57.24:940][763]LogActorFactory: Actor Factory created MaterialSphere
+[2017.11.28-03.57.25:769][812]LogActorFactory: Actor Factory created MaterialSphere
+[2017.11.28-03.57.26:960][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-03.57.27:796][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2017.11.28-04.00.20:175][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2017.11.28-04.00.35:085][748]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2017.11.28-04.00.35:086][748]PIE: Warning: PIE failed because map save was canceled
+[2017.11.28-04.01.06:501][578]LogActorFactory: Actor Factory created SM_WindowFrame
+[2017.11.28-04.01.09:319][746]LogActorFactory: Actor Factory created SM_WindowFrame
+[2017.11.28-04.01.10:891][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-04.01.11:822][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame3)
+[2017.11.28-04.01.33:284][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x309)
+[2017.11.28-04.01.37:581][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame3)
+[2017.11.28-04.03.22:115][567]LogActorFactory: Actor Factory created SM_GlassWindow
+[2017.11.28-04.03.24:042][682]LogActorFactory: Actor Factory created SM_GlassWindow
+[2017.11.28-04.04.14:470][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame3)
+[2017.11.28-04.04.33:675][807]LogActorFactory: Actor Factory created SM_Chair
+[2017.11.28-04.04.35:091][890]LogActorFactory: Actor Factory created SM_Chair
+[2017.11.28-04.05.26:326][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair3)
+[2017.11.28-04.05.45:429][ 35]Cmd: DUPLICATE
+[2017.11.28-04.05.45:429][ 35]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.06.01:897][  6]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-04.06.04:891][184]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-04.06.24:114][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair3)
+[2017.11.28-04.06.26:643][451]Cmd: DUPLICATE
+[2017.11.28-04.06.26:643][451]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.06.27:156][480]Cmd: DUPLICATE
+[2017.11.28-04.06.27:157][480]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.06.52:661][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair5)
+[2017.11.28-04.07.37:082][590]Cmd: DUPLICATE
+[2017.11.28-04.07.37:082][590]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.07.52:802][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair7)
+[2017.11.28-04.08.11:504][579]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.08.15:129][795]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.08.39:168][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2017.11.28-04.08.47:953][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2017.11.28-04.09.02:604][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-04.09.03:679][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2017.11.28-04.09.18:128][530]Cmd: DUPLICATE
+[2017.11.28-04.09.18:128][530]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.09.49:759][413]Cmd: DUPLICATE
+[2017.11.28-04.09.49:759][413]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.09.50:590][461]Cmd: DUPLICATE
+[2017.11.28-04.09.50:590][461]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.09.59:080][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere4)
+[2017.11.28-04.10.19:733][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2017.11.28-04.10.27:674][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere4)
+[2017.11.28-04.10.31:942][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2017.11.28-04.10.33:067][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2017.11.28-04.10.35:615][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere5)
+[2017.11.28-04.10.39:600][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2017.11.28-04.10.41:178][427]Cmd: DUPLICATE
+[2017.11.28-04.10.41:178][427]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.10.50:620][964]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2017.11.28-04.10.51:502][ 13]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.10.53:816][148]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.10.59:506][481]Cmd: DELETE
+[2017.11.28-04.10.59:506][481]Cmd: ACTOR DELETE
+[2017.11.28-04.10.59:515][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.10.59:524][481]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.28-04.11.05:847][859]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.11.07:508][957]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.11.48:343][361]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2017.11.28-04.11.50:281][476]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2017.11.28-04.12.43:727][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Wall)
+[2017.11.28-04.12.46:065][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x393)
+[2017.11.28-04.12.51:488][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Wall)
+[2017.11.28-04.13.20:150][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x393)
+[2017.11.28-04.13.21:565][845]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2017.11.28-04.13.24:818][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x393)
+[2017.11.28-04.13.40:792][964]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2017.11.28-04.13.52:272][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x393)
+[2017.11.28-04.14.05:606][142]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2017.11.28-04.14.05:606][142]PIE: Warning: PIE failed because map save was canceled
+[2017.11.28-04.14.11:959][515]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-04.14.11:972][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-04.14.11:972][515]PIE: New page: PIE session: level1 (Nov 27, 2017, 4:14:11 PM)
+[2017.11.28-04.14.11:972][515]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.28-04.14.12:010][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037814s)
+[2017.11.28-04.14.12:010][515]LogAIModule: Creating AISystem for world level1
+[2017.11.28-04.14.12:011][515]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2017.11.28-04.14.12:011][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.039134s)
+[2017.11.28-04.14.12:022][515]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-04.14.12:033][515]LogInit: FAudioDevice initialized.
+[2017.11.28-04.14.12:067][515]LogLoad: Game class is 'GameModeBase'
+[2017.11.28-04.14.12:074][515]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.27-22.14.12
+[2017.11.28-04.14.12:074][515]LogWorld: Bringing up level for play took: 0.006571
+[2017.11.28-04.14.12:075][515]PIE: Play in editor start time for /Game/UEDPIE_0_level1 -0.528
+[2017.11.28-04.14.58:362][283]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2017.11.28-04.15.10:408][997]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2017.11.28-04.15.30:229][137]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-04.15.35:876][474]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-04.15.37:500][568]Cmd: DELETE
+[2017.11.28-04.15.37:500][568]Cmd: ACTOR DELETE
+[2017.11.28-04.15.37:510][568]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.15.37:520][568]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.11.28-04.16.29:936][599]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-04.16.32:856][773]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-04.16.40:438][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x389)
+[2017.11.28-04.16.41:245][268]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x389)
+[2017.11.28-04.16.42:255][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x389)
+[2017.11.28-04.17.03:561][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2017.11.28-04.17.15:185][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x389)
+[2017.11.28-04.17.16:057][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2017.11.28-04.17.16:660][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2017.11.28-04.17.17:357][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2017.11.28-04.17.25:284][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x389)
+[2017.11.28-04.17.25:984][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x389)
+[2017.11.28-04.17.27:470][934]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2017.11.28-04.18.04:113][ 92]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-04.18.05:433][170]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-04.18.13:027][623]Cmd: DELETE
+[2017.11.28-04.18.13:027][623]Cmd: ACTOR DELETE
+[2017.11.28-04.18.13:038][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.18.13:047][623]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.11.28-04.18.19:485][  3]Cmd: DELETE
+[2017.11.28-04.18.19:485][  3]Cmd: ACTOR DELETE
+[2017.11.28-04.18.19:495][  3]LogEditorActor: Deleted Actor: Pawn
+[2017.11.28-04.18.19:504][  3]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.11.28-04.18.41:493][322]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.18.44:977][530]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.19.27:367][ 31]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.19.29:259][142]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.19.30:335][204]Cmd: DELETE
+[2017.11.28-04.19.30:335][204]Cmd: ACTOR DELETE
+[2017.11.28-04.19.30:345][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.19.30:354][204]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.28-04.19.31:462][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere7)
+[2017.11.28-04.19.35:353][499]Cmd: DUPLICATE
+[2017.11.28-04.19.35:353][499]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.19.36:150][545]Cmd: DUPLICATE
+[2017.11.28-04.19.36:150][545]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.19.36:646][573]Cmd: DUPLICATE
+[2017.11.28-04.19.36:646][573]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.19.40:740][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere9)
+[2017.11.28-04.19.43:961][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere8)
+[2017.11.28-04.20.30:363][673]Cmd: DELETE
+[2017.11.28-04.20.30:363][673]Cmd: ACTOR DELETE
+[2017.11.28-04.20.30:372][673]LogEditorActor: Deleted Actor: TriggerBox
+[2017.11.28-04.20.30:381][673]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.28-04.20.35:895][985]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.20.36:489][ 19]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.21.22:072][614]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.25:738][832]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.30:123][ 82]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.31:045][135]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.32:426][213]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.34:042][308]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.35:777][408]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.37:740][524]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.39:514][626]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.41:193][725]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.42:776][816]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.44:139][896]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.21.51:215][302]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.11.28-04.21.52:477][374]Cmd: DELETE
+[2017.11.28-04.21.52:477][374]Cmd: ACTOR DELETE
+[2017.11.28-04.21.52:489][374]LogEditorActor: Deleted Actor: SkyLight
+[2017.11.28-04.21.52:499][374]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.11.28-04.22.00:975][835]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-04.22.02:184][906]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-04.22.59:989][323]LogActorFactory: Actor Factory created SM_WindowFrame
+[2017.11.28-04.23.03:183][510]LogActorFactory: Actor Factory created SM_WindowFrame
+[2017.11.28-04.23.38:162][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.23.45:000][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame4)
+[2017.11.28-04.23.58:901][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.24.00:229][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.24.01:102][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.24.02:043][951]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.24.02:884][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.24.06:992][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.24.29:018][503]LogActorFactory: Actor Factory created Cube
+[2017.11.28-04.24.32:571][715]LogActorFactory: Actor Factory created Cube
+[2017.11.28-04.24.34:094][805]LogActorFactory: Actor Factory created Cube
+[2017.11.28-04.24.45:908][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.24.46:763][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.28-04.25.54:414][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.28-04.25.55:688][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.28-04.26.29:135][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame4)
+[2017.11.28-04.26.33:525][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.28-04.26.44:246][335]LogActorFactory: Actor Factory created SM_GlassWindow
+[2017.11.28-04.26.46:250][454]LogActorFactory: Actor Factory created SM_GlassWindow
+[2017.11.28-04.28.33:623][752]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2017.11.28-04.28.46:431][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.28-04.28.55:768][ 32]LogActorFactory: Actor Factory created MaterialSphere
+[2017.11.28-04.28.57:379][127]LogActorFactory: Actor Factory created MaterialSphere
+[2017.11.28-04.29.14:272][133]Cmd: DELETE
+[2017.11.28-04.29.14:272][133]Cmd: ACTOR DELETE
+[2017.11.28-04.29.14:282][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.29.14:292][133]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.28-04.29.58:680][611]LogActorFactory: Actor Factory created SM_Chair
+[2017.11.28-04.29.59:866][681]LogActorFactory: Actor Factory created SM_Chair
+[2017.11.28-04.30.06:524][ 74]Cmd: DELETE
+[2017.11.28-04.30.06:524][ 74]Cmd: ACTOR DELETE
+[2017.11.28-04.30.06:533][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.30.06:610][ 74]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2017.11.28-04.30.18:235][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair7)
+[2017.11.28-04.30.20:291][860]Cmd: DUPLICATE
+[2017.11.28-04.30.20:291][860]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.31.24:095][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-04.31.44:590][759]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-04.31.45:938][839]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-04.32.03:374][855]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.32.04:514][922]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.33.19:460][238]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.33.20:740][314]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.33.38:397][344]LogActorFactory: Actor Factory created SM_Couch
+[2017.11.28-04.33.39:979][438]LogActorFactory: Actor Factory created SM_Couch
+[2017.11.28-04.34.43:779][189]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.34.46:940][377]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.34.48:500][467]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.34.50:263][570]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.35.03:810][330]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2017.11.28-04.35.07:565][554]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2017.11.28-04.35.11:704][798]Cmd: DELETE
+[2017.11.28-04.35.11:704][798]Cmd: ACTOR DELETE
+[2017.11.28-04.35.11:714][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.35.11:724][798]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.11.28-04.35.22:106][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch2)
+[2017.11.28-04.35.24:442][530]Cmd: DUPLICATE
+[2017.11.28-04.35.24:442][530]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.36.20:239][768]LogActorFactory: Actor Factory created SM_CornerFrame
+[2017.11.28-04.36.21:584][847]LogActorFactory: Actor Factory created SM_CornerFrame
+[2017.11.28-04.36.34:341][576]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.36.36:305][692]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.36.55:405][783]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.36.55:898][811]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.36.57:165][883]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.36.58:327][951]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.36.59:295][  5]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.37.00:623][ 83]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.37.02:424][187]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.37.03:449][247]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.37.03:858][270]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.37.16:763][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2017.11.28-04.37.27:762][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2017.11.28-04.37.31:904][911]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.37.33:926][ 30]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-04.37.43:014][555]LogActorFactory: Actor Factory created Cone
+[2017.11.28-04.37.44:277][629]LogActorFactory: Actor Factory created Cone
+[2017.11.28-04.37.50:591][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock9)
+[2017.11.28-04.37.55:797][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.11.28-04.39.39:626][360]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.39.43:882][614]LogActorFactory: Actor Factory created Sphere
+[2017.11.28-04.40.43:444][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair8)
+[2017.11.28-04.40.45:398][ 90]Cmd: DUPLICATE
+[2017.11.28-04.40.45:398][ 90]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.41.29:420][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair9)
+[2017.11.28-04.41.30:142][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair9)
+[2017.11.28-04.41.32:665][847]Cmd: DUPLICATE
+[2017.11.28-04.41.32:665][847]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.41.32:844][856]Cmd: DUPLICATE
+[2017.11.28-04.41.32:844][856]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.41.32:988][863]Cmd: DUPLICATE
+[2017.11.28-04.41.32:988][863]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.41.40:484][310]Cmd: DELETE
+[2017.11.28-04.41.40:484][310]Cmd: ACTOR DELETE
+[2017.11.28-04.41.40:494][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.41.40:505][310]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.11.28-04.41.41:443][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair11)
+[2017.11.28-04.41.52:205][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair10)
+[2017.11.28-04.41.57:574][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair10)
+[2017.11.28-04.41.59:854][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair9)
+[2017.11.28-04.42.04:885][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair10)
+[2017.11.28-04.42.43:874][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch2)
+[2017.11.28-04.42.48:301][199]Cmd: DUPLICATE
+[2017.11.28-04.42.48:301][199]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.44.08:835][762]LogActorFactory: Actor Factory created Plane
+[2017.11.28-04.44.10:633][868]LogActorFactory: Actor Factory created Plane
+[2017.11.28-04.44.11:648][926]Cmd: DELETE
+[2017.11.28-04.44.11:648][926]Cmd: ACTOR DELETE
+[2017.11.28-04.44.11:658][926]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.44.11:667][926]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.28-04.44.16:591][218]LogActorFactory: Actor Factory created Cube
+[2017.11.28-04.44.18:599][337]LogActorFactory: Actor Factory created Cube
+[2017.11.28-04.45.41:429][194]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2017.11.28-04.45.43:566][320]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2017.11.28-04.46.13:911][ 96]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2017.11.28-04.46.15:123][168]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2017.11.28-04.46.55:575][515]LogMaterial: Missing cached shader map for material T_Explosion_SubUV_Mat, compiling. 
+[2017.11.28-04.46.59:871][769]Cmd: DELETE
+[2017.11.28-04.46.59:871][769]Cmd: ACTOR DELETE
+[2017.11.28-04.46.59:882][769]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.46.59:892][769]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.11.28-04.47.05:647][111]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2017.11.28-04.47.06:433][157]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2017.11.28-04.50.03:246][504]LogSavePackage: Save=637.93ms
+[2017.11.28-04.50.03:246][504]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto65A5338B7490DC756D993E0BA05705688.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto6.umap'
+[2017.11.28-04.50.03:249][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto6.umap
+[2017.11.28-04.50.03:252][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.666
+[2017.11.28-04.50.03:252][504]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.666
+[2017.11.28-04.50.03:254][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Explosion_SubUV_Mat] ([1] browsable assets)...
+[2017.11.28-04.50.03:286][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Explosion_SubUV_Mat.T_Explosion_SubUV_Mat]
+[2017.11.28-04.50.03:286][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Explosion_SubUV_Mat]
+[2017.11.28-04.50.03:302][504]LogSavePackage: Save=13.29ms
+[2017.11.28-04.50.03:302][504]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Explosion_SubUV_Mat_Auto6FE0E4C5448F26919512A428B4C8009CE.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Explosion_SubUV_Mat_Auto6.uasset'
+[2017.11.28-04.50.03:304][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Explosion_SubUV_Mat_Auto6.uasset
+[2017.11.28-04.50.03:304][504]LogFileHelpers: Auto-saving content packages took 0.051
+[2017.11.28-04.51.02:735][ 14]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.51.04:135][ 97]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-04.51.05:343][167]Cmd: DELETE
+[2017.11.28-04.51.05:343][167]Cmd: ACTOR DELETE
+[2017.11.28-04.51.05:352][167]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.51.05:362][167]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.28-04.51.07:955][322]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2017.11.28-04.51.11:595][539]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2017.11.28-04.51.13:435][646]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2017.11.28-04.51.14:501][709]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2017.11.28-04.51.15:585][772]Cmd: DELETE
+[2017.11.28-04.51.15:585][772]Cmd: ACTOR DELETE
+[2017.11.28-04.51.15:595][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-04.51.15:604][772]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.28-04.51.27:933][494]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Chair10)
+[2017.11.28-04.51.29:946][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair10)
+[2017.11.28-04.51.32:043][733]Cmd: DUPLICATE
+[2017.11.28-04.51.32:043][733]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.52.23:593][727]Cmd: DUPLICATE
+[2017.11.28-04.52.23:593][727]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.52.25:473][838]Cmd: DUPLICATE
+[2017.11.28-04.52.25:473][838]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.52.25:903][862]Cmd: DUPLICATE
+[2017.11.28-04.52.25:903][862]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.52.29:980][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair14)
+[2017.11.28-04.52.32:427][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair13)
+[2017.11.28-04.52.36:042][451]Cmd: DUPLICATE
+[2017.11.28-04.52.36:042][451]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.52.41:703][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair12)
+[2017.11.28-04.52.43:472][886]Cmd: DUPLICATE
+[2017.11.28-04.52.43:472][886]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.52.44:018][917]Cmd: DUPLICATE
+[2017.11.28-04.52.44:018][917]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.52.44:781][961]Cmd: DUPLICATE
+[2017.11.28-04.52.44:781][961]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.52.52:650][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair18)
+[2017.11.28-04.52.56:906][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair17)
+[2017.11.28-04.53.10:772][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair14)
+[2017.11.28-04.53.11:488][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair15)
+[2017.11.28-04.53.12:853][569]Cmd: DUPLICATE
+[2017.11.28-04.53.12:853][569]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.13:534][608]Cmd: DUPLICATE
+[2017.11.28-04.53.13:534][608]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.14:245][649]Cmd: DUPLICATE
+[2017.11.28-04.53.14:245][649]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.19:652][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair14)
+[2017.11.28-04.53.20:306][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair21)
+[2017.11.28-04.53.24:218][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair20)
+[2017.11.28-04.53.28:577][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair14)
+[2017.11.28-04.53.30:265][583]Cmd: DUPLICATE
+[2017.11.28-04.53.30:265][583]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.30:716][608]Cmd: DUPLICATE
+[2017.11.28-04.53.30:716][608]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.31:361][645]Cmd: DUPLICATE
+[2017.11.28-04.53.31:361][645]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.41:486][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair24)
+[2017.11.28-04.53.45:486][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair23)
+[2017.11.28-04.53.53:127][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair13)
+[2017.11.28-04.53.54:415][979]Cmd: DUPLICATE
+[2017.11.28-04.53.54:415][979]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.54:814][  1]Cmd: DUPLICATE
+[2017.11.28-04.53.54:814][  1]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.55:226][ 24]Cmd: DUPLICATE
+[2017.11.28-04.53.55:226][ 24]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.53.58:422][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair27)
+[2017.11.28-04.54.00:971][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair26)
+[2017.11.28-04.54.12:574][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair16)
+[2017.11.28-04.54.14:583][148]Cmd: DUPLICATE
+[2017.11.28-04.54.14:583][148]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.54.15:166][181]Cmd: DUPLICATE
+[2017.11.28-04.54.15:166][181]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.54.15:545][202]Cmd: DUPLICATE
+[2017.11.28-04.54.15:545][202]Cmd: ACTOR DUPLICATE
+[2017.11.28-04.54.19:092][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair30)
+[2017.11.28-04.54.26:352][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair29)
+[2017.11.28-04.54.42:824][785]LogActorFactory: Actor Factory created Cube
+[2017.11.28-04.54.45:626][952]LogActorFactory: Actor Factory created Cube
+[2017.11.28-05.00.04:165][959]LogSavePackage: Save=671.39ms
+[2017.11.28-05.00.04:165][959]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto7A958CA254C040E682E58989B309F8BBA.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto7.umap'
+[2017.11.28-05.00.04:168][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto7.umap
+[2017.11.28-05.00.04:170][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.700
+[2017.11.28-05.00.04:170][959]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.700
+[2017.11.28-06.00.57:588][ 69]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x386)
+[2017.11.28-06.01.33:923][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock7)
+[2017.11.28-06.01.49:705][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.11.28-06.01.57:530][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2017.11.28-06.02.10:104][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock9)
+[2017.11.28-06.02.26:317][160]Cmd: TRANSACTION UNDO
+[2017.11.28-06.02.26:317][160]LogEditorTransaction: Undo Scale Actors
+[2017.11.28-06.02.28:248][275]Cmd: TRANSACTION UNDO
+[2017.11.28-06.02.28:248][275]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.28-06.02.30:218][391]Cmd: TRANSACTION UNDO
+[2017.11.28-06.02.30:218][391]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.28-06.02.32:633][534]Cmd: TRANSACTION UNDO
+[2017.11.28-06.02.32:633][534]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.28-06.02.34:048][617]Cmd: TRANSACTION UNDO
+[2017.11.28-06.02.34:048][617]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.28-06.02.56:986][980]Cmd: TRANSACTION UNDO
+[2017.11.28-06.02.56:986][980]LogEditorTransaction: Undo Edit Static Mesh
+[2017.11.28-06.03.04:266][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock9)
+[2017.11.28-06.03.21:068][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2017.11.28-06.03.27:359][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.11.28-06.03.52:188][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock7)
+[2017.11.28-06.04.00:880][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2017.11.28-06.04.10:691][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock8)
+[2017.11.28-06.04.23:008][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere12)
+[2017.11.28-06.04.40:917][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame)
+[2017.11.28-06.04.52:167][686]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bush8)
+[2017.11.28-06.04.53:455][758]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bush8)
+[2017.11.28-06.05.09:420][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere8)
+[2017.11.28-06.05.11:602][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2017.11.28-06.05.12:619][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2017.11.28-06.05.13:400][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2017.11.28-06.05.14:014][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound3)
+[2017.11.28-06.05.16:515][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere10)
+[2017.11.28-06.05.17:405][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x389)
+[2017.11.28-06.05.18:169][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x389)
+[2017.11.28-06.05.19:014][243]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2017.11.28-06.05.25:321][615]Cmd: DELETE
+[2017.11.28-06.05.25:321][615]Cmd: ACTOR DELETE
+[2017.11.28-06.05.25:331][615]LogEditorActor: Deleted Actor: Character
+[2017.11.28-06.05.25:342][615]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.11.28-06.05.29:132][842]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sphere8)
+[2017.11.28-06.05.31:796][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere8)
+[2017.11.28-06.06.15:937][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-06.06.16:875][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x309)
+[2017.11.28-06.07.27:664][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x339)
+[2017.11.28-06.07.55:424][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.07.57:930][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.07.59:656][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.00:231][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.01:446][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.04:542][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.07:948][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.11.28-06.08.08:967][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.10:274][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.14:645][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.15:489][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.15:564][388]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.28-06.08.17:134][480]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.28-06.08.17:194][481]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube)
+[2017.11.28-06.08.17:736][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-06.08.17:793][512]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.28-06.08.50:454][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-06.08.51:138][444]LogSavePackage: Save=662.17ms
+[2017.11.28-06.08.51:138][444]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level144FC18924251292C961883BD1F1F1C32.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.28-06.08.51:144][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.28-06.08.51:180][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.28-06.08.52:005][444]LogSavePackage: Save=801.35ms
+[2017.11.28-06.08.52:005][444]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData758C80A347173F878414E1AD14B2B4B2.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.28-06.08.52:008][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
