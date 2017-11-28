@@ -6985,3 +6985,658 @@ LogInit: Object subsystem initialized
 [2017.11.28-20.22.55:556][ 43]LogSavePackage: Save=820.22ms
 [2017.11.28-20.22.55:557][ 43]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData76E6D75844235AE3DC01108D7D259F9C.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
 [2017.11.28-20.22.55:560][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ebcb2fae48 [can pipeline])
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 1 (Re-using existing connection! (#457) with host datarouter.ol.epicgames.com)
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.81.108) port 443 (#457))
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 3 (upload completely sent off: 6631 out of 6631 bytes)
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 6 (Closing connection 457)
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF1FE6327-4DDD-47F6-922F-2D8FD49719D9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=dbfd4a98486fc8cbe43ff29adcadee7a%7Cf518cb834e1e4b2cadb312a0e26e4c62%7C5bbb7a1e-71a3-4bee-a77e-5dce45e5e632&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.28-20.40.12:224][559]LogHttp: Warning: 000001EBA2EA6B00: libcurl info message cache 9 (Closing connection 458)
+[2017.11.28-20.40.14:833][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2017.11.28-20.40.25:473][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame32)
+[2017.11.28-20.41.03:378][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.28-20.41.09:119][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-20.41.10:201][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.28-20.41.20:417][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.28-20.41.20:782][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-20.41.23:612][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame31)
+[2017.11.28-20.41.30:954][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x307)
+[2017.11.28-20.41.37:061][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame30)
+[2017.11.28-20.42.15:414][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame28)
+[2017.11.28-20.42.26:626][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x309)
+[2017.11.28-20.42.27:815][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame28)
+[2017.11.28-20.42.34:917][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame29)
+[2017.11.28-20.42.56:608][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame30)
+[2017.11.28-20.43.12:291][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame31)
+[2017.11.28-20.43.16:847][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow31)
+[2017.11.28-20.43.49:326][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x304)
+[2017.11.28-20.43.50:473][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x310)
+[2017.11.28-20.43.55:804][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow26)
+[2017.11.28-20.44.00:544][836]Cmd: DUPLICATE
+[2017.11.28-20.44.00:544][836]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.44.42:234][267]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Window_400x301)
+[2017.11.28-20.44.43:040][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2017.11.28-20.44.46:657][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow33)
+[2017.11.28-20.45.03:383][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2017.11.28-20.45.38:970][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame33)
+[2017.11.28-20.45.40:473][680]Cmd: DUPLICATE
+[2017.11.28-20.45.40:473][680]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.46.38:220][ 74]Cmd: DUPLICATE
+[2017.11.28-20.46.38:220][ 74]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.46.58:984][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.28-20.47.01:822][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame35)
+[2017.11.28-20.47.17:253][357]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-20.47.29:849][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame35)
+[2017.11.28-20.47.31:482][194]Cmd: DUPLICATE
+[2017.11.28-20.47.31:482][194]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.47.53:756][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.28-20.48.02:015][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame36)
+[2017.11.28-20.48.06:728][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x406)
+[2017.11.28-20.48.16:068][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame36)
+[2017.11.28-20.48.17:455][889]Cmd: DUPLICATE
+[2017.11.28-20.48.17:455][889]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.48.53:856][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x407)
+[2017.11.28-20.48.59:826][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x393)
+[2017.11.28-20.49.22:569][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x393)
+[2017.11.28-20.49.29:753][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x392)
+[2017.11.28-20.49.54:838][562]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-20.50.04:679][133]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-20.50.22:308][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow34)
+[2017.11.28-20.50.24:544][272]Cmd: DUPLICATE
+[2017.11.28-20.50.24:544][272]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.51.22:953][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame38)
+[2017.11.28-20.51.23:392][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2017.11.28-20.51.37:214][527]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-20.51.38:611][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame38)
+[2017.11.28-20.51.40:167][692]Cmd: DUPLICATE
+[2017.11.28-20.51.40:167][692]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.52.36:615][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2017.11.28-20.53.07:337][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame38)
+[2017.11.28-20.53.08:954][886]Cmd: DUPLICATE
+[2017.11.28-20.53.08:954][886]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.53.55:901][622]Cmd: DUPLICATE
+[2017.11.28-20.53.55:901][622]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.54.35:954][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame41)
+[2017.11.28-20.54.37:109][ 10]Cmd: DUPLICATE
+[2017.11.28-20.54.37:109][ 10]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.54.51:684][861]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x302)
+[2017.11.28-20.54.52:605][908]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x394)
+[2017.11.28-20.54.54:617][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x394)
+[2017.11.28-20.55.03:820][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x394)
+[2017.11.28-20.55.08:072][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x394)
+[2017.11.28-20.55.27:752][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.11.28-20.55.29:368][ 40]Cmd: DUPLICATE
+[2017.11.28-20.55.29:368][ 40]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.56.03:430][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2017.11.28-20.56.19:033][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2017.11.28-20.56.19:832][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2017.11.28-20.56.42:457][346]Cmd: DELETE
+[2017.11.28-20.56.42:457][346]Cmd: ACTOR DELETE
+[2017.11.28-20.56.42:472][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-20.56.42:489][346]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2017.11.28-20.56.47:023][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.11.28-20.56.49:453][758]Cmd: DUPLICATE
+[2017.11.28-20.56.49:453][758]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.57.53:762][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x335)
+[2017.11.28-20.58.11:041][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x336)
+[2017.11.28-20.58.12:173][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x335)
+[2017.11.28-20.58.22:968][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x385)
+[2017.11.28-20.58.33:836][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x372)
+[2017.11.28-20.58.51:491][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x385)
+[2017.11.28-20.59.34:970][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2017.11.28-20.59.36:343][504]Cmd: DUPLICATE
+[2017.11.28-20.59.36:344][504]Cmd: ACTOR DUPLICATE
+[2017.11.28-20.59.54:378][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x391)
+[2017.11.28-20.59.55:926][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door3)
+[2017.11.28-21.00.02:510][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x332)
+[2017.11.28-21.00.12:251][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door3)
+[2017.11.28-21.00.50:008][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x385)
+[2017.11.28-21.01.02:772][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x336)
+[2017.11.28-21.01.10:807][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x335)
+[2017.11.28-21.01.14:040][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2017.11.28-21.01.19:849][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.11.28-21.01.22:263][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x336)
+[2017.11.28-21.01.33:217][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door3)
+[2017.11.28-21.01.38:649][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door3)
+[2017.11.28-21.01.41:172][686]Cmd: DUPLICATE
+[2017.11.28-21.01.41:172][686]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.02.38:342][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door3)
+[2017.11.28-21.02.39:462][ 95]Cmd: DUPLICATE
+[2017.11.28-21.02.39:462][ 95]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.03.19:761][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x314)
+[2017.11.28-21.03.24:136][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door5)
+[2017.11.28-21.03.32:498][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x314)
+[2017.11.28-21.03.32:941][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-21.03.33:916][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-21.03.34:581][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x314)
+[2017.11.28-21.03.35:357][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door5)
+[2017.11.28-21.03.36:233][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door5)
+[2017.11.28-21.03.38:883][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x390)
+[2017.11.28-21.03.47:009][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x388)
+[2017.11.28-21.03.48:005][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x390)
+[2017.11.28-21.04.21:605][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door5)
+[2017.11.28-21.04.42:797][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door5)
+[2017.11.28-21.04.44:145][357]Cmd: DUPLICATE
+[2017.11.28-21.04.44:145][357]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.05.22:281][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door6)
+[2017.11.28-21.05.22:815][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x313)
+[2017.11.28-21.05.25:475][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door6)
+[2017.11.28-21.05.41:745][732]Cmd: DUPLICATE
+[2017.11.28-21.05.41:745][732]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.06.09:020][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-21.06.14:451][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door7)
+[2017.11.28-21.06.55:615][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door7)
+[2017.11.28-21.06.56:082][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door7)
+[2017.11.28-21.07.08:068][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door7)
+[2017.11.28-21.07.30:215][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door7)
+[2017.11.28-21.07.31:564][109]Cmd: DUPLICATE
+[2017.11.28-21.07.31:564][109]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.08.24:684][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x329)
+[2017.11.28-21.08.25:772][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door8)
+[2017.11.28-21.08.53:232][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x382)
+[2017.11.28-21.08.59:220][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x334)
+[2017.11.28-21.09.00:395][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door8)
+[2017.11.28-21.09.01:835][356]Cmd: DUPLICATE
+[2017.11.28-21.09.01:835][356]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.10.13:808][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x330)
+[2017.11.28-21.10.21:821][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door9)
+[2017.11.28-21.10.39:501][ 90]Cmd: DUPLICATE
+[2017.11.28-21.10.39:501][ 90]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.11.50:385][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-21.11.53:313][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2017.11.28-21.11.56:166][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-21.12.00:090][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2017.11.28-21.12.07:569][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2017.11.28-21.12.09:079][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-21.12.10:263][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2017.11.28-21.12.26:994][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-21.12.33:881][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door9)
+[2017.11.28-21.12.35:545][874]Cmd: DUPLICATE
+[2017.11.28-21.12.35:545][874]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.12.51:741][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.28-21.13.14:373][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door9)
+[2017.11.28-21.16.52:877][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x379)
+[2017.11.28-21.17.19:805][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.28-21.17.22:643][635]Cmd: DELETE
+[2017.11.28-21.17.22:643][635]Cmd: ACTOR DELETE
+[2017.11.28-21.17.22:655][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-21.17.22:665][635]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.11.28-21.17.31:052][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.28-21.17.43:961][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-21.17.47:334][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-21.18.07:597][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door11)
+[2017.11.28-21.18.09:069][330]Cmd: DUPLICATE
+[2017.11.28-21.18.09:069][330]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.18.16:621][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-21.18.18:479][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2017.11.28-21.18.24:675][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2017.11.28-21.19.09:990][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-21.19.38:009][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x415)
+[2017.11.28-21.20.31:192][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-21.20.50:736][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x377)
+[2017.11.28-21.21.05:618][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-21.21.57:999][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2017.11.28-21.21.59:341][788]Cmd: DUPLICATE
+[2017.11.28-21.21.59:341][788]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.22.49:635][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x304)
+[2017.11.28-21.22.50:597][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x304)
+[2017.11.28-21.22.58:177][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door13)
+[2017.11.28-21.23.10:950][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door13)
+[2017.11.28-21.23.13:444][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x304)
+[2017.11.28-21.23.13:823][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x304)
+[2017.11.28-21.23.14:480][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x375)
+[2017.11.28-21.23.31:230][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x374)
+[2017.11.28-21.23.36:829][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x374)
+[2017.11.28-21.23.42:191][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door13)
+[2017.11.28-21.23.46:524][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x376)
+[2017.11.28-21.23.51:921][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x376)
+[2017.11.28-21.24.08:812][316]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2017.11.28-21.24.13:677][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x379)
+[2017.11.28-21.24.22:504][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-21.24.38:069][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door13)
+[2017.11.28-21.24.40:147][137]Cmd: DUPLICATE
+[2017.11.28-21.24.40:147][137]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.25.01:059][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-21.25.07:448][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2017.11.28-21.25.14:359][137]Cmd: TRANSACTION UNDO
+[2017.11.28-21.25.14:359][137]LogEditorTransaction: Undo Move Actors
+[2017.11.28-21.25.19:061][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door14)
+[2017.11.28-21.25.25:449][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door14)
+[2017.11.28-21.25.49:525][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2017.11.28-21.26.17:258][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door8)
+[2017.11.28-21.27.01:604][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-21.27.03:477][495]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2017.11.28-21.27.14:328][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x382)
+[2017.11.28-21.27.17:343][297]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2017.11.28-21.27.27:457][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x382)
+[2017.11.28-21.27.41:224][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2017.11.28-21.27.54:497][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x372)
+[2017.11.28-21.28.03:686][978]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2017.11.28-21.28.21:899][ 35]Cmd: TRANSACTION UNDO
+[2017.11.28-21.28.21:899][ 35]LogEditorTransaction: Undo Move Actors
+[2017.11.28-21.28.35:614][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x372)
+[2017.11.28-21.29.31:608][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x403)
+[2017.11.28-21.29.40:653][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame42)
+[2017.11.28-21.30.01:673][849]Cmd: TRANSACTION UNDO
+[2017.11.28-21.30.01:673][849]LogEditorTransaction: Undo Move Actors
+[2017.11.28-21.30.01:687][849]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.11.28-21.30.01:687][849]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.11.28-21.30.01:687][849]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.28-21.30.01:697][849]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.11.28-21.30.01:697][849]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.LinearStairBrush7.BrushComponent0) Component already registered.
+[2017.11.28-21.30.01:697][849]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush56_74.BrushComponent0) Component already registered.
+[2017.11.28-21.30.01:700][849]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2017.11.28-21.30.01:700][849]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2017.11.28-21.31.07:775][672]Cmd: TRANSACTION UNDO
+[2017.11.28-21.31.07:775][672]LogEditorTransaction: Undo Scale Actors
+[2017.11.28-21.31.07:789][672]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.11.28-21.31.07:789][672]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.11.28-21.31.07:789][672]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.28-21.31.07:800][672]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.11.28-21.31.07:800][672]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.LinearStairBrush7.BrushComponent0) Component already registered.
+[2017.11.28-21.31.07:801][672]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush56_74.BrushComponent0) Component already registered.
+[2017.11.28-21.31.07:802][672]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2017.11.28-21.31.07:802][672]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2017.11.28-21.34.37:408][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x311)
+[2017.11.28-21.35.25:002][502]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x371)
+[2017.11.28-21.35.32:433][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x371)
+[2017.11.28-21.36.29:048][138]Cmd: TRANSACTION UNDO
+[2017.11.28-21.36.29:048][138]LogEditorTransaction: Undo Select Brush Surface
+[2017.11.28-21.36.30:905][245]Cmd: TRANSACTION UNDO
+[2017.11.28-21.36.30:905][245]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.28-21.36.33:912][424]Cmd: TRANSACTION UNDO
+[2017.11.28-21.36.33:912][424]LogEditorTransaction: Undo Move Actors
+[2017.11.28-21.36.37:613][644]Cmd: TRANSACTION UNDO
+[2017.11.28-21.36.37:613][644]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.28-21.36.47:399][213]Cmd: TRANSACTION UNDO
+[2017.11.28-21.36.47:399][213]LogEditorTransaction: Undo Scale Actors
+[2017.11.28-21.36.47:415][213]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2017.11.28-21.36.47:415][213]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2017.11.28-21.36.47:415][213]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.11.28-21.36.47:415][213]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2017.11.28-21.36.47:425][213]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.LinearStairBrush6.BrushComponent0) Component already registered.
+[2017.11.28-21.36.47:425][213]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush56_74.BrushComponent0) Component already registered.
+[2017.11.28-21.36.47:427][213]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2017.11.28-21.36.47:427][213]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2017.11.28-21.37.13:953][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-21.37.49:016][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x312)
+[2017.11.28-21.37.56:123][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x311)
+[2017.11.28-21.38.14:402][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow18)
+[2017.11.28-21.38.14:913][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.28-21.38.34:719][375]Cmd: TRANSACTION UNDO
+[2017.11.28-21.38.34:719][375]LogEditorTransaction: Undo Move Actors
+[2017.11.28-21.38.34:732][375]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.11.28-21.38.34:732][375]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.11.28-21.38.34:732][375]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.28-21.38.34:742][375]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.11.28-21.38.34:742][375]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.LinearStairBrush7.BrushComponent0) Component already registered.
+[2017.11.28-21.38.34:742][375]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush56_74.BrushComponent0) Component already registered.
+[2017.11.28-21.38.34:744][375]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2017.11.28-21.38.34:744][375]LogActorComponent: ~FComponentReregisterContext: (/Game/level1.level1:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2017.11.28-21.38.46:315][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x409)
+[2017.11.28-21.38.47:724][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.28-21.38.48:532][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x311)
+[2017.11.28-21.38.49:574][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x410)
+[2017.11.28-21.39.56:610][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow19)
+[2017.11.28-21.39.57:273][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow19)
+[2017.11.28-21.40.12:397][980]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush29)
+[2017.11.28-21.40.14:922][119]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush30)
+[2017.11.28-21.40.15:658][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow19)
+[2017.11.28-21.40.17:808][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow19)
+[2017.11.28-21.40.18:568][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow19)
+[2017.11.28-21.40.19:114][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow19)
+[2017.11.28-21.40.24:889][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x312)
+[2017.11.28-21.41.35:329][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x361)
+[2017.11.28-21.41.36:628][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x326)
+[2017.11.28-21.41.39:637][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2017.11.28-21.41.41:031][ 75]Cmd: DUPLICATE
+[2017.11.28-21.41.41:031][ 75]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.42.11:505][841]LogSavePackage: Save=807.31ms
+[2017.11.28-21.42.11:505][841]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto3E9325D824866B251CC4D7F8A289DAD6A.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto3.umap'
+[2017.11.28-21.42.11:508][841]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto3.umap
+[2017.11.28-21.42.11:511][841]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.864
+[2017.11.28-21.42.11:511][841]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.864
+[2017.11.28-21.44.41:231][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x326)
+[2017.11.28-21.44.41:885][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door14)
+[2017.11.28-21.44.51:663][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door15)
+[2017.11.28-21.45.10:311][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x326)
+[2017.11.28-21.45.15:351][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x326)
+[2017.11.28-21.45.15:916][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x361)
+[2017.11.28-21.45.17:811][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door15)
+[2017.11.28-21.45.18:966][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x361)
+[2017.11.28-21.45.24:344][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door14)
+[2017.11.28-21.46.27:194][937]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x367)
+[2017.11.28-21.46.30:253][111]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:258][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:259][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:260][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:261][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:262][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:263][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:265][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:265][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:265][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:268][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:286][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:293][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:294][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:315][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:315][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:315][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:315][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:327][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:328][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:328][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:328][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:329][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:349][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:349][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:349][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:349][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:349][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:349][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:349][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.30:354][111]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.28-21.46.44:906][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-21.46.58:734][689]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x301)
+[2017.11.28-21.47.01:544][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.28-21.48.13:770][  9]Cmd: DUPLICATE
+[2017.11.28-21.48.13:770][  9]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.48.52:706][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door16)
+[2017.11.28-21.48.58:739][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x366)
+[2017.11.28-21.49.07:931][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x303)
+[2017.11.28-21.49.08:896][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door16)
+[2017.11.28-21.49.19:552][811]Cmd: DUPLICATE
+[2017.11.28-21.49.19:552][811]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.50.22:075][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door17)
+[2017.11.28-21.50.23:213][532]Cmd: DUPLICATE
+[2017.11.28-21.50.23:213][532]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.51.38:365][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x327)
+[2017.11.28-21.51.39:495][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x342)
+[2017.11.28-21.52.06:520][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x367)
+[2017.11.28-21.52.14:785][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x327)
+[2017.11.28-21.52.23:337][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x367)
+[2017.11.28-21.52.55:107][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door18)
+[2017.11.28-21.53.00:561][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2017.11.28-21.53.18:366][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x405)
+[2017.11.28-21.53.20:841][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.28-21.53.22:201][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x307)
+[2017.11.28-21.53.24:067][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x369)
+[2017.11.28-21.53.50:419][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x368)
+[2017.11.28-21.53.55:347][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x368)
+[2017.11.28-21.54.02:793][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.28-21.54.13:510][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x369)
+[2017.11.28-21.54.28:354][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door15)
+[2017.11.28-21.54.30:161][799]Cmd: DUPLICATE
+[2017.11.28-21.54.30:161][799]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.55.32:061][406]LogSavePackage: Save=863.62ms
+[2017.11.28-21.55.32:061][406]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto417DA944F43D65DC8DF68C28397BFA2A2.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto4.umap'
+[2017.11.28-21.55.32:064][406]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto4.umap
+[2017.11.28-21.55.32:067][406]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.893
+[2017.11.28-21.55.32:067][406]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.893
+[2017.11.28-21.55.52:148][603]Cmd: DUPLICATE
+[2017.11.28-21.55.52:148][603]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.57.05:868][935]Cmd: DUPLICATE
+[2017.11.28-21.57.05:868][935]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.57.52:824][667]Cmd: DUPLICATE
+[2017.11.28-21.57.52:824][667]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.58.51:281][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door22)
+[2017.11.28-21.59.00:937][674]Cmd: DUPLICATE
+[2017.11.28-21.59.00:937][674]Cmd: ACTOR DUPLICATE
+[2017.11.28-21.59.23:816][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x327)
+[2017.11.28-21.59.28:033][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2017.11.28-21.59.30:448][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door23)
+[2017.11.28-22.00.11:921][770]Cmd: DUPLICATE
+[2017.11.28-22.00.11:922][770]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.00.41:421][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x404)
+[2017.11.28-22.00.43:364][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door24)
+[2017.11.28-22.00.55:030][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door24)
+[2017.11.28-22.01.03:648][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door24)
+[2017.11.28-22.01.16:421][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door24)
+[2017.11.28-22.01.17:553][586]Cmd: DUPLICATE
+[2017.11.28-22.01.17:553][586]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.01.29:376][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door25)
+[2017.11.28-22.01.52:877][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.28-22.01.53:383][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2017.11.28-22.01.58:720][957]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x303)
+[2017.11.28-22.01.59:489][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.28-22.03.24:802][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door25)
+[2017.11.28-22.03.25:998][  8]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Door_400x316)
+[2017.11.28-22.03.26:039][  8]Cmd: DUPLICATE
+[2017.11.28-22.03.26:039][  8]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.03.32:951][416]Cmd: DELETE
+[2017.11.28-22.03.32:951][416]Cmd: ACTOR DELETE
+[2017.11.28-22.03.32:965][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-22.03.32:966][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-22.03.32:975][416]LogEditorActor: Deleted 2 Actors (0.024 secs)
+[2017.11.28-22.03.34:423][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door25)
+[2017.11.28-22.03.35:910][587]Cmd: DUPLICATE
+[2017.11.28-22.03.35:910][587]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.04.01:139][ 61]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight20)
+[2017.11.28-22.04.27:030][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door25)
+[2017.11.28-22.04.27:898][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door26)
+[2017.11.28-22.04.29:619][710]Cmd: DUPLICATE
+[2017.11.28-22.04.29:619][710]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.04.50:305][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x341)
+[2017.11.28-22.04.51:764][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door27)
+[2017.11.28-22.05.14:687][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x397)
+[2017.11.28-22.05.16:748][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x361)
+[2017.11.28-22.05.18:556][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x326)
+[2017.11.28-22.06.35:034][ 63]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2017.11.28-22.06.40:338][379]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2017.11.28-22.06.41:915][460]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2017.11.28-22.06.46:389][727]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2017.11.28-22.06.48:905][875]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2017.11.28-22.06.53:778][166]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2017.11.28-22.07.08:781][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame300)
+[2017.11.28-22.07.15:511][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame301)
+[2017.11.28-22.07.21:755][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame302)
+[2017.11.28-22.07.34:667][579]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-22.07.35:359][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame301)
+[2017.11.28-22.07.54:825][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame300)
+[2017.11.28-22.07.58:002][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.07.58:574][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.08.02:846][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.11.28-22.08.04:181][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame302)
+[2017.11.28-22.08.16:121][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x321)
+[2017.11.28-22.08.21:897][310]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.11.28-22.08.24:536][467]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.11.28-22.09.14:917][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x321)
+[2017.11.28-22.09.28:065][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door27)
+[2017.11.28-22.09.29:285][286]Cmd: DUPLICATE
+[2017.11.28-22.09.29:285][286]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.09.45:174][209]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.09.45:862][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.09.51:054][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door28)
+[2017.11.28-22.09.57:749][940]Cmd: DUPLICATE
+[2017.11.28-22.09.57:749][940]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.10.42:557][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.10.58:074][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x323)
+[2017.11.28-22.10.58:827][490]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.28-22.11.04:195][805]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.28-22.11.07:739][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-22.11.12:447][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x307)
+[2017.11.28-22.11.14:026][374]Cmd: DUPLICATE
+[2017.11.28-22.11.14:026][374]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.11.17:381][569]Cmd: DUPLICATE
+[2017.11.28-22.11.17:381][569]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.11.20:476][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x317)
+[2017.11.28-22.11.35:143][611]Cmd: DELETE
+[2017.11.28-22.11.35:144][611]Cmd: ACTOR DELETE
+[2017.11.28-22.11.35:157][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-22.11.35:167][611]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.11.28-22.11.36:121][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x323)
+[2017.11.28-22.11.36:631][694]Cmd: DELETE
+[2017.11.28-22.11.36:631][694]Cmd: ACTOR DELETE
+[2017.11.28-22.11.36:643][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-22.11.36:653][694]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.11.28-22.11.39:028][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door29)
+[2017.11.28-22.11.40:325][906]Cmd: DUPLICATE
+[2017.11.28-22.11.40:325][906]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.12.06:097][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.12.07:030][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door28)
+[2017.11.28-22.12.28:779][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door28)
+[2017.11.28-22.12.29:826][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door28)
+[2017.11.28-22.12.40:135][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door30)
+[2017.11.28-22.13.39:525][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.13.40:635][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door30)
+[2017.11.28-22.13.58:529][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door30)
+[2017.11.28-22.14.29:391][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door28)
+[2017.11.28-22.14.30:533][893]Cmd: DUPLICATE
+[2017.11.28-22.14.30:533][893]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.15.19:651][756]Cmd: DUPLICATE
+[2017.11.28-22.15.19:651][756]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.15.58:689][ 26]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x330)
+[2017.11.28-22.16.00:177][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door32)
+[2017.11.28-22.16.08:883][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x309)
+[2017.11.28-22.16.12:938][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x328)
+[2017.11.28-22.16.13:766][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x309)
+[2017.11.28-22.16.38:374][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x309)
+[2017.11.28-22.16.44:497][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door32)
+[2017.11.28-22.17.14:898][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door32)
+[2017.11.28-22.17.17:687][640]Cmd: DUPLICATE
+[2017.11.28-22.17.17:687][640]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.18.13:223][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door32)
+[2017.11.28-22.18.14:106][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x309)
+[2017.11.28-22.18.57:367][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x309)
+[2017.11.28-22.19.11:867][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x330)
+[2017.11.28-22.19.18:532][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x309)
+[2017.11.28-22.19.56:902][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x308)
+[2017.11.28-22.20.01:667][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x309)
+[2017.11.28-22.20.15:630][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x310)
+[2017.11.28-22.20.20:582][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door32)
+[2017.11.28-22.20.21:537][397]Cmd: DUPLICATE
+[2017.11.28-22.20.21:537][397]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.21.46:926][373]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at -2789.89,-57.02,126.66
+[2017.11.28-22.21.47:644][412]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at -3559.52,-399.25,126.66
+[2017.11.28-22.22.38:745][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.22.39:921][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x333)
+[2017.11.28-22.22.41:802][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x333)
+[2017.11.28-22.22.42:471][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x333)
+[2017.11.28-22.22.42:992][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x333)
+[2017.11.28-22.22.43:594][730]LogEditorViewport: Clicking on Actor (LMB): ArchVisCharacter (ArchVisCharacter1)
+[2017.11.28-22.22.48:757][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2017.11.28-22.22.52:902][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-22.22.53:805][270]LogSavePackage: Save=882.64ms
+[2017.11.28-22.22.53:805][270]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level112BECE4D4A08899BCD5A0389DF7F8757.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.28-22.22.53:812][270]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.28-22.22.53:853][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.28-22.22.54:668][270]LogSavePackage: Save=792.78ms
+[2017.11.28-22.22.54:668][270]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData91D54A42414805356F6199B1A2324874.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.28-22.22.54:672][270]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
