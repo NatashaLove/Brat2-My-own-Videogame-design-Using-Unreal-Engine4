@@ -7640,3 +7640,451 @@ LogInit: Object subsystem initialized
 [2017.11.28-22.22.54:668][270]LogSavePackage: Save=792.78ms
 [2017.11.28-22.22.54:668][270]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData91D54A42414805356F6199B1A2324874.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
 [2017.11.28-22.22.54:672][270]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.28-22.25.39:171][ 36]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-22.25.39:184][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-22.25.39:184][ 36]PIE: New page: PIE session: level1 (Nov 28, 2017, 10:25:39 AM)
+[2017.11.28-22.25.39:184][ 36]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.11.28-22.25.39:247][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062652s)
+[2017.11.28-22.25.39:248][ 36]LogAIModule: Creating AISystem for world level1
+[2017.11.28-22.25.39:248][ 36]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2017.11.28-22.25.39:249][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.064555s)
+[2017.11.28-22.25.39:262][ 36]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-22.25.39:274][ 36]LogInit: FAudioDevice initialized.
+[2017.11.28-22.25.39:307][ 36]LogLoad: Game class is 'GameModeBase'
+[2017.11.28-22.25.39:320][ 36]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.11.28-16.25.39
+[2017.11.28-22.25.39:332][ 36]LogWorld: Bringing up level for play took: 0.022889
+[2017.11.28-22.25.39:335][ 36]PIE: Play in editor start time for /Game/UEDPIE_0_level1 1.1
+[2017.11.28-22.28.06:959][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-22.28.09:026][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x305)
+[2017.11.28-22.28.26:488][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.28-22.28.27:136][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x404)
+[2017.11.28-22.28.39:210][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.28-22.28.49:518][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x404)
+[2017.11.28-22.29.05:759][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.28-22.29.47:298][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x307)
+[2017.11.28-22.30.03:565][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x308)
+[2017.11.28-22.30.08:128][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x308)
+[2017.11.28-22.30.22:205][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x406)
+[2017.11.28-22.30.30:673][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x381)
+[2017.11.28-22.31.11:976][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.28-22.31.12:718][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x381)
+[2017.11.28-22.31.47:023][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x406)
+[2017.11.28-22.32.08:143][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x407)
+[2017.11.28-22.32.12:954][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x407)
+[2017.11.28-22.32.14:948][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x309)
+[2017.11.28-22.32.15:973][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x407)
+[2017.11.28-22.32.32:522][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame37)
+[2017.11.28-22.32.44:459][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow37)
+[2017.11.28-22.32.54:922][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x393)
+[2017.11.28-22.33.09:185][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x405)
+[2017.11.28-22.33.13:635][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x406)
+[2017.11.28-22.33.18:152][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.28-22.33.31:049][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame29)
+[2017.11.28-22.33.44:686][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-22.33.45:788][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x308)
+[2017.11.28-22.33.52:428][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2017.11.28-22.33.53:207][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x309)
+[2017.11.28-22.34.03:736][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x407)
+[2017.11.28-22.34.04:710][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x309)
+[2017.11.28-22.34.38:551][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame28)
+[2017.11.28-22.34.56:903][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame28)
+[2017.11.28-22.35.05:813][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x309)
+[2017.11.28-22.35.19:182][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x382)
+[2017.11.28-22.35.35:170][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.28-22.35.54:652][995]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x401)
+[2017.11.28-22.35.55:371][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2017.11.28-22.37.17:662][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x398)
+[2017.11.28-22.37.20:328][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-22.37.35:904][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x341)
+[2017.11.28-22.37.45:652][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x326)
+[2017.11.28-22.37.50:617][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-22.37.52:124][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x372)
+[2017.11.28-22.37.53:269][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x331)
+[2017.11.28-22.37.57:005][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2017.11.28-22.39.12:012][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair10)
+[2017.11.28-22.39.13:764][536]Cmd: DUPLICATE
+[2017.11.28-22.39.13:764][536]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.39.18:085][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound4)
+[2017.11.28-22.39.20:655][927]Cmd: DUPLICATE
+[2017.11.28-22.39.20:655][927]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.39.24:438][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.28-22.39.25:884][214]Cmd: DUPLICATE
+[2017.11.28-22.39.25:884][214]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.39.28:290][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.28-22.39.31:204][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.28-22.39.32:438][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.28-22.39.36:434][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.28-22.39.37:336][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.28-22.39.38:742][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.28-22.39.42:114][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch2)
+[2017.11.28-22.39.43:675][207]Cmd: DUPLICATE
+[2017.11.28-22.39.43:675][207]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.39.57:410][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue2)
+[2017.11.28-22.40.01:781][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-22.40.05:820][481]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere)
+[2017.11.28-22.40.08:961][664]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.11.28-22.40.18:954][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelf)
+[2017.11.28-22.40.20:482][338]Cmd: DUPLICATE
+[2017.11.28-22.40.20:482][338]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.40.55:346][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2017.11.28-22.40.56:842][456]Cmd: DUPLICATE
+[2017.11.28-22.40.56:842][456]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.41.11:397][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-22.41.15:783][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-22.42.23:400][522]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2017.11.28-22.42.44:670][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.28-22.42.50:031][ 58]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2017.11.28-22.42.58:767][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2017.11.28-22.43.33:667][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.28-22.43.59:732][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2017.11.28-22.44.01:227][135]Cmd: DUPLICATE
+[2017.11.28-22.44.01:227][135]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.44.04:806][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2017.11.28-22.44.05:868][402]Cmd: DUPLICATE
+[2017.11.28-22.44.05:868][402]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.44.07:589][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.11.28-22.44.08:401][543]Cmd: DUPLICATE
+[2017.11.28-22.44.08:401][543]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.44.10:705][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2017.11.28-22.44.11:851][739]Cmd: DUPLICATE
+[2017.11.28-22.44.11:851][739]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.44.33:299][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair34)
+[2017.11.28-22.44.53:839][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair34)
+[2017.11.28-22.45.20:576][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair33)
+[2017.11.28-22.45.34:384][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound6)
+[2017.11.28-22.46.02:103][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair33)
+[2017.11.28-22.46.13:173][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair34)
+[2017.11.28-22.46.21:534][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch6)
+[2017.11.28-22.46.30:356][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch6)
+[2017.11.28-22.47.17:863][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-22.48.05:914][406]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-22.48.08:571][564]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-22.48.29:732][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-22.48.30:643][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue3)
+[2017.11.28-22.48.43:373][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-22.48.44:789][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue3)
+[2017.11.28-22.48.50:912][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-22.49.08:877][ 32]LogActorFactory: Actor Factory created SM_Stairs
+[2017.11.28-22.49.11:549][191]LogActorFactory: Actor Factory created SM_Stairs
+[2017.11.28-22.49.18:844][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs)
+[2017.11.28-22.49.30:555][307]LogActorFactory: Actor Factory created SM_Shelf
+[2017.11.28-22.49.33:545][485]LogActorFactory: Actor Factory created SM_Shelf
+[2017.11.28-22.49.38:492][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-22.49.39:856][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-22.49.42:031][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelf3)
+[2017.11.28-22.50.42:947][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x330)
+[2017.11.28-22.50.44:000][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x359)
+[2017.11.28-22.50.49:433][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelf3)
+[2017.11.28-22.51.19:292][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.11.28-22.51.27:029][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelf3)
+[2017.11.28-22.51.44:944][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelf3)
+[2017.11.28-22.51.58:969][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x372)
+[2017.11.28-22.52.53:675][223]LogSavePackage: Save=902.78ms
+[2017.11.28-22.52.53:675][223]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto59A9868A64306879AF2A7A992D9637C38.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto5.umap'
+[2017.11.28-22.52.53:678][223]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto5.umap
+[2017.11.28-22.52.53:680][223]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.932
+[2017.11.28-22.52.53:680][223]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.932
+[2017.11.28-22.53.52:611][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame41)
+[2017.11.28-22.53.55:934][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x402)
+[2017.11.28-22.54.02:837][287]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-22.54.04:692][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame41)
+[2017.11.28-22.54.16:102][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x402)
+[2017.11.28-22.54.23:615][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame41)
+[2017.11.28-22.54.36:071][241]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-22.54.36:962][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x402)
+[2017.11.28-22.54.38:624][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame41)
+[2017.11.28-22.54.39:855][438]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x402)
+[2017.11.28-22.54.40:741][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x402)
+[2017.11.28-22.54.44:115][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame41)
+[2017.11.28-22.55.04:082][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound2)
+[2017.11.28-22.55.06:429][943]Cmd: DUPLICATE
+[2017.11.28-22.55.06:429][943]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.55.09:901][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair6)
+[2017.11.28-22.55.10:846][190]Cmd: DUPLICATE
+[2017.11.28-22.55.10:846][190]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.55.13:990][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair3)
+[2017.11.28-22.55.14:901][416]Cmd: DUPLICATE
+[2017.11.28-22.55.14:901][416]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.55.18:930][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Wall)
+[2017.11.28-22.55.25:294][998]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2017.11.28-22.55.27:050][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x393)
+[2017.11.28-22.55.27:968][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Wall)
+[2017.11.28-22.55.29:367][226]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2017.11.28-22.55.32:102][385]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Lamp_Wall)
+[2017.11.28-22.55.35:527][582]Cmd: DUPLICATE
+[2017.11.28-22.55.35:527][582]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.55.49:084][373]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x381)
+[2017.11.28-22.55.51:850][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Wall2)
+[2017.11.28-22.56.03:258][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Wall)
+[2017.11.28-22.56.18:610][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x392)
+[2017.11.28-22.56.20:912][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Wall)
+[2017.11.28-22.56.45:742][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound7)
+[2017.11.28-22.57.08:836][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair35)
+[2017.11.28-22.57.19:528][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair36)
+[2017.11.28-22.57.32:982][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound7)
+[2017.11.28-22.57.39:656][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair35)
+[2017.11.28-22.57.47:999][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair36)
+[2017.11.28-22.58.09:985][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x308)
+[2017.11.28-22.58.27:983][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.28-22.58.31:468][845]Cmd: DUPLICATE
+[2017.11.28-22.58.31:468][845]Cmd: ACTOR DUPLICATE
+[2017.11.28-22.58.53:630][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.28-22.58.55:574][233]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.28-22.58.56:194][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.28-22.59.09:472][ 55]Cmd: TRANSACTION UNDO
+[2017.11.28-22.59.09:472][ 55]LogEditorTransaction: Undo Move Actors
+[2017.11.28-22.59.34:964][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.28-22.59.37:773][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.11.28-22.59.52:170][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.28-22.59.56:843][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.11.28-23.00.13:740][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2017.11.28-23.01.09:384][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.28-23.01.22:047][571]LogActorFactory: Actor Factory created SM_Couch
+[2017.11.28-23.01.22:991][625]LogActorFactory: Actor Factory created SM_Couch
+[2017.11.28-23.01.31:696][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch7)
+[2017.11.28-23.02.41:035][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound7)
+[2017.11.28-23.02.42:450][246]Cmd: DUPLICATE
+[2017.11.28-23.02.42:450][246]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.03.30:071][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.28-23.04.29:031][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair10)
+[2017.11.28-23.04.30:419][513]Cmd: DUPLICATE
+[2017.11.28-23.04.30:419][513]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.05.26:692][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.28-23.05.55:267][416]LogActorFactory: Actor Factory created SM_CornerFrame
+[2017.11.28-23.05.56:869][509]LogActorFactory: Actor Factory created SM_CornerFrame
+[2017.11.28-23.06.12:039][401]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-23.06.13:723][495]LogActorFactory: Actor Factory created SM_Bush
+[2017.11.28-23.06.19:876][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound8)
+[2017.11.28-23.06.20:811][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush9)
+[2017.11.28-23.06.24:125][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame2)
+[2017.11.28-23.06.25:573][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush9)
+[2017.11.28-23.06.50:054][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame2)
+[2017.11.28-23.06.51:258][673]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bush9)
+[2017.11.28-23.06.52:657][752]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bush9)
+[2017.11.28-23.06.55:671][904]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bush9)
+[2017.11.28-23.07.18:661][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x419)
+[2017.11.28-23.07.26:439][696]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-23.07.30:765][953]LogActorFactory: Actor Factory created SM_Rock
+[2017.11.28-23.08.18:989][786]LogMaterial: Missing cached shader map for material T_Checker_Noise_M_Mat, compiling. 
+[2017.11.28-23.08.24:065][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2017.11.28-23.08.31:403][503]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.08.32:928][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock11)
+[2017.11.28-23.08.40:813][ 50]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.08.51:287][677]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.08.57:108][ 22]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.28-23.09.08:516][669]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.09.08:883][691]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-23.09.19:373][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x377)
+[2017.11.28-23.09.29:585][884]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.09.32:794][ 70]LogMaterial: Missing cached shader map for material T_Chair_M_Mat, compiling. 
+[2017.11.28-23.09.36:737][300]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.09.47:145][913]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.28-23.09.52:207][203]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.10.20:767][854]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-23.10.39:778][957]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.11.00:975][168]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.12.03:664][783]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-23.12.04:661][841]LogActorFactory: Actor Factory created SM_TableRound
+[2017.11.28-23.12.05:749][903]Cmd: DELETE
+[2017.11.28-23.12.05:749][903]Cmd: ACTOR DELETE
+[2017.11.28-23.12.05:766][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.28-23.12.05:781][903]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2017.11.28-23.12.09:722][115]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.12.10:645][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound8)
+[2017.11.28-23.12.12:140][253]Cmd: DUPLICATE
+[2017.11.28-23.12.12:140][253]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.12.24:553][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair37)
+[2017.11.28-23.12.25:964][  6]Cmd: DUPLICATE
+[2017.11.28-23.12.25:965][  6]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.12.29:667][207]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.12.39:154][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock11)
+[2017.11.28-23.12.41:376][896]Cmd: DUPLICATE
+[2017.11.28-23.12.41:376][896]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.12.45:791][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush9)
+[2017.11.28-23.12.46:886][210]Cmd: DUPLICATE
+[2017.11.28-23.12.46:886][210]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.12.54:602][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.28-23.12.56:282][752]Cmd: DUPLICATE
+[2017.11.28-23.12.56:282][752]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.13.13:653][743]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.13.13:653][743]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.13.27:222][499]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.13.27:222][499]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.13.39:478][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x415)
+[2017.11.28-23.13.40:236][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x415)
+[2017.11.28-23.13.46:088][568]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.13.46:088][568]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.14.05:556][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock12)
+[2017.11.28-23.14.08:066][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2017.11.28-23.14.19:288][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock12)
+[2017.11.28-23.14.24:413][754]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.14.41:965][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock12)
+[2017.11.28-23.14.51:582][335]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.15.00:347][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair38)
+[2017.11.28-23.15.15:851][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound9)
+[2017.11.28-23.15.22:212][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x377)
+[2017.11.28-23.15.23:236][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush10)
+[2017.11.28-23.15.36:916][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush10)
+[2017.11.28-23.15.37:803][  6]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.15.56:822][113]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.16.04:403][555]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.16.18:061][360]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.28-23.16.23:886][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x366)
+[2017.11.28-23.16.30:993][100]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.28-23.16.41:029][669]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.16.55:346][495]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.28-23.17.18:223][814]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.17.22:997][ 85]Cmd: DUPLICATE
+[2017.11.28-23.17.22:997][ 85]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.17.30:607][501]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.17.58:450][104]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.18.11:231][820]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.18.22:263][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x378)
+[2017.11.28-23.18.28:459][782]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.18.38:698][390]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-23.18.40:333][486]LogActorFactory: Actor Factory created SM_Statue
+[2017.11.28-23.18.49:099][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue4)
+[2017.11.28-23.19.00:798][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.11.28-23.19.05:907][987]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.19.20:509][842]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.19.33:297][590]Cmd: TRANSACTION UNDO
+[2017.11.28-23.19.33:297][590]LogEditorTransaction: Undo Create Actors
+[2017.11.28-23.19.34:285][645]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.19.41:585][ 65]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-23.19.47:985][437]Cmd: POLY SELECT ADJACENT ALL
+[2017.11.28-23.20.00:911][163]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.20.24:255][362]LogSavePackage: Save=1040.02ms
+[2017.11.28-23.20.24:255][362]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto68A14085C43C494EB9D3EB9BF12F58E7C.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto6.umap'
+[2017.11.28-23.20.24:259][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto6.umap
+[2017.11.28-23.20.24:261][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 1.085
+[2017.11.28-23.20.24:261][362]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.085
+[2017.11.28-23.20.24:265][362]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Checker_Noise_M_Mat] ([1] browsable assets)...
+[2017.11.28-23.20.24:300][362]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Checker_Noise_M_Mat.T_Checker_Noise_M_Mat]
+[2017.11.28-23.20.24:300][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Checker_Noise_M_Mat]
+[2017.11.28-23.20.24:317][362]LogSavePackage: Save=15.60ms
+[2017.11.28-23.20.24:317][362]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Checker_Noise_M_Mat_Auto67E4246A04F420D725834B08CB04886C1.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Checker_Noise_M_Mat_Auto6.uasset'
+[2017.11.28-23.20.24:319][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Checker_Noise_M_Mat_Auto6.uasset
+[2017.11.28-23.20.24:321][362]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Chair_M_Mat] ([1] browsable assets)...
+[2017.11.28-23.20.24:352][362]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Chair_M_Mat.T_Chair_M_Mat]
+[2017.11.28-23.20.24:352][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Chair_M_Mat]
+[2017.11.28-23.20.24:367][362]LogSavePackage: Save=13.00ms
+[2017.11.28-23.20.24:368][362]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Chair_M_Mat_Auto67A5BD55F40619FDD89549F93A113D8CE.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Chair_M_Mat_Auto6.uasset'
+[2017.11.28-23.20.24:370][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Chair_M_Mat_Auto6.uasset
+[2017.11.28-23.20.24:370][362]LogFileHelpers: Auto-saving content packages took 0.107
+[2017.11.28-23.20.29:331][658]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.20.42:535][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue4)
+[2017.11.28-23.20.44:590][514]Cmd: DUPLICATE
+[2017.11.28-23.20.44:590][514]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.20.47:656][692]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.20.54:127][ 72]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.21.03:230][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue5)
+[2017.11.28-23.21.23:370][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x379)
+[2017.11.28-23.21.25:058][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue5)
+[2017.11.28-23.21.54:322][568]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.21.56:083][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.11.28-23.21.57:661][759]Cmd: DUPLICATE
+[2017.11.28-23.21.57:661][759]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.22.18:894][  3]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.24.25:554][592]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.24.42:711][567]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.24.42:711][567]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.24.51:072][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair29)
+[2017.11.28-23.24.52:794][152]Cmd: DUPLICATE
+[2017.11.28-23.24.52:794][152]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.24.55:110][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair26)
+[2017.11.28-23.24.55:695][314]Cmd: DUPLICATE
+[2017.11.28-23.24.55:695][314]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.24.57:889][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair23)
+[2017.11.28-23.24.58:374][463]Cmd: DUPLICATE
+[2017.11.28-23.24.58:374][463]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.25.04:427][805]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.25.04:427][805]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.25.26:773][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair40)
+[2017.11.28-23.25.34:734][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair39)
+[2017.11.28-23.25.45:273][167]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.25.45:273][167]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.25.55:757][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair40)
+[2017.11.28-23.25.58:282][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair41)
+[2017.11.28-23.26.10:808][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair39)
+[2017.11.28-23.26.13:267][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair40)
+[2017.11.28-23.26.20:532][207]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.26.20:532][207]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.26.21:877][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair40)
+[2017.11.28-23.26.25:986][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair39)
+[2017.11.28-23.26.42:375][479]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.26.42:375][479]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.26.46:061][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow24)
+[2017.11.28-23.26.47:076][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow24)
+[2017.11.28-23.26.57:465][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow24)
+[2017.11.28-23.26.58:168][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow24)
+[2017.11.28-23.26.59:540][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x312)
+[2017.11.28-23.27.00:570][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow24)
+[2017.11.28-23.27.01:771][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.28-23.27.13:516][285]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.27.13:516][285]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.27.45:349][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2017.11.28-23.27.54:758][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.28-23.27.59:893][976]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.27.59:893][976]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.28.02:483][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound9)
+[2017.11.28-23.28.03:902][210]Cmd: DUPLICATE
+[2017.11.28-23.28.03:902][210]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.28.07:593][420]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.28.07:593][420]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.28.16:649][941]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.28.16:649][941]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.28.43:591][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound10)
+[2017.11.28-23.28.53:972][ 89]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.28.53:972][ 89]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.28.57:448][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair40)
+[2017.11.28-23.28.59:054][382]Cmd: DUPLICATE
+[2017.11.28-23.28.59:054][382]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.29.34:845][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair42)
+[2017.11.28-23.29.36:215][520]Cmd: DUPLICATE
+[2017.11.28-23.29.36:215][520]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.29.38:374][645]Cmd: DUPLICATE
+[2017.11.28-23.29.38:374][645]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.29.43:373][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair43)
+[2017.11.28-23.29.47:935][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2017.11.28-23.29.49:399][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair43)
+[2017.11.28-23.29.54:854][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair44)
+[2017.11.28-23.30.07:031][299]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.30.07:031][299]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.30.15:546][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch7)
+[2017.11.28-23.30.16:686][835]Cmd: DUPLICATE
+[2017.11.28-23.30.16:687][835]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.30.24:470][289]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.30.24:470][289]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.30.31:076][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch8)
+[2017.11.28-23.30.36:500][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.28-23.30.44:736][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch8)
+[2017.11.28-23.31.08:294][812]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.31.08:294][812]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.31.15:275][210]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.31.15:275][210]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.31.34:455][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch8)
+[2017.11.28-23.31.35:963][434]Cmd: DUPLICATE
+[2017.11.28-23.31.35:963][434]Cmd: ACTOR DUPLICATE
+[2017.11.28-23.31.46:540][ 15]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.31.46:540][ 15]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.31.57:140][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x380)
+[2017.11.28-23.32.02:278][934]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.02:278][934]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.13:541][587]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.13:541][587]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.21:699][ 72]Cmd: TRANSACTION UNDO
+[2017.11.28-23.32.21:699][ 72]LogEditorTransaction: Undo Create Actors
+[2017.11.28-23.32.23:104][152]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.23:105][152]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.38:797][ 37]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.38:798][ 37]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.46:649][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-23.32.47:691][492]LogSavePackage: Save=1019.97ms
+[2017.11.28-23.32.47:691][492]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level10903761845D35CC6E19B5A85A6C0BE67.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.11.28-23.32.47:698][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.11.28-23.32.47:777][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.11.28-23.32.48:723][492]LogSavePackage: Save=925.26ms
+[2017.11.28-23.32.48:723][492]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataAD9654A74AA0AC4CCDB03CB17A119A46.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.11.28-23.32.48:727][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.11.28-23.32.55:424][513]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.11.28-23.32.55:424][513]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
