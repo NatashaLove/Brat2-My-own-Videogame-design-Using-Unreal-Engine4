@@ -10483,3 +10483,568 @@ LogInit: Object subsystem initialized
 [2017.12.05-04.00.57:626][973]LogSavePackage: Save=3624.85ms
 [2017.12.05-04.00.57:626][973]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltData511DD6B0419A068346B871BBA967C040.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
 [2017.12.05-04.00.57:638][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.12.05-04.10.50:798][944]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.030
+[2017.12.05-04.10.50:802][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP] ([1] browsable assets)...
+[2017.12.05-04.10.50:837][944]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.TutorialTPP]
+[2017.12.05-04.10.50:837][944]OBJ SavePackage: Finished generating thumbnails for package [/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP]
+[2017.12.05-04.10.50:868][944]LogSavePackage: Save=22.59ms
+[2017.12.05-04.10.50:868][944]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/TutorialTPP_Auto0FAAE06DB4C71F1308F80D4A65628F0B7.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Auto0.uasset'
+[2017.12.05-04.10.50:870][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Auto0.uasset
+[2017.12.05-04.10.50:872][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/blood] ([1] browsable assets)...
+[2017.12.05-04.10.50:903][944]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/blood.blood]
+[2017.12.05-04.10.50:903][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/blood]
+[2017.12.05-04.10.50:922][944]LogSavePackage: Save=11.40ms
+[2017.12.05-04.10.50:922][944]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/blood_Auto033D796BF4785A6C3EB3C41AF4A7B716C.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/blood_Auto0.uasset'
+[2017.12.05-04.10.50:924][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/blood_Auto0.uasset
+[2017.12.05-04.10.50:925][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/test2] ([1] browsable assets)...
+[2017.12.05-04.10.50:959][944]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/test2.test2]
+[2017.12.05-04.10.50:959][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/test2]
+[2017.12.05-04.10.50:959][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/test2_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2017.12.05-04.10.50:982][944]LogSavePackage: Save=20.83ms
+[2017.12.05-04.10.50:982][944]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/test2_Auto02CB0A0554F70700145B2E8B0E9D6802E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/test2_Auto0.uasset'
+[2017.12.05-04.10.50:984][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/test2_Auto0.uasset
+[2017.12.05-04.10.50:985][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin] ([1] browsable assets)...
+[2017.12.05-04.10.51:020][944]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin]
+[2017.12.05-04.10.51:020][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin]
+[2017.12.05-04.10.51:087][944]LogSavePackage: Save=57.52ms
+[2017.12.05-04.10.51:087][944]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/SK_Mannequin_Auto04D36F07F44099D18370575BC04700E14.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_Auto0.uasset'
+[2017.12.05-04.10.51:090][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_Auto0.uasset
+[2017.12.05-04.10.51:090][944]LogFileHelpers: Auto-saving content packages took 0.291
+[2017.12.05-04.10.56:103][960]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.05-04.10.56:104][960]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.05-04.10.56:106][960]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.05-04.10.56:107][960]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.05-07.19.12:009][446]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.05-19.47.11:568][453]LogHttp: Warning: 000001EA7ED1C880: request failed, libcurl error: 0 (No error)
+[2017.12.05-19.47.11:568][453]LogHttp: Warning: 000001EA7ED1C880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ea000a3fe8 [can pipeline])
+[2017.12.05-19.47.11:568][453]LogHttp: Warning: 000001EA7ED1C880: libcurl info message cache 1 (Re-using existing connection! (#156) with host datarouter.ol.epicgames.com)
+[2017.12.05-19.47.11:568][453]LogHttp: Warning: 000001EA7ED1C880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.101.3) port 443 (#156))
+[2017.12.05-19.47.11:568][453]LogHttp: Warning: 000001EA7ED1C880: libcurl info message cache 3 (Closing connection 156)
+[2017.12.05-19.47.12:220][455]LogHttp: Warning: 000001EA7ED1D000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.05-19.47.12:220][455]LogHttp: Warning: 000001EA7ED1D000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.05-19.47.12:220][455]LogHttp: Warning: 000001EA7ED1D000: libcurl info message cache 1 (Closing connection 157)
+[2017.12.05-22.57.07:190][471]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ea000a0f58 [can pipeline])
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 1 (Re-using existing connection! (#202) with host datarouter.ol.epicgames.com)
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.228.164.138) port 443 (#202))
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 3 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 5 (Closing connection 202)
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B165DFB26-4890-EA8A-5251-89AFEB96DE6A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=dbfd4a98486fc8cbe43ff29adcadee7a%7Cf518cb834e1e4b2cadb312a0e26e4c62%7C5bbb7a1e-71a3-4bee-a77e-5dce45e5e632&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.05-22.57.35:570][557]LogHttp: Warning: 000001EA7ED1E200: libcurl info message cache 8 (Closing connection 203)
+[2017.12.06-03.06.38:149][979]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.07-02.29.00:949][991]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.07-02.29.01:140][991]LogHttp: Warning: 000001EA7ED1D900: request failed, libcurl error: 0 (No error)
+[2017.12.07-02.29.01:140][991]LogHttp: Warning: 000001EA7ED1D900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ea000a06a0 [can pipeline])
+[2017.12.07-02.29.01:140][991]LogHttp: Warning: 000001EA7ED1D900: libcurl info message cache 1 (Re-using existing connection! (#224) with host datarouter.ol.epicgames.com)
+[2017.12.07-02.29.01:140][991]LogHttp: Warning: 000001EA7ED1D900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.9.249) port 443 (#224))
+[2017.12.07-02.29.01:140][991]LogHttp: Warning: 000001EA7ED1D900: libcurl info message cache 3 (Closing connection 224)
+[2017.12.07-02.29.01:844][992]LogHttp: Warning: 000001EA7ED1C880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.07-02.29.01:844][992]LogHttp: Warning: 000001EA7ED1C880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.07-02.29.01:845][992]LogHttp: Warning: 000001EA7ED1C880: libcurl info message cache 1 (Closing connection 225)
+[2017.12.07-02.30.25:311][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/UnlitText" FILE="../../../Engine/Content/EngineMaterials/UnlitText.uasset" SILENT=true
+[2017.12.07-02.30.25:335][ 61]LogSavePackage: Save=7.47ms
+[2017.12.07-02.30.25:335][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/UnlitText3EC61B3E4B2326C7A870A582DE2F3D4F.tmp' to '../../../Engine/Content/EngineMaterials/UnlitText.uasset'
+[2017.12.07-02.30.25:339][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/EngineMaterials/UnlitText.uasset
+[2017.12.07-02.30.25:346][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP" FILE="../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" SILENT=true
+[2017.12.07-02.30.25:371][ 61]LogSavePackage: Save=13.33ms
+[2017.12.07-02.30.25:371][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/TutorialTPPCF9FD55E40D5C044A44E3395A7AABBBC.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset'
+[2017.12.07-02.30.25:377][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset
+[2017.12.07-02.30.25:381][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial" FILE="../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" SILENT=true
+[2017.12.07-02.30.25:392][ 61]LogSavePackage: Save=2.36ms
+[2017.12.07-02.30.25:392][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/TutorialMaterialC69F70084F685F62241A6790803F0B2A.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset'
+[2017.12.07-02.30.25:395][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset
+[2017.12.07-02.30.25:400][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/LaserPointer/LaserPointerMaterial" FILE="../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" SILENT=true
+[2017.12.07-02.30.25:440][ 61]LogSavePackage: Save=29.03ms
+[2017.12.07-02.30.25:440][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/LaserPointerMaterial6BAA98B9464E075955669993648B5D22.tmp' to '../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset'
+[2017.12.07-02.30.25:444][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset
+[2017.12.07-02.30.25:449][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst" FILE="../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" SILENT=true
+[2017.12.07-02.30.25:461][ 61]LogSavePackage: Save=2.92ms
+[2017.12.07-02.30.25:461][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/TranslucentLaserPointerMaterialI2E09B9D2419A8025CB752D9E9CB8AC17.tmp' to '../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset'
+[2017.12.07-02.30.25:465][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset
+[2017.12.07-02.30.25:565][ 61]LogSavePackage: Save=63.09ms
+[2017.12.07-02.30.25:565][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/SK_MannequinCEF9A84E41D2AA5B439DB183CBECFDBA.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2017.12.07-02.30.25:573][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset
+[2017.12.07-02.30.25:577][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/simpleAI" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/simpleAI.uasset" SILENT=true
+[2017.12.07-02.30.25:601][ 61]LogSavePackage: Save=15.62ms
+[2017.12.07-02.30.25:601][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/simpleAIBE69A36940935DBF4342859750A31C54.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/simpleAI.uasset'
+[2017.12.07-02.30.25:605][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/simpleAI.uasset
+[2017.12.07-02.30.25:622][ 61]LogSavePackage: Save=4.59ms
+[2017.12.07-02.30.25:622][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/M_Basic_FloorEAAAB1C94B62685F5C31FFBBA1696509.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Basic_Floor.uasset'
+[2017.12.07-02.30.25:626][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Basic_Floor.uasset
+[2017.12.07-02.30.25:641][ 61]LogSavePackage: Save=3.36ms
+[2017.12.07-02.30.25:641][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/M_Basic_WallDAF165E448F6B82AE2FEC28AC7A79092.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Basic_Wall.uasset'
+[2017.12.07-02.30.25:646][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Basic_Wall.uasset
+[2017.12.07-02.30.25:677][ 61]LogSavePackage: Save=18.04ms
+[2017.12.07-02.30.25:677][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/M_Concrete_Poured636BEA714CF25CB8019C72AC257D6BAF.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Concrete_Poured.uasset'
+[2017.12.07-02.30.25:682][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2017.12.07-02.30.25:706][ 61]LogSavePackage: Save=11.56ms
+[2017.12.07-02.30.25:706][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/M_Metal_Burnished_Steel42ACB9944EA75A54DEB8DD9BFE8D07FA.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset'
+[2017.12.07-02.30.25:710][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2017.12.07-02.30.25:733][ 61]LogSavePackage: Save=11.00ms
+[2017.12.07-02.30.25:733][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/M_Metal_Steel985A1DC84863DE88E0921C882A348613.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Metal_Steel.uasset'
+[2017.12.07-02.30.25:738][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2017.12.07-02.30.25:742][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/NewPoseAsset" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/NewPoseAsset.uasset" SILENT=true
+[2017.12.07-02.30.25:746][ 61]LogSavePackage: Save=2.32ms
+[2017.12.07-02.30.25:746][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/NewPoseAsset7B3288A645E2D0EEB7C75DB79DFB65C4.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/NewPoseAsset.uasset'
+[2017.12.07-02.30.25:750][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/NewPoseAsset.uasset
+[2017.12.07-02.30.25:765][ 61]LogSavePackage: Save=2.17ms
+[2017.12.07-02.30.25:765][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/blood9F6C2B18408B2F72D1CC8682B7FACBF5.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/blood.uasset'
+[2017.12.07-02.30.25:768][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/blood.uasset
+[2017.12.07-02.30.25:818][ 61]LogSavePackage: Save=10.63ms
+[2017.12.07-02.30.25:818][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/blood_Inst709B4E8341C6B08DF4CAC69B9EFBF659.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/blood_Inst.uasset'
+[2017.12.07-02.30.25:821][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/blood_Inst.uasset
+[2017.12.07-02.30.25:889][ 61]LogSavePackage: Save=13.36ms
+[2017.12.07-02.30.25:889][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Brick_Clay_New_Mat072C340646CFD28A74643AADE8F31231.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset'
+[2017.12.07-02.30.25:893][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset
+[2017.12.07-02.30.25:948][ 61]LogSavePackage: Save=14.07ms
+[2017.12.07-02.30.25:948][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Bush_MatDD6E01B7418941CE197C64898F148B99.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Bush_Mat.uasset'
+[2017.12.07-02.30.25:951][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Bush_Mat.uasset
+[2017.12.07-02.30.26:007][ 61]LogSavePackage: Save=12.86ms
+[2017.12.07-02.30.26:007][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Explosion_SubUV_Mat5AF4235B4CB4AB14D7E9099C3945A5BB.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Explosion_SubUV_Mat.uasset'
+[2017.12.07-02.30.26:011][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Explosion_SubUV_Mat.uasset
+[2017.12.07-02.30.26:065][ 61]LogSavePackage: Save=12.55ms
+[2017.12.07-02.30.26:065][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Lamp_M_Mat5619A3934DBC74B22AE6318293081507.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Lamp_M_Mat.uasset'
+[2017.12.07-02.30.26:069][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Lamp_M_Mat.uasset
+[2017.12.07-02.30.26:121][ 61]LogSavePackage: Save=11.40ms
+[2017.12.07-02.30.26:121][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Tech_Dot_M_Mat010930D9421DC66FF4E7F5827DD62E5A.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Tech_Dot_M_Mat.uasset'
+[2017.12.07-02.30.26:124][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Tech_Dot_M_Mat.uasset
+[2017.12.07-02.30.26:174][ 61]LogSavePackage: Save=11.38ms
+[2017.12.07-02.30.26:174][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Tech_Dot_Mat01D5C3C14C8F9118BD13CBB5BDB3ED18.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Tech_Dot_Mat.uasset'
+[2017.12.07-02.30.26:178][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Tech_Dot_Mat.uasset
+[2017.12.07-02.30.26:235][ 61]LogSavePackage: Save=13.37ms
+[2017.12.07-02.30.26:235][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Tech_Hex_Tile_M_MatC4CA9CB14C0739E4C84F0DA1140D80A7.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat.uasset'
+[2017.12.07-02.30.26:238][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat.uasset
+[2017.12.07-02.30.26:292][ 61]LogSavePackage: Save=12.98ms
+[2017.12.07-02.30.26:292][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Tech_Panel_M_MatEBFEA05944EB002842C386B3C2460554.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Tech_Panel_M_Mat.uasset'
+[2017.12.07-02.30.26:296][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Tech_Panel_M_Mat.uasset
+[2017.12.07-02.30.26:350][ 61]LogSavePackage: Save=13.88ms
+[2017.12.07-02.30.26:350][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Water_M_Mat76E8A4B74375C4950A731F83CE8823E0.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Water_M_Mat.uasset'
+[2017.12.07-02.30.26:355][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Water_M_Mat.uasset
+[2017.12.07-02.30.26:409][ 61]LogSavePackage: Save=14.14ms
+[2017.12.07-02.30.26:409][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Water_Mat258598FE46F37934423817A7CF6AA34D.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Water_Mat.uasset'
+[2017.12.07-02.30.26:414][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Water_Mat.uasset
+[2017.12.07-02.30.26:481][ 61]LogSavePackage: Save=14.02ms
+[2017.12.07-02.30.26:481][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Wood_Walnut_MatADCDD5DD4F3DCD0F6D0F70B71C1BA204.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Wood_Walnut_Mat.uasset'
+[2017.12.07-02.30.26:485][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/T_Wood_Walnut_Mat.uasset
+[2017.12.07-02.30.26:522][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEST" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/TEST.uasset" SILENT=true
+[2017.12.07-02.30.26:548][ 61]LogSavePackage: Save=24.11ms
+[2017.12.07-02.30.26:548][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/TEST7BCA21F94E9DA6A463C5AFB1BC5FCD55.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/TEST.uasset'
+[2017.12.07-02.30.26:551][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/TEST.uasset
+[2017.12.07-02.30.26:592][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/test2.uasset" SILENT=true
+[2017.12.07-02.30.26:617][ 61]LogSavePackage: Save=22.81ms
+[2017.12.07-02.30.26:617][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/test25196F7FD4A78BC4D8A400681D3AF3B34.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/test2.uasset'
+[2017.12.07-02.30.26:621][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/test2.uasset
+[2017.12.07-02.30.26:625][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Paper2D/DefaultLitSpriteMaterial" FILE="../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" SILENT=true
+[2017.12.07-02.30.26:640][ 61]LogSavePackage: Save=6.07ms
+[2017.12.07-02.30.26:640][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/DefaultLitSpriteMaterial698516254AB2B22D0CBF9FBD528681FC.tmp' to '../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset'
+[2017.12.07-02.30.26:644][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset
+[2017.12.07-02.30.26:648][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Paper2D/DefaultSpriteMaterial" FILE="../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" SILENT=true
+[2017.12.07-02.30.26:662][ 61]LogSavePackage: Save=4.85ms
+[2017.12.07-02.30.26:662][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/DefaultSpriteMaterial8FB5244A431C6023231F05A19E39E6B5.tmp' to '../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset'
+[2017.12.07-02.30.26:666][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset
+[2017.12.07-02.30.26:670][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Paper2D/TranslucentLitSpriteMaterial" FILE="../../../Engine/Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" SILENT=true
+[2017.12.07-02.30.26:680][ 61]LogSavePackage: Save=2.26ms
+[2017.12.07-02.30.26:680][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/TranslucentLitSpriteMaterialB0F6356444022914E9A82FAB6B6D72A2.tmp' to '../../../Engine/Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset'
+[2017.12.07-02.30.26:684][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset
+[2017.12.07-02.30.26:688][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Paper2D/TranslucentUnlitSpriteMaterial" FILE="../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" SILENT=true
+[2017.12.07-02.30.26:699][ 61]LogSavePackage: Save=2.72ms
+[2017.12.07-02.30.26:699][ 61]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/TranslucentUnlitSpriteMaterialA8412FD04F4F494C145701AAD73E677E.tmp' to '../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset'
+[2017.12.07-02.30.26:703][ 61]LogSavePackage: Display: Finished SavePackage ../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset
+[2017.12.07-02.30.26:711][ 61]Cmd: MAP LOAD FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-02.30.26:719][ 61]LightingResults: New page: Lighting Build
+[2017.12.07-02.30.26:720][ 61]LoadErrors: New page: Loading map: level2.umap
+[2017.12.07-02.30.26:737][ 61]MapCheck: New page: Map Check
+[2017.12.07-02.30.26:737][ 61]LightingResults: New page: Lighting Build
+[2017.12.07-02.30.27:289][ 61]LogAIModule: Creating AISystem for world level2
+[2017.12.07-02.30.27:734][ 61]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-02.30.27:812][ 61]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-02.30.28:399][ 61]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 586.344ms to complete.
+[2017.12.07-02.30.28:399][ 61]LogFileHelpers: Loading map 'level2' took 1.692
+[2017.12.07-02.30.38:525][231]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-02.30.40:343][440]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-02.30.42:684][706]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-02.30.55:396][225]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.07-02.31.05:390][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.07-02.31.06:082][479]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-02.31.11:199][ 77]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2017.12.07-02.32.43:771][776]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] You have a Landscape
+[2017.12.07-02.35.04:210][493]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.07-02.37.43:193][ 38]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.12.07-02.37.44:908][ 62]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.07-02.39.39:937][508]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-02.39.41:315][604]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-02.39.43:385][750]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.07-02.39.44:802][850]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-02.41.02:827][231]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-02.44.14:903][972]Cmd: TRANSACTION UNDO
+[2017.12.07-02.44.14:903][972]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2017.12.07-02.44.14:924][972]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2017.12.07-02.44.14:933][972]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.07-02.44.14:943][972]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2017.12.07-02.44.14:952][972]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2017.12.07-02.44.14:961][972]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2017.12.07-02.44.14:970][972]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2017.12.07-02.44.14:978][972]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.07-02.44.14:988][972]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2017.12.07-02.44.14:996][972]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.07-02.44.26:714][822]Cmd: TRANSACTION UNDO
+[2017.12.07-02.44.26:714][822]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2017.12.07-02.44.26:791][822]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2017.12.07-02.44.26:800][822]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2017.12.07-02.44.26:809][822]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2017.12.07-02.44.26:817][822]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2017.12.07-02.44.26:833][822]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2017.12.07-02.44.26:841][822]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2017.12.07-02.44.26:849][822]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2017.12.07-02.45.56:754][524]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.12.07-02.45.56:766][524]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2017.12.07-02.45.56:767][524]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2017.12.07-02.45.56:768][524]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2017.12.07-02.45.56:770][524]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2017.12.07-02.45.56:771][524]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2017.12.07-02.45.56:772][524]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2017.12.07-02.45.56:773][524]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2017.12.07-02.45.56:774][524]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2017.12.07-02.45.56:775][524]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2017.12.07-02.45.56:776][524]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2017.12.07-02.45.56:777][524]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2017.12.07-02.45.56:779][524]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2017.12.07-02.45.56:780][524]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2017.12.07-02.45.56:782][524]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2017.12.07-02.45.56:783][524]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2017.12.07-02.45.56:784][524]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2017.12.07-02.45.56:785][524]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2017.12.07-02.45.56:786][524]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2017.12.07-02.45.56:786][524]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2017.12.07-02.45.56:788][524]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2017.12.07-02.45.56:789][524]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2017.12.07-02.45.56:790][524]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2017.12.07-02.45.56:791][524]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2017.12.07-02.45.56:791][524]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2017.12.07-02.45.56:792][524]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2017.12.07-02.45.56:794][524]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2017.12.07-02.45.56:795][524]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2017.12.07-02.45.56:796][524]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2017.12.07-02.45.56:798][524]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2017.12.07-02.45.56:800][524]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2017.12.07-02.45.56:800][524]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2017.12.07-02.45.56:801][524]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2017.12.07-02.45.56:803][524]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2017.12.07-02.45.56:804][524]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2017.12.07-02.45.56:805][524]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2017.12.07-02.45.56:806][524]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2017.12.07-02.45.56:807][524]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2017.12.07-02.45.56:808][524]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2017.12.07-02.45.56:809][524]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2017.12.07-02.45.56:811][524]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2017.12.07-02.45.56:812][524]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2017.12.07-02.45.56:812][524]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2017.12.07-02.45.56:813][524]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2017.12.07-02.45.56:815][524]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2017.12.07-02.45.57:157][524]LogSavePackage: Save=463.07ms
+[2017.12.07-02.45.57:157][524]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2_Auto1AB759F624D7F2C6DB9B09A8C356A0B1E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto1.umap'
+[2017.12.07-02.45.57:160][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto1.umap
+[2017.12.07-02.45.57:162][524]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 0.501
+[2017.12.07-02.45.57:162][524]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.501
+[2017.12.07-02.47.03:410][484]Cmd: TRANSACTION UNDO
+[2017.12.07-02.47.03:410][484]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2017.12.07-02.59.09:725][249]Cmd: TRANSACTION UNDO
+[2017.12.07-02.59.09:725][249]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2017.12.07-02.59.09:739][249]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2017.12.07-02.59.09:747][249]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2017.12.07-02.59.09:757][249]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2017.12.07-02.59.09:765][249]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2017.12.07-02.59.11:733][471]Cmd: TRANSACTION UNDO
+[2017.12.07-02.59.11:733][471]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.12.07-02.59.11:761][471]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2017.12.07-02.59.11:769][471]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2017.12.07-02.59.11:778][471]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2017.12.07-02.59.11:786][471]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.07-02.59.11:794][471]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2017.12.07-02.59.11:803][471]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2017.12.07-02.59.11:811][471]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.07-02.59.11:819][471]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2017.12.07-02.59.11:827][471]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.07-02.59.11:837][471]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2017.12.07-02.59.11:845][471]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2017.12.07-02.59.11:854][471]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2017.12.07-02.59.11:862][471]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2017.12.07-02.59.11:871][471]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2017.12.07-02.59.11:895][471]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2017.12.07-02.59.11:903][471]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2017.12.07-02.59.11:920][471]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2017.12.07-02.59.11:928][471]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2017.12.07-03.02.54:799][807]Cmd: TRANSACTION UNDO
+[2017.12.07-03.02.54:799][807]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.12.07-03.02.54:818][807]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2017.12.07-03.02.54:827][807]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2017.12.07-03.02.54:835][807]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2017.12.07-03.02.54:843][807]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2017.12.07-03.02.54:851][807]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2017.12.07-03.02.54:860][807]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2017.12.07-03.02.54:868][807]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2017.12.07-03.02.54:876][807]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.07-03.02.54:883][807]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.07-03.02.54:892][807]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2017.12.07-03.02.54:900][807]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2017.12.07-03.02.54:907][807]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2017.12.07-03.05.27:578][919]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2017.12.07-03.05.27:579][919]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2017.12.07-03.05.27:581][919]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2017.12.07-03.05.27:581][919]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2017.12.07-03.05.27:583][919]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2017.12.07-03.05.27:584][919]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2017.12.07-03.05.27:585][919]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2017.12.07-03.05.27:586][919]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2017.12.07-03.05.27:586][919]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2017.12.07-03.05.27:588][919]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2017.12.07-03.05.27:589][919]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2017.12.07-03.05.27:590][919]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2017.12.07-03.05.27:591][919]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2017.12.07-03.05.27:592][919]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2017.12.07-03.05.27:593][919]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2017.12.07-03.05.27:594][919]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2017.12.07-03.05.27:595][919]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2017.12.07-03.05.27:596][919]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2017.12.07-03.05.27:597][919]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2017.12.07-03.05.27:597][919]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2017.12.07-03.05.27:599][919]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2017.12.07-03.05.27:600][919]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2017.12.07-03.05.27:601][919]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2017.12.07-03.05.27:603][919]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2017.12.07-03.05.27:604][919]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2017.12.07-03.05.27:605][919]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2017.12.07-03.05.27:607][919]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2017.12.07-03.05.27:608][919]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2017.12.07-03.05.27:609][919]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2017.12.07-03.05.27:610][919]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2017.12.07-03.05.27:611][919]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2017.12.07-03.05.27:611][919]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2017.12.07-03.05.27:613][919]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2017.12.07-03.05.27:614][919]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2017.12.07-03.05.27:615][919]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2017.12.07-03.05.27:616][919]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2017.12.07-03.05.27:618][919]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2017.12.07-03.05.27:618][919]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2017.12.07-03.05.27:620][919]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2017.12.07-03.05.27:621][919]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2017.12.07-03.05.27:621][919]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2017.12.07-03.05.27:623][919]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.07-03.05.27:624][919]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.07-03.05.27:625][919]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2017.12.07-03.05.27:626][919]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2017.12.07-03.05.27:627][919]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2017.12.07-03.05.27:629][919]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2017.12.07-03.05.27:630][919]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2017.12.07-03.05.27:632][919]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2017.12.07-03.05.27:633][919]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2017.12.07-03.05.27:634][919]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.07-03.05.27:635][919]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2017.12.07-03.05.27:636][919]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2017.12.07-03.05.27:637][919]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2017.12.07-03.05.27:637][919]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2017.12.07-03.05.27:639][919]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2017.12.07-03.05.27:640][919]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2017.12.07-03.05.27:641][919]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2017.12.07-03.05.27:642][919]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2017.12.07-03.05.27:643][919]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2017.12.07-03.05.27:644][919]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2017.12.07-03.05.27:645][919]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2017.12.07-03.05.27:646][919]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2017.12.07-03.05.28:159][919]LogSavePackage: Save=647.16ms
+[2017.12.07-03.05.28:159][919]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2_Auto2817BE9D248B51A19266FFCA35BC3C295.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto2.umap'
+[2017.12.07-03.05.28:163][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto2.umap
+[2017.12.07-03.05.28:166][919]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 0.694
+[2017.12.07-03.05.28:166][919]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.694
+[2017.12.07-03.06.46:064][196]Cmd: TRANSACTION UNDO
+[2017.12.07-03.06.46:064][196]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.12.07-03.06.46:097][196]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2017.12.07-03.06.51:744][852]Cmd: TRANSACTION UNDO
+[2017.12.07-03.06.51:744][852]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.12.07-03.08.16:624][944]Cmd: TRANSACTION UNDO
+[2017.12.07-03.08.16:624][944]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2017.12.07-03.08.16:636][944]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2017.12.07-03.08.16:645][944]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2017.12.07-03.08.16:661][944]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2017.12.07-03.08.32:399][806]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.07-03.08.32:404][806]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2017.12.07-03.08.32:406][806]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2017.12.07-03.08.32:406][806]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2017.12.07-03.08.32:408][806]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2017.12.07-03.08.32:409][806]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2017.12.07-03.08.32:410][806]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2017.12.07-03.08.32:412][806]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2017.12.07-03.10.13:408][689]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.07-03.13.46:410][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.07-03.13.46:836][725]LogSavePackage: Save=397.14ms
+[2017.12.07-03.13.46:836][725]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level21FB6700D42A11287F58980B8B8DF18D0.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.07-03.13.46:841][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.07-04.21.43:308][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.07-04.21.43:734][657]LogSavePackage: Save=385.85ms
+[2017.12.07-04.21.43:734][657]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2D1E580E247B8A0C2CE5755839B5D0941.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.07-04.21.43:737][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.07-16.26.14:340][ 17]LogHttp: Warning: 000001EA426FDD80: request failed, libcurl error: 0 (No error)
+[2017.12.07-16.26.14:340][ 17]LogHttp: Warning: 000001EA426FDD80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ea000a06a0 [can pipeline])
+[2017.12.07-16.26.14:340][ 17]LogHttp: Warning: 000001EA426FDD80: libcurl info message cache 1 (Re-using existing connection! (#252) with host datarouter.ol.epicgames.com)
+[2017.12.07-16.26.14:340][ 17]LogHttp: Warning: 000001EA426FDD80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.10.217) port 443 (#252))
+[2017.12.07-16.26.14:340][ 17]LogHttp: Warning: 000001EA426FDD80: libcurl info message cache 3 (Closing connection 252)
+[2017.12.07-19.03.21:071][190]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.07-19.03.50:816][280]LogHttp: Warning: 000001E98E61EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.07-19.03.50:816][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ea000a06a0 [can pipeline])
+[2017.12.07-19.03.50:816][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 1 (Re-using existing connection! (#270) with host datarouter.ol.epicgames.com)
+[2017.12.07-19.03.50:816][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.226.163.250) port 443 (#270))
+[2017.12.07-19.03.50:816][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 3 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.12.07-19.03.50:816][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2017.12.07-19.03.50:816][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 5 (Closing connection 270)
+[2017.12.07-19.03.50:817][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B165DFB26-4890-EA8A-5251-89AFEB96DE6A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=dbfd4a98486fc8cbe43ff29adcadee7a%7Cf518cb834e1e4b2cadb312a0e26e4c62%7C5bbb7a1e-71a3-4bee-a77e-5dce45e5e632&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.12.07-19.03.50:817][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.07-19.03.50:817][280]LogHttp: Warning: 000001E98E61EB00: libcurl info message cache 8 (Closing connection 271)
+[2017.12.07-19.05.07:445][311]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.07-19.05.22:012][739]LogRenderer: Reallocating scene render targets to support 900x444 Format 10 NumSamples 1 (Frame:687845).
+[2017.12.07-19.05.22:134][740]LogRenderer: Reallocating scene render targets to support 900x472 Format 10 NumSamples 1 (Frame:687847).
+[2017.12.07-19.05.22:265][741]LogRenderer: Reallocating scene render targets to support 900x492 Format 10 NumSamples 1 (Frame:687849).
+[2017.12.07-19.05.22:381][742]LogRenderer: Reallocating scene render targets to support 900x504 Format 10 NumSamples 1 (Frame:687851).
+[2017.12.07-19.05.22:493][743]LogRenderer: Reallocating scene render targets to support 900x512 Format 10 NumSamples 1 (Frame:687853).
+[2017.12.07-19.05.22:602][744]LogRenderer: Reallocating scene render targets to support 900x524 Format 10 NumSamples 1 (Frame:687855).
+[2017.12.07-19.05.22:722][746]LogRenderer: Reallocating scene render targets to support 900x532 Format 10 NumSamples 1 (Frame:687858).
+[2017.12.07-19.05.22:819][747]LogRenderer: Reallocating scene render targets to support 900x536 Format 10 NumSamples 1 (Frame:687860).
+[2017.12.07-19.05.22:936][748]LogRenderer: Reallocating scene render targets to support 900x548 Format 10 NumSamples 1 (Frame:687862).
+[2017.12.07-19.05.24:824][800]LogRenderer: Reallocating scene render targets to support 920x548 Format 10 NumSamples 1 (Frame:687919).
+[2017.12.07-19.05.24:941][801]LogRenderer: Reallocating scene render targets to support 936x548 Format 10 NumSamples 1 (Frame:687921).
+[2017.12.07-19.05.25:050][802]LogRenderer: Reallocating scene render targets to support 952x548 Format 10 NumSamples 1 (Frame:687923).
+[2017.12.07-19.05.25:236][807]LogRenderer: Reallocating scene render targets to support 956x548 Format 10 NumSamples 1 (Frame:687929).
+[2017.12.07-19.05.25:331][808]LogRenderer: Reallocating scene render targets to support 972x548 Format 10 NumSamples 1 (Frame:687931).
+[2017.12.07-19.05.25:423][809]LogRenderer: Reallocating scene render targets to support 980x548 Format 10 NumSamples 1 (Frame:687933).
+[2017.12.07-19.05.56:027][727]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2017.12.07-19.06.06:606][951]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-19.06.06:652][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-19.06.06:654][951]PIE: New page: PIE session: level2 (Dec 7, 2017, 7:06:06 AM)
+[2017.12.07-19.06.06:655][951]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level2
+[2017.12.07-19.06.06:772][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115651s)
+[2017.12.07-19.06.06:774][951]LogAIModule: Creating AISystem for world level2
+[2017.12.07-19.06.06:777][951]LogPlayLevel: PIE: World Init took: (0.004758s)
+[2017.12.07-19.06.06:778][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level2.level2 to /Game/UEDPIE_0_level2.level2 (0.122621s)
+[2017.12.07-19.06.06:843][951]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.07-19.06.06:852][951]LogInit: FAudioDevice initialized.
+[2017.12.07-19.06.06:890][951]LogLoad: Game class is 'GameModeBase'
+[2017.12.07-19.06.06:909][951]LogWorld: Bringing World /Game/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.12.07-13.06.06
+[2017.12.07-19.06.06:911][951]LogWorld: Bringing up level for play took: 0.018272
+[2017.12.07-19.06.06:922][951]PIE: Play in editor start time for /Game/UEDPIE_0_level2 1.055
+[2017.12.07-19.09.02:527][226]LogRenderer: Reallocating scene render targets to support 988x548 Format 10 NumSamples 1 (Frame:693252).
+[2017.12.07-19.09.02:640][227]LogRenderer: Reallocating scene render targets to support 996x548 Format 10 NumSamples 1 (Frame:693254).
+[2017.12.07-19.09.02:757][228]LogRenderer: Reallocating scene render targets to support 1000x548 Format 10 NumSamples 1 (Frame:693256).
+[2017.12.07-19.09.02:844][229]LogRenderer: Reallocating scene render targets to support 1004x548 Format 10 NumSamples 1 (Frame:693258).
+[2017.12.07-19.10.02:559][868]Cmd: MAP LOAD FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-19.10.02:673][868]LightingResults: New page: Lighting Build
+[2017.12.07-19.10.02:676][868]LoadErrors: New page: Loading map: level1.umap
+[2017.12.07-19.10.02:708][868]MapCheck: New page: Map Check
+[2017.12.07-19.10.02:708][868]LightingResults: New page: Lighting Build
+[2017.12.07-19.10.06:929][868]LogAIModule: Creating AISystem for world level1
+[2017.12.07-19.10.07:182][868]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-19.10.07:228][868]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-19.10.08:258][868]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,029.195ms to complete.
+[2017.12.07-19.10.08:258][868]LogFileHelpers: Loading map 'level1' took 5.701
+[2017.12.07-19.10.12:048][978]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.10.12:060][978]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.10.12:062][978]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.10.12:062][978]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.10.17:276][126]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-19.10.17:305][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-19.10.17:305][126]PIE: New page: PIE session: level1 (Dec 7, 2017, 7:10:17 AM)
+[2017.12.07-19.10.17:305][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.12.07-19.10.17:530][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.224946s)
+[2017.12.07-19.10.17:532][126]LogAIModule: Creating AISystem for world level1
+[2017.12.07-19.10.17:532][126]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2017.12.07-19.10.17:533][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.227723s)
+[2017.12.07-19.10.17:573][126]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.07-19.10.17:592][126]LogInit: FAudioDevice initialized.
+[2017.12.07-19.10.17:635][126]LogLoad: Game class is 'GameModeBase'
+[2017.12.07-19.10.17:696][126]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.12.07-13.10.17
+[2017.12.07-19.10.17:703][126]LogWorld: Bringing up level for play took: 0.065958
+[2017.12.07-19.10.17:707][126]PIE: Play in editor start time for /Game/UEDPIE_0_level1 -0.16
+[2017.12.07-19.10.17:717][126]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.10.17:717][126]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.10.17:719][126]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.10.17:719][126]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.14.29:582][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow13)
+[2017.12.07-19.14.29:673][754]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_GlassWindow13)
+[2017.12.07-19.14.30:390][775]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_GlassWindow13)
+[2017.12.07-19.14.39:631][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x416)
+[2017.12.07-19.14.40:466][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow13)
+[2017.12.07-19.14.41:792][954]Cmd: DELETE
+[2017.12.07-19.14.41:792][954]Cmd: ACTOR DELETE
+[2017.12.07-19.14.41:862][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.07-19.14.41:905][954]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2017.12.07-19.14.44:971][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-19.14.45:006][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-19.14.45:007][ 43]PIE: New page: PIE session: level1 (Dec 7, 2017, 7:14:45 AM)
+[2017.12.07-19.14.45:007][ 43]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.12.07-19.14.45:242][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.234475s)
+[2017.12.07-19.14.45:243][ 43]LogAIModule: Creating AISystem for world level1
+[2017.12.07-19.14.45:244][ 43]LogPlayLevel: PIE: World Init took: (0.002180s)
+[2017.12.07-19.14.45:245][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.237926s)
+[2017.12.07-19.14.45:289][ 43]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.07-19.14.45:313][ 43]LogInit: FAudioDevice initialized.
+[2017.12.07-19.14.45:356][ 43]LogLoad: Game class is 'GameModeBase'
+[2017.12.07-19.14.45:408][ 43]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.12.07-13.14.45
+[2017.12.07-19.14.45:414][ 43]LogWorld: Bringing up level for play took: 0.055738
+[2017.12.07-19.14.45:419][ 43]PIE: Play in editor start time for /Game/UEDPIE_0_level1 -0.448
+[2017.12.07-19.14.45:430][ 43]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.14.45:431][ 43]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.14.45:432][ 43]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.14.45:432][ 43]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.14.45:649][ 48]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.14.45:650][ 48]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.14.45:653][ 48]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.14.45:653][ 48]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.17.14:304][520]LogEditorViewport: Clicking on Actor (LMB): simpleAI_C (simpleAI3)
+[2017.12.07-19.17.19:639][673]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.17.19:639][673]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.17.19:642][673]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.17.19:642][673]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.17.23:100][778]Cmd: DELETE
+[2017.12.07-19.17.23:100][778]Cmd: ACTOR DELETE
+[2017.12.07-19.17.23:152][778]LogEditorActor: Deleted Actor: simpleAI_C
+[2017.12.07-19.17.23:194][778]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2017.12.07-19.17.48:421][489]Cmd: DUPLICATE
+[2017.12.07-19.17.48:421][489]Cmd: ACTOR DUPLICATE
+[2017.12.07-19.17.57:266][693]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.17.57:266][693]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.17.57:269][693]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.17.57:269][693]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.07:215][895]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.07:215][895]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.07:217][895]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.07:217][895]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.20:548][284]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.20:549][284]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.20:551][284]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.20:551][284]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.26:524][442]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.26:524][442]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.26:527][442]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.18.26:527][442]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.03:618][331]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.03:618][331]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.03:621][331]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.03:621][331]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.22:445][860]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.22:446][860]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.22:448][860]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.22:449][860]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.26:511][983]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x306)
+[2017.12.07-19.19.40:818][272]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.40:818][272]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.40:821][272]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.40:821][272]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.19.41:177][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.07-19.19.42:993][279]LogSavePackage: Save=1724.67ms
+[2017.12.07-19.19.42:993][279]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1C6861F904EA46CE8AD7C54A294D959F9.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.12.07-19.19.42:999][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.12.07-19.19.43:033][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.12.07-19.19.44:632][279]LogSavePackage: Save=1445.61ms
+[2017.12.07-19.19.44:632][279]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataF4363853488E13C81D1A07B7C54B4F61.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.12.07-19.19.44:635][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
