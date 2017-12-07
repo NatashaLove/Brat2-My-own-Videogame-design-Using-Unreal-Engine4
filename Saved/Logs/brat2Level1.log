@@ -11048,3 +11048,16 @@ LogInit: Object subsystem initialized
 [2017.12.07-19.19.44:632][279]LogSavePackage: Save=1445.61ms
 [2017.12.07-19.19.44:632][279]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataF4363853488E13C81D1A07B7C54B4F61.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
 [2017.12.07-19.19.44:635][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.12.07-19.22.58:697][ 33]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.22.58:698][ 33]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.22.58:701][ 33]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.22.58:701][ 33]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.23.11:970][171]LogAIModule: Creating AISystem for world level2
+[2017.12.07-19.23.17:307][219]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.23.17:308][219]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.23.17:309][219]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.23.17:310][219]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.23.45:248][385]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.23.45:249][385]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.23.45:251][385]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.07-19.23.45:251][385]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
