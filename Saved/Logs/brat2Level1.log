@@ -610,3 +610,740 @@ LogInit: Object subsystem initialized
 [2017.12.08-16.09.55:286][710]LogHttp: Warning: 000001CB294C4700: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
 [2017.12.08-16.09.55:286][710]LogHttp: Warning: 000001CB294C4700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.58.47) port 443 (#8))
 [2017.12.08-16.09.55:286][710]LogHttp: Warning: 000001CB294C4700: libcurl info message cache 3 (Closing connection 8)
+[2017.12.09-03.10.17:847][127]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.09-03.10.18:196][129]LogHttp: Warning: 000001CB294C6E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.09-03.10.18:196][129]LogHttp: Warning: 000001CB294C6E00: libcurl info message cache 0 (Connection 138 seems to be dead!)
+[2017.12.09-03.10.18:196][129]LogHttp: Warning: 000001CB294C6E00: libcurl info message cache 1 (Closing connection 138)
+[2017.12.09-03.10.18:196][129]LogHttp: Warning: 000001CB294C6E00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.12.09-03.10.18:196][129]LogHttp: Warning: 000001CB294C6E00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.09-03.10.18:196][129]LogHttp: Warning: 000001CB294C6E00: libcurl info message cache 4 (Closing connection 139)
+[2017.12.09-04.43.17:992][134]LogHttp: Warning: 000001CB294C4700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.09-04.43.17:992][134]LogHttp: Warning: 000001CB294C4700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.09-04.43.17:992][134]LogHttp: Warning: 000001CB294C4700: libcurl info message cache 1 (Closing connection 140)
+[2017.12.09-04.43.18:708][135]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.09-07.55.42:934][365]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.09-15.41.52:656][371]LogHttp: Warning: 000001CB294C7880: request failed, libcurl error: 0 (No error)
+[2017.12.09-15.41.52:656][371]LogHttp: Warning: 000001CB294C7880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1cb02953fb8 [can pipeline])
+[2017.12.09-15.41.52:656][371]LogHttp: Warning: 000001CB294C7880: libcurl info message cache 1 (Re-using existing connection! (#144) with host datarouter.ol.epicgames.com)
+[2017.12.09-15.41.52:656][371]LogHttp: Warning: 000001CB294C7880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (50.16.61.90) port 443 (#144))
+[2017.12.09-15.41.52:656][371]LogHttp: Warning: 000001CB294C7880: libcurl info message cache 3 (Closing connection 144)
+[2017.12.09-15.41.52:839][372]LogHttp: Warning: 000001CB294C5C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.09-15.41.52:839][372]LogHttp: Warning: 000001CB294C5C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.09-15.41.52:839][372]LogHttp: Warning: 000001CB294C5C00: libcurl info message cache 1 (Closing connection 145)
+[2017.12.09-15.41.53:723][373]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.10-00.14.46:826][289]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.10-16.03.35:697][296]LogHttp: Warning: 000001CB294C6380: request failed, libcurl error: 28 (Timeout was reached)
+[2017.12.10-16.03.35:697][296]LogHttp: Warning: 000001CB294C6380: libcurl info message cache 0 (Connection 245 seems to be dead!)
+[2017.12.10-16.03.35:697][296]LogHttp: Warning: 000001CB294C6380: libcurl info message cache 1 (Closing connection 245)
+[2017.12.10-16.03.35:697][296]LogHttp: Warning: 000001CB294C6380: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.12.10-16.03.35:697][296]LogHttp: Warning: 000001CB294C6380: libcurl info message cache 3 (Resolving timed out after 56929937 milliseconds)
+[2017.12.10-16.03.35:697][296]LogHttp: Warning: 000001CB294C6380: libcurl info message cache 4 (Closing connection 246)
+[2017.12.10-16.03.36:852][300]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.10-19.06.04:840][738]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.10-23.02.25:791][744]LogHttp: Warning: 000001CB294C6500: request failed, libcurl error: 0 (No error)
+[2017.12.10-23.02.25:792][744]LogHttp: Warning: 000001CB294C6500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1cb02950cd0 [can pipeline])
+[2017.12.10-23.02.25:793][744]LogHttp: Warning: 000001CB294C6500: libcurl info message cache 1 (Re-using existing connection! (#247) with host datarouter.ol.epicgames.com)
+[2017.12.10-23.02.25:795][744]LogHttp: Warning: 000001CB294C6500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.242.30) port 443 (#247))
+[2017.12.10-23.02.25:795][744]LogHttp: Warning: 000001CB294C6500: libcurl info message cache 3 (Closing connection 247)
+[2017.12.10-23.44.02:777][948]Cmd: DELETE
+[2017.12.10-23.44.02:778][948]Cmd: ACTOR DELETE
+[2017.12.10-23.44.02:802][948]LogEditorActor: Deleted Actor: Brush
+[2017.12.10-23.44.02:895][948]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2017.12.10-23.44.09:457][336]LogActorFactory: Actor Factory created Cube
+[2017.12.10-23.44.10:792][416]LogActorFactory: Actor Factory created Cube
+[2017.12.10-23.44.23:460][173]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.10-23.44.27:808][432]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.10-23.44.28:801][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.45.15:722][298]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2017.12.10-23.45.15:723][298]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2017.12.10-23.45.22:424][700]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2017.12.10-23.45.22:425][700]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2017.12.10-23.45.33:474][363]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2017.12.10-23.45.33:474][363]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2017.12.10-23.45.33:575][369]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.10-23.45.42:809][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.46.27:342][580]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.12.10-23.46.29:516][710]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.12.10-23.46.53:545][149]Cmd: DELETE
+[2017.12.10-23.46.53:545][149]Cmd: ACTOR DELETE
+[2017.12.10-23.46.53:549][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.46.53:566][149]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.12.10-23.46.56:505][325]LogActorFactory: Actor Factory created SM_WindowFrame
+[2017.12.10-23.46.57:035][357]LogActorFactory: Actor Factory created SM_WindowFrame
+[2017.12.10-23.49.07:244][139]Cmd: DUPLICATE
+[2017.12.10-23.49.07:244][139]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.49.13:968][538]Cmd: DUPLICATE
+[2017.12.10-23.49.13:968][538]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.49.23:373][ 99]Cmd: DUPLICATE
+[2017.12.10-23.49.23:373][ 99]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.49.29:197][446]Cmd: DUPLICATE
+[2017.12.10-23.49.29:197][446]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.49.40:116][ 98]Cmd: DUPLICATE
+[2017.12.10-23.49.40:116][ 98]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.49.50:076][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.49.52:076][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.49.52:970][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame5)
+[2017.12.10-23.49.57:328][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.49.58:512][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame4)
+[2017.12.10-23.50.01:824][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame5)
+[2017.12.10-23.50.04:335][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame6)
+[2017.12.10-23.50.08:976][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame3)
+[2017.12.10-23.50.10:043][873]Cmd: DELETE
+[2017.12.10-23.50.10:043][873]Cmd: ACTOR DELETE
+[2017.12.10-23.50.10:048][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.50.10:066][873]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.12.10-23.50.12:339][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame2)
+[2017.12.10-23.50.17:914][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2017.12.10-23.50.19:551][438]Cmd: DUPLICATE
+[2017.12.10-23.50.19:551][438]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.50.24:614][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.50.25:366][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame2)
+[2017.12.10-23.50.27:616][915]Cmd: DUPLICATE
+[2017.12.10-23.50.27:616][915]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.50.37:604][511]Cmd: DELETE
+[2017.12.10-23.50.37:604][511]Cmd: ACTOR DELETE
+[2017.12.10-23.50.37:609][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.50.37:623][511]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.10-23.50.40:363][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame3)
+[2017.12.10-23.50.44:057][895]Cmd: DUPLICATE
+[2017.12.10-23.50.44:057][895]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.50.49:600][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame3)
+[2017.12.10-23.50.55:099][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.50.56:983][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame7)
+[2017.12.10-23.50.58:367][745]Cmd: DUPLICATE
+[2017.12.10-23.50.58:367][745]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.51.05:761][186]Cmd: DUPLICATE
+[2017.12.10-23.51.05:761][186]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.51.10:757][483]Cmd: DUPLICATE
+[2017.12.10-23.51.10:757][483]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.51.27:750][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame3)
+[2017.12.10-23.51.29:867][625]Cmd: DUPLICATE
+[2017.12.10-23.51.29:867][625]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.51.39:389][193]Cmd: DUPLICATE
+[2017.12.10-23.51.39:390][193]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.51.44:132][475]Cmd: DUPLICATE
+[2017.12.10-23.51.44:132][475]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.51.50:012][825]Cmd: DUPLICATE
+[2017.12.10-23.51.50:012][825]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.51.58:844][352]Cmd: DUPLICATE
+[2017.12.10-23.51.58:844][352]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.52.07:805][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame13)
+[2017.12.10-23.52.12:317][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.52.14:118][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame12)
+[2017.12.10-23.52.18:929][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.52.19:729][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame14)
+[2017.12.10-23.52.29:633][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame11)
+[2017.12.10-23.52.36:593][597]Cmd: DUPLICATE
+[2017.12.10-23.52.36:593][597]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.52.44:496][ 68]Cmd: DUPLICATE
+[2017.12.10-23.52.44:496][ 68]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.52.45:775][142]Cmd: DUPLICATE
+[2017.12.10-23.52.45:775][142]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.52.58:015][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.52.59:319][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame17)
+[2017.12.10-23.53.04:299][244]Cmd: DUPLICATE
+[2017.12.10-23.53.04:299][244]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.53.07:879][456]Cmd: DUPLICATE
+[2017.12.10-23.53.07:879][456]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.54.41:374][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.10-23.55.31:200][988]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.12.10-23.55.46:445][897]Cmd: DUPLICATE
+[2017.12.10-23.55.46:445][897]Cmd: ACTOR DUPLICATE
+[2017.12.10-23.56.19:178][897]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.10-23.56.25:913][251]LogSavePackage: Save=573.06ms
+[2017.12.10-23.56.25:913][251]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2_Auto13B150D774CF2B47B0F3829816689ACAE.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto1.umap'
+[2017.12.10-23.56.25:916][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto1.umap
+[2017.12.10-23.56.25:918][251]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 0.629
+[2017.12.10-23.56.25:918][251]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.629
+[2017.12.10-23.56.29:331][453]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.10-23.56.30:336][511]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.10-23.56.30:957][546]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.10-23.56.31:495][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.56.32:535][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.56.42:929][252]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.10-23.56.51:711][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.56.56:299][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.56.56:885][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.57.05:049][569]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.10-23.57.06:290][641]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.10-23.57.10:303][879]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2017.12.10-23.57.12:812][ 25]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.10-23.57.14:330][113]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2017.12.10-23.57.17:980][326]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.10-23.57.19:341][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.57.21:119][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.57.21:620][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.57.27:243][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.57.46:435][ 20]Cmd: TRANSACTION UNDO
+[2017.12.10-23.57.46:435][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.57.49:081][176]Cmd: TRANSACTION UNDO
+[2017.12.10-23.57.49:081][176]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.57.51:655][328]Cmd: TRANSACTION UNDO
+[2017.12.10-23.57.51:655][328]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.57.53:793][454]Cmd: TRANSACTION UNDO
+[2017.12.10-23.57.53:793][454]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.57.55:643][564]Cmd: TRANSACTION UNDO
+[2017.12.10-23.57.55:643][564]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.58.00:039][827]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.00:039][827]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.58.04:472][ 91]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.04:472][ 91]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.58.10:184][432]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.10:184][432]LogEditorTransaction: Undo Disband Group
+[2017.12.10-23.58.10:193][432]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.SM_WindowFrame11.StaticMeshComponent0) Component already registered.
+[2017.12.10-23.58.10:194][432]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.10-23.58.12:667][576]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.12:667][576]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.10-23.58.16:360][796]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.16:360][796]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.58.22:508][162]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.22:508][162]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.10-23.58.26:559][403]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.26:559][403]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.58.28:107][494]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.28:107][494]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.58.29:602][582]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.29:602][582]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.58.31:028][666]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.31:028][666]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.10-23.58.36:957][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.10-23.58.38:411][105]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.10-23.58.44:546][470]Cmd: DELETE
+[2017.12.10-23.58.44:546][470]Cmd: ACTOR DELETE
+[2017.12.10-23.58.44:559][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:559][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:560][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:560][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:560][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:561][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:561][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:561][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:562][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:562][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:562][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:563][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:563][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:563][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.44:564][470]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.12.10-23.58.44:564][470]LogEditorActor: Deleted Actor: Brush
+[2017.12.10-23.58.44:564][470]LogEditorActor: Deleted Actor: Landscape
+[2017.12.10-23.58.44:575][470]LogEditorActor: Deleted Actor: Landscape
+[2017.12.10-23.58.44:585][470]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2017.12.10-23.58.44:586][470]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2017.12.10-23.58.53:145][470]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.12.10-23.58.53:146][470]LogEditorActor: Deleted Actor: PlayerStart
+[2017.12.10-23.58.53:147][470]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.10-23.58.53:147][470]LogEditorActor: Deleted Actor: SkyLight
+[2017.12.10-23.58.53:148][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.53:148][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.53:148][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.53:148][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.53:149][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.53:149][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.53:149][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.58.53:170][470]LogEditorActor: Deleted 30 Actors (8.624 secs)
+[2017.12.10-23.58.57:646][731]Cmd: TRANSACTION UNDO
+[2017.12.10-23.58.57:646][731]LogEditorTransaction: Undo Delete Actors
+[2017.12.10-23.59.03:876][ 96]Cmd: DELETE
+[2017.12.10-23.59.03:876][ 96]Cmd: ACTOR DELETE
+[2017.12.10-23.59.03:883][ 96]LogEditorActor: Deleted Actor: SkyLight
+[2017.12.10-23.59.03:898][ 96]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.12.10-23.59.06:259][238]Cmd: DELETE
+[2017.12.10-23.59.06:259][238]Cmd: ACTOR DELETE
+[2017.12.10-23.59.06:265][238]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.10-23.59.06:281][238]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.12.10-23.59.08:179][352]Cmd: DELETE
+[2017.12.10-23.59.08:179][352]Cmd: ACTOR DELETE
+[2017.12.10-23.59.08:185][352]LogEditorActor: Deleted Actor: PlayerStart
+[2017.12.10-23.59.08:200][352]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.12.10-23.59.09:637][438]Cmd: DELETE
+[2017.12.10-23.59.09:637][438]Cmd: ACTOR DELETE
+[2017.12.10-23.59.09:645][438]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.12.10-23.59.09:672][438]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2017.12.10-23.59.12:120][585]Cmd: DELETE
+[2017.12.10-23.59.12:120][585]Cmd: ACTOR DELETE
+[2017.12.10-23.59.12:126][585]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2017.12.10-23.59.12:141][585]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.12.10-23.59.13:771][683]Cmd: DELETE
+[2017.12.10-23.59.13:771][683]Cmd: ACTOR DELETE
+[2017.12.10-23.59.13:784][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:784][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:785][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:785][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:785][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:786][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:786][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:786][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:787][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:787][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:787][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:788][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:788][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:788][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.13:789][683]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.12.10-23.59.13:789][683]LogEditorActor: Deleted Actor: Brush
+[2017.12.10-23.59.13:789][683]LogEditorActor: Deleted Actor: Landscape
+[2017.12.10-23.59.13:800][683]LogEditorActor: Deleted Actor: Landscape
+[2017.12.10-23.59.13:810][683]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2017.12.10-23.59.13:811][683]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2017.12.10-23.59.18:833][683]LogEditorActor: Deleted Actor: PlayerStart
+[2017.12.10-23.59.18:833][683]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.10-23.59.18:834][683]LogEditorActor: Deleted Actor: SkyLight
+[2017.12.10-23.59.18:834][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.18:835][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.18:835][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.18:835][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.18:835][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.18:836][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.18:836][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.18:870][683]LogEditorActor: Deleted 29 Actors (5.098 secs)
+[2017.12.10-23.59.23:937][982]Cmd: TRANSACTION UNDO
+[2017.12.10-23.59.23:937][982]LogEditorTransaction: Undo Delete Actors
+[2017.12.10-23.59.23:967][982]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.LightSource.LightComponent0) Component already registered.
+[2017.12.10-23.59.33:175][519]Cmd: DELETE
+[2017.12.10-23.59.33:175][519]Cmd: ACTOR DELETE
+[2017.12.10-23.59.33:181][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.33:196][519]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.12.10-23.59.34:911][622]Cmd: DELETE
+[2017.12.10-23.59.34:912][622]Cmd: ACTOR DELETE
+[2017.12.10-23.59.34:924][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:924][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:925][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:925][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:925][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:926][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:926][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:926][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:927][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:927][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:927][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:928][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:928][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:928][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.34:928][622]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.12.10-23.59.34:929][622]LogEditorActor: Deleted Actor: Brush
+[2017.12.10-23.59.34:929][622]LogEditorActor: Deleted Actor: Landscape
+[2017.12.10-23.59.34:941][622]LogEditorActor: Deleted Actor: Landscape
+[2017.12.10-23.59.34:952][622]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2017.12.10-23.59.34:953][622]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2017.12.10-23.59.39:008][622]LogEditorActor: Deleted Actor: PlayerStart
+[2017.12.10-23.59.39:009][622]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.10-23.59.39:010][622]LogEditorActor: Deleted Actor: SkyLight
+[2017.12.10-23.59.39:010][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.39:010][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.39:011][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.39:011][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.39:011][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.39:011][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.39:012][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.10-23.59.39:044][622]LogEditorActor: Deleted 29 Actors (4.132 secs)
+[2017.12.10-23.59.44:110][919]Cmd: TRANSACTION UNDO
+[2017.12.10-23.59.44:110][919]LogEditorTransaction: Undo Delete Actors
+[2017.12.10-23.59.44:139][919]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.LightSource.LightComponent0) Component already registered.
+[2017.12.10-23.59.55:173][575]Cmd: DELETE
+[2017.12.10-23.59.55:173][575]Cmd: ACTOR DELETE
+[2017.12.10-23.59.55:178][575]LogEditorActor: Deleted Actor: Brush
+[2017.12.10-23.59.55:201][575]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2017.12.10-23.59.58:231][756]Cmd: DELETE
+[2017.12.10-23.59.58:231][756]Cmd: ACTOR DELETE
+[2017.12.10-23.59.58:237][756]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.12.10-23.59.58:251][756]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.12.11-00.00.08:765][384]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-00.00.09:973][454]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2017.12.11-00.00.20:066][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.00.21:033][105]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.12.11-00.00.28:869][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.00.41:511][324]Cmd: TRANSACTION UNDO
+[2017.12.11-00.00.41:511][324]LogEditorTransaction: Undo Move Actors
+[2017.12.11-00.00.44:527][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.00.45:191][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2017.12.11-00.00.50:975][887]Cmd: DELETE
+[2017.12.11-00.00.50:975][887]Cmd: ACTOR DELETE
+[2017.12.11-00.00.50:981][887]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.00.50:996][887]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.12.11-00.01.08:054][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.01.18:370][521]Cmd: DELETE
+[2017.12.11-00.01.18:370][521]Cmd: ACTOR DELETE
+[2017.12.11-00.01.18:376][521]LogEditorActor: Deleted Actor: Landscape
+[2017.12.11-00.01.18:403][521]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2017.12.11-00.01.26:860][ 28]Cmd: TRANSACTION UNDO
+[2017.12.11-00.01.26:861][ 28]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-00.01.28:796][143]Cmd: TRANSACTION UNDO
+[2017.12.11-00.01.28:796][143]LogEditorTransaction: Undo Delete Actors
+[2017.12.11-00.01.49:797][396]Cmd: DELETE
+[2017.12.11-00.01.49:797][396]Cmd: ACTOR DELETE
+[2017.12.11-00.01.49:805][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:805][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:806][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:806][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:806][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:807][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:807][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:807][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:807][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:808][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:808][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:808][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:809][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:809][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:809][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:810][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:810][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:810][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:811][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:811][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.01.49:825][396]LogEditorActor: Deleted 20 Actors (0.028 secs)
+[2017.12.11-00.01.52:811][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame2)
+[2017.12.11-00.01.54:362][666]Cmd: DUPLICATE
+[2017.12.11-00.01.54:362][666]Cmd: ACTOR DUPLICATE
+[2017.12.11-00.02.43:430][594]Cmd: DUPLICATE
+[2017.12.11-00.02.43:430][594]Cmd: ACTOR DUPLICATE
+[2017.12.11-00.03.22:892][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.03.31:994][482]Cmd: DUPLICATE
+[2017.12.11-00.03.31:994][482]Cmd: ACTOR DUPLICATE
+[2017.12.11-00.03.44:495][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.12.11-00.03.44:908][253]Cmd: DELETE
+[2017.12.11-00.03.44:908][253]Cmd: ACTOR DELETE
+[2017.12.11-00.03.44:919][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.03.44:935][253]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.11-00.03.47:027][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.11-00.03.48:963][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame34)
+[2017.12.11-00.03.52:577][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame15)
+[2017.12.11-00.03.53:686][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.04.03:477][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.04.19:038][281]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-00.04.20:083][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.04.31:862][ 42]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.12.11-00.04.40:032][529]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-00.04.40:908][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-00.04.43:240][718]Cmd: DUPLICATE
+[2017.12.11-00.04.43:240][718]Cmd: ACTOR DUPLICATE
+[2017.12.11-00.05.06:484][102]Cmd: DELETE
+[2017.12.11-00.05.06:484][102]Cmd: ACTOR DELETE
+[2017.12.11-00.05.06:490][102]LogEditorActor: Deleted Actor: Brush
+[2017.12.11-00.05.06:506][102]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.12.11-00.05.26:656][310]LogActorFactory: Actor Factory created Cube
+[2017.12.11-00.05.28:443][417]LogActorFactory: Actor Factory created Cube
+[2017.12.11-00.05.37:961][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.12.11-00.06.52:519][446]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-00.07.06:786][296]LogActorFactory: Actor Factory created Cube
+[2017.12.11-00.07.09:504][459]LogActorFactory: Actor Factory created Cube
+[2017.12.11-00.07.27:171][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.12.11-00.07.33:122][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.12.11-00.09.36:770][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.12.11-00.09.39:354][412]Cmd: DUPLICATE
+[2017.12.11-00.09.39:354][412]Cmd: ACTOR DUPLICATE
+[2017.12.11-00.10.32:618][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.12.11-00.10.35:587][772]Cmd: DELETE
+[2017.12.11-00.10.35:587][772]Cmd: ACTOR DELETE
+[2017.12.11-00.10.35:593][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-00.10.35:610][772]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.12.11-00.10.59:165][183]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.12.11-00.11.17:142][260]Cmd: DELETE
+[2017.12.11-00.11.17:142][260]Cmd: ACTOR DELETE
+[2017.12.11-00.11.17:154][260]LogEditorActor: Deleted Actor: Actor
+[2017.12.11-00.11.17:177][260]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2017.12.11-00.11.29:256][982]LogActorFactory: Actor Factory created Shape_Sphere
+[2017.12.11-00.11.29:709][  9]LogActorFactory: Actor Factory created Shape_Sphere
+[2017.12.11-00.13.17:747][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-00.14.04:250][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.12.11-00.14.50:703][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.11-00.14.51:218][ 35]LogSavePackage: Save=485.68ms
+[2017.12.11-00.14.51:218][ 35]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level21B85F2424BA00499A1251A8564E17029.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.11-00.14.51:223][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.11-03.00.26:742][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.12.11-03.00.29:614][806]Cmd: DELETE
+[2017.12.11-03.00.29:614][806]Cmd: ACTOR DELETE
+[2017.12.11-03.00.29:620][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-03.00.29:638][806]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.12.11-03.00.31:615][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.12.11-03.00.38:874][358]Cmd: TRANSACTION UNDO
+[2017.12.11-03.00.38:874][358]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.00.40:889][478]Cmd: TRANSACTION UNDO
+[2017.12.11-03.00.40:889][478]LogEditorTransaction: Undo Delete Actors
+[2017.12.11-03.01.28:748][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere)
+[2017.12.11-03.02.39:382][551]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2017.12.11-03.02.41:230][660]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2017.12.11-03.02.43:661][804]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2017.12.11-03.03.04:394][ 40]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.12.11-03.03.39:779][149]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.12.11-03.03.41:585][257]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.12.11-03.03.44:212][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.12.11-03.03.52:790][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.12.11-03.03.56:950][172]Cmd: TRANSACTION UNDO
+[2017.12.11-03.03.56:950][172]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.03.59:906][347]Cmd: TRANSACTION UNDO
+[2017.12.11-03.03.59:906][347]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.04.01:410][435]Cmd: TRANSACTION UNDO
+[2017.12.11-03.04.01:410][435]LogEditorTransaction: Undo Create Actors
+[2017.12.11-03.04.03:453][556]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.12.11-03.04.04:340][609]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.12.11-03.04.17:162][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.12.11-03.04.20:582][575]Cmd: TRANSACTION UNDO
+[2017.12.11-03.04.20:582][575]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.04.26:144][906]Cmd: TRANSACTION UNDO
+[2017.12.11-03.04.26:144][906]LogEditorTransaction: Undo Move Actors
+[2017.12.11-03.05.16:526][916]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-03.05.17:654][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2017.12.11-03.05.25:951][476]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-03.05.28:498][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2017.12.11-03.05.31:137][782]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-03.05.40:835][357]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.05.41:511][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2017.12.11-03.06.24:115][939]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.06.25:577][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2017.12.11-03.06.31:986][406]Cmd: DELETE
+[2017.12.11-03.06.31:986][406]Cmd: ACTOR DELETE
+[2017.12.11-03.06.31:994][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-03.06.32:019][406]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2017.12.11-03.06.35:344][606]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-03.06.35:358][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-03.06.35:358][606]PIE: New page: PIE session: level2 (Dec 10, 2017, 3:06:35 PM)
+[2017.12.11-03.06.35:358][606]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level2
+[2017.12.11-03.06.35:386][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027494s)
+[2017.12.11-03.06.35:388][606]LogAIModule: Creating AISystem for world level2
+[2017.12.11-03.06.35:388][606]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2017.12.11-03.06.35:389][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level2.level2 to /Game/UEDPIE_0_level2.level2 (0.029774s)
+[2017.12.11-03.06.35:407][606]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-03.06.35:418][606]LogInit: FAudioDevice initialized.
+[2017.12.11-03.06.35:449][606]LogLoad: Game class is 'GameModeBase'
+[2017.12.11-03.06.35:455][606]LogWorld: Bringing World /Game/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.12.10-21.06.35
+[2017.12.11-03.06.35:456][606]LogWorld: Bringing up level for play took: 0.005241
+[2017.12.11-03.06.35:458][606]PIE: Play in editor start time for /Game/UEDPIE_0_level2 -0.223
+[2017.12.11-03.07.14:338][932]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-03.07.14:351][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-03.07.14:351][932]PIE: New page: PIE session: level2 (Dec 10, 2017, 3:07:14 PM)
+[2017.12.11-03.07.14:351][932]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level2
+[2017.12.11-03.07.14:374][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023114s)
+[2017.12.11-03.07.14:375][932]LogAIModule: Creating AISystem for world level2
+[2017.12.11-03.07.14:375][932]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2017.12.11-03.07.14:376][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level2.level2 to /Game/UEDPIE_0_level2.level2 (0.024325s)
+[2017.12.11-03.07.14:391][932]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-03.07.14:400][932]LogInit: FAudioDevice initialized.
+[2017.12.11-03.07.14:432][932]LogLoad: Game class is 'GameModeBase'
+[2017.12.11-03.07.14:437][932]LogWorld: Bringing World /Game/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.12.10-21.07.14
+[2017.12.11-03.07.14:438][932]LogWorld: Bringing up level for play took: 0.004719
+[2017.12.11-03.07.14:439][932]PIE: Play in editor start time for /Game/UEDPIE_0_level2 0.758
+[2017.12.11-03.07.18:044][132]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.12.11-03.07.20:665][286]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.12.11-03.07.21:747][350]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-03.07.23:875][477]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2017.12.11-03.07.45:811][713]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2017.12.11-03.07.58:155][450]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-03.07.59:216][512]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.12.11-03.08.15:659][496]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.08.17:855][627]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.08.19:435][721]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.08.21:781][861]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.08.27:287][185]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.08.29:799][335]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.08.31:246][421]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.08.34:912][640]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.09.43:987][783]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.11-03.10.05:891][ 84]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.12.11-03.12.03:832][147]Cmd: TRANSACTION UNDO
+[2017.12.11-03.12.03:832][147]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2017.12.11-03.12.03:846][147]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.11-03.12.03:854][147]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.11-03.12.03:865][147]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2017.12.11-03.12.03:874][147]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2017.12.11-03.12.05:791][260]Cmd: TRANSACTION UNDO
+[2017.12.11-03.12.05:791][260]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2017.12.11-03.12.05:803][260]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.11-03.12.05:821][260]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.11-03.12.05:842][260]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.11-03.12.05:851][260]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2017.12.11-03.12.06:997][327]Cmd: TRANSACTION UNDO
+[2017.12.11-03.12.06:997][327]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2017.12.11-03.12.07:007][327]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.11-03.12.07:015][327]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.11-03.12.10:410][529]Cmd: TRANSACTION UNDO
+[2017.12.11-03.12.10:411][529]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2017.12.11-03.12.10:430][529]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2017.12.11-03.12.10:439][529]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.11-03.12.10:449][529]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2017.12.11-03.12.10:458][529]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.11-03.12.10:467][529]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.11-03.12.10:476][529]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2017.12.11-03.12.10:512][529]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2017.12.11-03.12.10:522][529]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2017.12.11-03.12.10:531][529]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2017.12.11-03.12.12:877][667]Cmd: TRANSACTION UNDO
+[2017.12.11-03.12.12:877][667]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2017.12.11-03.12.12:893][667]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.11-03.12.12:901][667]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2017.12.11-03.12.12:909][667]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2017.12.11-03.12.12:918][667]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2017.12.11-03.14.21:486][365]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube4)
+[2017.12.11-03.14.35:128][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.12.11-03.14.35:577][203]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2017.12.11-03.14.42:501][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.14.43:576][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.12.11-03.14.57:617][517]Cmd: DUPLICATE
+[2017.12.11-03.14.57:617][517]Cmd: ACTOR DUPLICATE
+[2017.12.11-03.15.47:448][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere2)
+[2017.12.11-03.15.50:059][656]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Sphere2)
+[2017.12.11-03.15.56:111][ 16]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube7)
+[2017.12.11-03.16.03:531][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere2)
+[2017.12.11-03.16.30:981][ 99]Cmd: DELETE
+[2017.12.11-03.16.30:981][ 99]Cmd: ACTOR DELETE
+[2017.12.11-03.16.30:992][ 99]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-03.16.31:013][ 99]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2017.12.11-03.16.42:122][765]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.11-03.16.45:351][956]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.16.47:121][ 61]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.16.50:533][265]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.16.52:560][386]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.17.07:823][301]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.17.08:767][357]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.17.09:643][409]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.17.14:094][675]Cmd: TRANSACTION UNDO
+[2017.12.11-03.17.14:094][675]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.17.15:828][778]Cmd: TRANSACTION UNDO
+[2017.12.11-03.17.15:828][778]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.17.17:392][871]Cmd: TRANSACTION UNDO
+[2017.12.11-03.17.17:392][871]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.17.18:634][945]Cmd: TRANSACTION UNDO
+[2017.12.11-03.17.18:634][945]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.17.20:179][ 37]Cmd: TRANSACTION UNDO
+[2017.12.11-03.17.20:179][ 37]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.17.21:760][131]Cmd: TRANSACTION UNDO
+[2017.12.11-03.17.21:760][131]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.17.23:153][214]Cmd: TRANSACTION UNDO
+[2017.12.11-03.17.23:153][214]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.17.53:669][ 31]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-03.17.57:540][261]Cmd: TRANSACTION UNDO
+[2017.12.11-03.17.57:540][261]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.11-03.18.54:626][662]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.19.48:420][864]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-03.19.53:937][189]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2017.12.11-03.20.32:055][460]Cmd: POLY SELECT ADJACENT ALL
+[2017.12.11-03.20.36:544][728]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.21.04:033][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.11-03.21.04:216][363]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2017.12.11-03.21.04:217][363]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2017.12.11-03.21.04:218][363]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2017.12.11-03.21.04:219][363]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2017.12.11-03.21.04:220][363]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2017.12.11-03.21.04:221][363]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2017.12.11-03.21.04:222][363]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2017.12.11-03.21.04:223][363]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2017.12.11-03.21.04:224][363]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2017.12.11-03.21.04:225][363]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2017.12.11-03.21.04:226][363]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2017.12.11-03.21.04:227][363]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.11-03.21.04:228][363]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.11-03.21.04:229][363]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2017.12.11-03.21.04:230][363]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2017.12.11-03.21.04:231][363]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2017.12.11-03.21.04:234][363]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.11-03.21.04:235][363]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2017.12.11-03.21.04:640][363]LogSavePackage: Save=577.35ms
+[2017.12.11-03.21.04:640][363]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2709D437743D7924E985BFDB1B2299F2D.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.11-03.21.04:646][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.11-03.40.31:973][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.12.11-03.40.46:156][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.12.11-03.41.02:585][118]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2017.12.11-03.41.06:717][364]Cmd: DUPLICATE
+[2017.12.11-03.41.06:717][364]Cmd: ACTOR DUPLICATE
+[2017.12.11-03.42.04:305][810]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.42.07:138][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.12.11-03.42.19:248][700]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.42.20:459][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.12.11-03.42.39:713][920]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.42.59:220][ 80]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.42.59:754][111]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-03.43.29:759][907]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.11-03.44.21:629][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.12.11-03.44.26:718][300]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.44.38:541][  5]Cmd: POLY SELECT ADJACENT ALL
+[2017.12.11-03.44.45:879][443]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.47.22:279][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.12.11-03.47.36:012][594]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-03.47.36:026][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-03.47.36:026][594]PIE: New page: PIE session: level2 (Dec 10, 2017, 3:47:36 PM)
+[2017.12.11-03.47.36:026][594]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level2
+[2017.12.11-03.47.36:081][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054795s)
+[2017.12.11-03.47.36:082][594]LogAIModule: Creating AISystem for world level2
+[2017.12.11-03.47.36:082][594]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2017.12.11-03.47.36:083][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level2.level2 to /Game/UEDPIE_0_level2.level2 (0.056394s)
+[2017.12.11-03.47.36:109][594]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-03.47.36:120][594]LogInit: FAudioDevice initialized.
+[2017.12.11-03.47.36:153][594]LogLoad: Game class is 'GameModeBase'
+[2017.12.11-03.47.36:160][594]LogWorld: Bringing World /Game/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.12.10-21.47.36
+[2017.12.11-03.47.36:160][594]LogWorld: Bringing up level for play took: 0.006153
+[2017.12.11-03.47.36:162][594]PIE: Play in editor start time for /Game/UEDPIE_0_level2 0.481
+[2017.12.11-03.48.45:169][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.11-03.51.26:911][764]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2017.12.11-03.51.26:913][764]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2017.12.11-03.51.26:914][764]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2017.12.11-03.51.26:914][764]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2017.12.11-03.51.26:916][764]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2017.12.11-03.51.26:916][764]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2017.12.11-03.51.26:917][764]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2017.12.11-03.51.26:918][764]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2017.12.11-03.51.26:919][764]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2017.12.11-03.51.26:920][764]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2017.12.11-03.51.26:922][764]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2017.12.11-03.51.26:923][764]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2017.12.11-03.51.27:363][764]LogSavePackage: Save=608.17ms
+[2017.12.11-03.51.27:363][764]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2_Auto2F77571F04126C40A342F859FD9AD4556.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto2.umap'
+[2017.12.11-03.51.27:366][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto2.umap
+[2017.12.11-03.51.27:368][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 0.646
+[2017.12.11-03.51.27:368][764]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.646
+[2017.12.11-03.51.32:908][ 66]LogRenderer: Reallocating scene render targets to support 900x604 Format 10 NumSamples 1 (Frame:1).
+[2017.12.11-03.55.57:222][354]AssetReimport: New page: Outstanding source content changes 3:55:57 PM
+[2017.12.11-03.55.57:225][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/flag.jpg)
+[2017.12.11-03.55.57:848][355]LogSavePackage: Save=120.44ms
+[2017.12.11-03.55.57:848][355]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/flagE78C166A4DF0553509DD3AAFAC8D0F3B.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/flag.uasset'
+[2017.12.11-03.55.57:853][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/StarterContent/Textures/flag.uasset
+[2017.12.11-03.56.00:870][531]AssetReimport: Importing new asset /Game/StarterContent/Textures/flag.
+[2017.12.11-03.56.21:604][772]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.11-03.56.55:451][779]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.11-03.57.03:012][228]LogMaterial: Missing cached shader map for material flag_Mat, compiling. 
+[2017.12.11-03.58.45:391][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.12.11-03.58.49:323][569]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-03.59.12:131][933]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2017.12.11-03.59.13:113][992]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2017.12.11-03.59.13:880][ 38]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2017.12.11-03.59.14:397][ 69]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2017.12.11-03.59.15:147][114]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2017.12.11-03.59.15:730][149]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2017.12.11-03.59.15:980][164]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2017.12.11-03.59.17:214][238]Cmd: POLY TEXPAN U=0.000000 V=64.000000
+[2017.12.11-03.59.17:497][255]Cmd: POLY TEXPAN U=0.000000 V=64.000000
+[2017.12.11-03.59.19:230][359]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2017.12.11-03.59.19:747][390]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2017.12.11-03.59.19:913][400]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2017.12.11-03.59.20:647][444]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2017.12.11-03.59.20:830][455]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2017.12.11-03.59.21:230][479]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2017.12.11-03.59.21:430][491]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2017.12.11-03.59.22:147][534]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2017.12.11-03.59.22:614][562]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2017.12.11-03.59.22:797][573]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2017.12.11-03.59.24:514][676]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2017.12.11-03.59.24:781][692]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2017.12.11-03.59.24:998][705]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2017.12.11-03.59.25:214][718]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2017.12.11-03.59.26:547][798]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2017.12.11-03.59.26:998][825]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2017.12.11-03.59.27:231][839]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2017.12.11-04.00.17:040][827]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-04.01.10:651][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.12.11-04.01.16:641][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.12.11-04.01.22:726][758]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube8)
+[2017.12.11-04.01.26:229][966]Cmd: DUPLICATE
+[2017.12.11-04.01.26:229][966]Cmd: ACTOR DUPLICATE
+[2017.12.11-04.02.20:561][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.12.11-04.02.38:348][276]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.11-04.02.55:073][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.12.11-04.03.27:744][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.12.11-04.03.28:587][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.12.11-04.03.29:984][366]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.11-04.03.30:636][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.12.11-04.03.51:725][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.12.11-04.04.14:487][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.11-04.04.15:230][ 25]LogSavePackage: Save=710.43ms
+[2017.12.11-04.04.15:230][ 25]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2439E3B0445D29A67085C7EA8E4EED3FA.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.11-04.04.15:236][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
