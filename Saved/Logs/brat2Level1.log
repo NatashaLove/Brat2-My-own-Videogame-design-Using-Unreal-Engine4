@@ -810,3 +810,37 @@ LogInit: Object subsystem initialized
 [2017.12.12-06.39.41:237][ 61]Cmd: DELETE
 [2017.12.12-06.39.41:238][ 61]Cmd: ACTOR DELETE
 [2017.12.12-06.39.41:911][ 61]LogEditorActor: Deleted Actor: Brush
+[2017.12.12-06.41.00:365][ 61]LogEditorActor: Deleted 1 Actors (79.126 secs)
+[2017.12.12-06.41.01:186][ 61]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.41.02:323][ 61]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.41.02:630][ 61]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2017.12.12-06.42.21:931][501]LogSavePackage: Save=3457.95ms
+[2017.12.12-06.42.21:934][501]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2_Auto46997DE944EB23453221EABB710580D18.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto4.umap'
+[2017.12.12-06.42.21:938][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto4.umap
+[2017.12.12-06.42.21:947][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 4.045
+[2017.12.12-06.42.21:947][501]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.045
+[2017.12.12-06.43.10:723][775]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.12.12-06.43.18:531][197]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush83)
+[2017.12.12-06.44.03:135][282]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2017.12.12-06.45.20:241][360]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.45.20:824][392]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.45.22:014][462]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.45.51:738][204]Cmd: DUPLICATE
+[2017.12.12-06.45.51:738][204]Cmd: ACTOR DUPLICATE
+[2017.12.12-06.47.59:249][101]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush100)
+[2017.12.12-06.50.48:911][723]Cmd: TRANSACTION UNDO
+[2017.12.12-06.50.48:911][723]LogEditorTransaction: Undo Move Actors
+[2017.12.12-06.50.49:013][723]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush29.BrushComponent0) Component already registered.
+[2017.12.12-06.50.49:015][723]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush14.BrushComponent0) Component already registered.
+[2017.12.12-06.50.49:180][723]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush96.BrushComponent0) Component already registered.
+[2017.12.12-06.50.49:188][723]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush60.BrushComponent0) Component already registered.
+[2017.12.12-06.53.23:755][ 77]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.12-06.54.43:548][602]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush100)
+[2017.12.12-06.54.48:034][853]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush101)
+[2017.12.12-06.55.50:122][124]LogEditorViewport: Clicking Background
+[2017.12.12-06.56.09:069][ 74]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush112)
+[2017.12.12-06.58.21:635][952]LogSavePackage: Save=3348.52ms
+[2017.12.12-06.58.21:636][952]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2_Auto5A921859E4178533E9BD52499B16E4C7E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto5.umap'
+[2017.12.12-06.58.21:644][952]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto5.umap
+[2017.12.12-06.58.21:652][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 46.543
+[2017.12.12-06.58.21:652][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 46.543
