@@ -382,3 +382,120 @@ LogInit: Object subsystem initialized
 [2017.12.12-07.32.55:104][581]LogSavePackage: Save=3315.65ms
 [2017.12.12-07.32.55:109][581]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2974547B14B84F2029B682EA2733C7DCF.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
 [2017.12.12-07.32.55:128][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.12-07.33.52:688][582]Cmd: DELETE
+[2017.12.12-07.33.52:693][582]Cmd: ACTOR DELETE
+[2017.12.12-07.33.53:004][582]LogEditorActor: Deleted Actor: Brush
+[2017.12.12-07.33.58:375][582]LogEditorActor: Deleted 1 Actors (5.648 secs)
+[2017.12.12-07.33.58:764][582]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush130)
+[2017.12.12-07.33.58:836][582]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-07.34.24:228][806]Cmd: DELETE
+[2017.12.12-07.34.24:228][806]Cmd: ACTOR DELETE
+[2017.12.12-07.34.24:284][806]LogEditorActor: Deleted Actor: Brush
+[2017.12.12-07.34.27:072][806]LogEditorActor: Deleted 1 Actors (2.843 secs)
+[2017.12.12-07.34.38:636][491]LogActorFactory: Actor Factory created Cone
+[2017.12.12-07.34.41:370][641]LogActorFactory: Actor Factory created Cone
+[2017.12.12-07.36.33:482][331]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cone)
+[2017.12.12-07.37.53:457][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.12.12-07.37.54:448][163]Cmd: DELETE
+[2017.12.12-07.37.54:448][163]Cmd: ACTOR DELETE
+[2017.12.12-07.37.54:500][163]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.12-07.37.54:514][163]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2017.12.12-07.37.59:812][470]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.12-07.38.23:990][407]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_18559' invalid (119398 verts, 0 indices).
+[2017.12.12-07.38.23:991][407]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_18559.BodySetup_18560 when we are unable to.
+[2017.12.12-07.40.22:055][277]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_21958' invalid (119726 verts, 0 indices).
+[2017.12.12-07.40.22:056][277]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_21958.BodySetup_21959 when we are unable to.
+[2017.12.12-07.40.28:679][465]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_22276' invalid (119746 verts, 0 indices).
+[2017.12.12-07.40.28:679][465]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_22276.BodySetup_22277 when we are unable to.
+[2017.12.12-07.40.52:701][801]Cmd: POLY SELECT ADJACENT ALL
+[2017.12.12-07.41.12:375][952]Cmd: POLY SELECT ADJACENT ALL
+[2017.12.12-07.42.17:649][840]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2017.12.12-07.42.22:097][104]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2017.12.12-07.43.29:056][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.44.33:042][873]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2017.12.12-07.44.35:824][873]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_22591' invalid (119746 verts, 0 indices).
+[2017.12.12-07.44.35:824][873]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_22591.BodySetup_22592 when we are unable to.
+[2017.12.12-07.44.51:167][597]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_22906' invalid (119746 verts, 0 indices).
+[2017.12.12-07.44.51:167][597]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_22906.BodySetup_22907 when we are unable to.
+[2017.12.12-07.45.04:661][215]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_23221' invalid (119746 verts, 0 indices).
+[2017.12.12-07.45.04:661][215]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_23221.BodySetup_23222 when we are unable to.
+[2017.12.12-07.45.04:976][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.45.27:789][396]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_23535' invalid (119794 verts, 0 indices).
+[2017.12.12-07.45.27:789][396]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_23535.BodySetup_23536 when we are unable to.
+[2017.12.12-07.45.35:849][690]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_23851' invalid (119820 verts, 0 indices).
+[2017.12.12-07.45.35:849][690]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_23851.BodySetup_23852 when we are unable to.
+[2017.12.12-07.45.41:660][843]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_24167' invalid (119816 verts, 0 indices).
+[2017.12.12-07.45.41:660][843]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_24167.BodySetup_24168 when we are unable to.
+[2017.12.12-07.45.49:305][109]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_24483' invalid (119844 verts, 0 indices).
+[2017.12.12-07.45.49:305][109]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_24483.BodySetup_24484 when we are unable to.
+[2017.12.12-07.46.09:336][111]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_24799' invalid (119844 verts, 0 indices).
+[2017.12.12-07.46.09:336][111]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_24799.BodySetup_24800 when we are unable to.
+[2017.12.12-07.46.18:765][471]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_25115' invalid (119922 verts, 0 indices).
+[2017.12.12-07.46.18:765][471]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_25115.BodySetup_25116 when we are unable to.
+[2017.12.12-07.46.25:200][656]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_25431' invalid (119942 verts, 0 indices).
+[2017.12.12-07.46.25:200][656]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_25431.BodySetup_25432 when we are unable to.
+[2017.12.12-07.46.36:110][107]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_25747' invalid (119896 verts, 0 indices).
+[2017.12.12-07.46.36:111][107]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_25747.BodySetup_25748 when we are unable to.
+[2017.12.12-07.47.02:868][510]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_26063' invalid (119918 verts, 0 indices).
+[2017.12.12-07.47.02:869][510]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_26063.BodySetup_26064 when we are unable to.
+[2017.12.12-07.48.03:904][147]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.12-07.48.06:967][147]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_26379' invalid (119942 verts, 0 indices).
+[2017.12.12-07.48.06:967][147]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_26379.BodySetup_26380 when we are unable to.
+[2017.12.12-07.48.15:129][432]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_26695' invalid (119942 verts, 0 indices).
+[2017.12.12-07.48.15:129][432]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_26695.BodySetup_26696 when we are unable to.
+[2017.12.12-07.48.23:171][722]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_27011' invalid (119942 verts, 0 indices).
+[2017.12.12-07.48.23:171][722]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_27011.BodySetup_27012 when we are unable to.
+[2017.12.12-07.48.31:784][217]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-07.48.43:443][723]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_27327' invalid (119942 verts, 0 indices).
+[2017.12.12-07.48.43:443][723]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_27327.BodySetup_27328 when we are unable to.
+[2017.12.12-07.48.49:201][877]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_27643' invalid (119958 verts, 0 indices).
+[2017.12.12-07.48.49:201][877]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_27643.BodySetup_27644 when we are unable to.
+[2017.12.12-07.49.07:555][776]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_27959' invalid (119958 verts, 0 indices).
+[2017.12.12-07.49.07:555][776]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_27959.BodySetup_27960 when we are unable to.
+[2017.12.12-07.49.35:396][237]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_28275' invalid (119958 verts, 0 indices).
+[2017.12.12-07.49.35:396][237]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_28275.BodySetup_28276 when we are unable to.
+[2017.12.12-07.49.48:676][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_28591' invalid (119958 verts, 0 indices).
+[2017.12.12-07.49.48:676][830]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_28591.BodySetup_28592 when we are unable to.
+[2017.12.12-07.50.09:704][890]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_28906' invalid (119990 verts, 0 indices).
+[2017.12.12-07.50.09:704][890]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_28906.BodySetup_28907 when we are unable to.
+[2017.12.12-07.50.18:328][204]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_29224' invalid (119990 verts, 0 indices).
+[2017.12.12-07.50.18:328][204]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_29224.BodySetup_29225 when we are unable to.
+[2017.12.12-07.50.27:006][514]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_29542' invalid (119990 verts, 0 indices).
+[2017.12.12-07.50.27:006][514]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_29542.BodySetup_29543 when we are unable to.
+[2017.12.12-07.50.35:317][782]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_29861' invalid (119990 verts, 0 indices).
+[2017.12.12-07.50.35:317][782]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_29861.BodySetup_29862 when we are unable to.
+[2017.12.12-07.50.55:622][775]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_30180' invalid (119990 verts, 0 indices).
+[2017.12.12-07.50.55:623][775]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_30180.BodySetup_30181 when we are unable to.
+[2017.12.12-07.51.28:358][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.51.43:616][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.51.51:729][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.52.03:472][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.52.16:941][461]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.52.19:112][589]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.52.28:300][890]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_30501' invalid (119934 verts, 0 indices).
+[2017.12.12-07.52.28:300][890]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_30501.BodySetup_30502 when we are unable to.
+[2017.12.12-07.52.51:888][ 59]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_30818' invalid (119934 verts, 0 indices).
+[2017.12.12-07.52.51:888][ 59]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_30818.BodySetup_30819 when we are unable to.
+[2017.12.12-07.54.10:409][636]Cmd: TRANSACTION UNDO
+[2017.12.12-07.54.10:409][636]LogEditorTransaction: Undo Create Actors
+[2017.12.12-07.54.10:543][636]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2017.12.12-07.54.10:543][636]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2017.12.12-07.54.10:543][636]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_30808' invalid (119934 verts, 0 indices).
+[2017.12.12-07.54.10:543][636]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_30808.BodySetup_30809 when we are unable to.
+[2017.12.12-07.54.12:997][636]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_30818' invalid (119934 verts, 0 indices).
+[2017.12.12-07.54.12:997][636]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_30818.BodySetup_30819 when we are unable to.
+[2017.12.12-07.54.41:195][264]Cmd: POLY SELECT ADJACENT ALL
+[2017.12.12-07.54.51:091][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2017.12.12-07.55.09:256][915]Cmd: TRANSACTION UNDO
+[2017.12.12-07.55.09:256][915]LogEditorTransaction: Undo Create Actors
+[2017.12.12-07.55.09:390][915]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2017.12.12-07.55.09:390][915]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_30567' invalid (119934 verts, 0 indices).
+[2017.12.12-07.55.09:390][915]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_30567.BodySetup_30568 when we are unable to.
+[2017.12.12-07.55.11:843][915]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/level2.level2:PersistentLevel.ModelComponent_30818' invalid (119934 verts, 0 indices).
+[2017.12.12-07.55.11:843][915]LogPhysics: Warning: Attempt to build physics data for /Game/level2.level2:PersistentLevel.ModelComponent_30818.BodySetup_30819 when we are unable to.
+[2017.12.12-07.55.15:027][ 89]Cmd: TRANSACTION UNDO
+[2017.12.12-07.55.15:027][ 89]LogEditorTransaction: Undo Create Actors
+[2017.12.12-07.56.00:963][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.12-07.56.45:942][800]LogSavePackage: Save=3581.87ms
+[2017.12.12-07.56.45:945][800]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level291ECBACE42E2781955CA56A48FF3C7B1.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.12-07.56.45:972][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
