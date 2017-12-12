@@ -454,3 +454,55 @@ LogInit: Object subsystem initialized
 [2017.12.12-08.20.27:458][583]LogSavePackage: Save=2878.86ms
 [2017.12.12-08.20.27:459][583]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level238D7C39F4AA28C17D6412A8337534EDD.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
 [2017.12.12-08.20.27:467][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.12-08.20.47:371][ 82]Cmd: MAP LOAD FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.12-08.20.47:385][ 82]LightingResults: New page: Lighting Build
+[2017.12.12-08.20.47:386][ 82]LoadErrors: New page: Loading map: level1.umap
+[2017.12.12-08.20.47:405][ 82]MapCheck: New page: Map Check
+[2017.12.12-08.20.47:406][ 82]LightingResults: New page: Lighting Build
+[2017.12.12-08.20.49:968][ 82]LogAIModule: Creating AISystem for world level1
+[2017.12.12-08.20.50:168][ 82]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.12-08.20.50:260][ 82]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.12-08.20.50:371][ 82]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.137ms to complete.
+[2017.12.12-08.20.50:371][ 82]LogFileHelpers: Loading map 'level1' took 3.003
+[2017.12.12-08.20.55:403][367]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.20.55:403][367]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.20.55:403][367]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.20.55:403][367]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.20.58:101][529]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-08.20.58:115][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.12-08.20.58:115][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-08.20.58:115][529]PIE: New page: PIE session: level1 (Dec 11, 2017, 8:20:58 PM)
+[2017.12.12-08.20.58:115][529]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.12.12-08.20.58:185][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069622s)
+[2017.12.12-08.20.58:185][529]LogAIModule: Creating AISystem for world level1
+[2017.12.12-08.20.58:186][529]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2017.12.12-08.20.58:186][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.071106s)
+[2017.12.12-08.20.58:196][529]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-08.20.58:206][529]LogInit: FAudioDevice initialized.
+[2017.12.12-08.20.58:239][529]LogLoad: Game class is 'GameModeBase'
+[2017.12.12-08.20.58:260][529]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.12.12-02.20.58
+[2017.12.12-08.20.58:268][529]LogWorld: Bringing up level for play took: 0.027862
+[2017.12.12-08.20.58:271][529]PIE: Play in editor start time for /Game/UEDPIE_0_level1 1.029
+[2017.12.12-08.20.58:271][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.12-08.20.58:296][529]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.20.58:296][529]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.20.58:296][529]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.20.58:296][529]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.22.01:596][323]LogNet: Browse: /Game/level2
+[2017.12.12-08.22.01:597][323]LogLoad: LoadMap: /Game/level2
+[2017.12.12-08.22.08:547][323]LogAIModule: Creating AISystem for world level2
+[2017.12.12-08.22.08:547][323]LogLoad: Game class is 'GameModeBase'
+[2017.12.12-08.22.08:573][323]LogWorld: Bringing World /Game/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.12.12-02.22.08
+[2017.12.12-08.22.08:574][323]LogWorld: Bringing up level for play took: 0.025987
+[2017.12.12-08.22.08:577][323]LogLoad: Took 6.980030 seconds to LoadMap(/Game/level2)
+[2017.12.12-08.22.20:678][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.12-08.22.20:725][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.12-08.22.31:026][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2017.12.12-08.22.35:747][908]Cmd: TRANSACTION UNDO
+[2017.12.12-08.22.35:747][908]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.12-08.22.35:848][908]LogSlate: Took 0.001481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-08.22.37:044][979]LogEditorViewport: Clicking Background
+[2017.12.12-08.22.40:891][206]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.22.40:891][206]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.22.40:893][206]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-08.22.40:893][206]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
