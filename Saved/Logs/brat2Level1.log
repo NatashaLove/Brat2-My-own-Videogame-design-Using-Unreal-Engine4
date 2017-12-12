@@ -564,3 +564,249 @@ LogInit: Object subsystem initialized
 [2017.12.12-04.00.18:063][838]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2C2D842DD4EFDB900359337ACB2F07E53.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
 [2017.12.12-04.00.18:074][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
 [2017.12.12-04.00.18:123][838]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.12-04.10.16:857][901]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 0.058
+[2017.12.12-04.10.16:859][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Dust_Particle_Mat] ([1] browsable assets)...
+[2017.12.12-04.10.16:891][901]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Dust_Particle_Mat.T_Dust_Particle_Mat]
+[2017.12.12-04.10.16:891][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Dust_Particle_Mat]
+[2017.12.12-04.10.16:906][901]LogSavePackage: Save=12.47ms
+[2017.12.12-04.10.16:906][901]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Dust_Particle_Mat_Auto15017C2504F04670B49A855BB94123BEC.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Dust_Particle_Mat_Auto1.uasset'
+[2017.12.12-04.10.16:909][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Dust_Particle_Mat_Auto1.uasset
+[2017.12.12-04.10.16:910][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Fire_Tiled_Mat] ([1] browsable assets)...
+[2017.12.12-04.10.16:942][901]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Fire_Tiled_Mat.T_Fire_Tiled_Mat]
+[2017.12.12-04.10.16:942][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Fire_Tiled_Mat]
+[2017.12.12-04.10.16:968][901]LogSavePackage: Save=23.99ms
+[2017.12.12-04.10.16:968][901]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Fire_Tiled_Mat_Auto16DA075014DC58747C30FE483BF63EACB.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Fire_Tiled_Mat_Auto1.uasset'
+[2017.12.12-04.10.16:971][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Fire_Tiled_Mat_Auto1.uasset
+[2017.12.12-04.10.16:971][901]LogFileHelpers: Auto-saving content packages took 0.113
+[2017.12.12-04.32.29:743][900]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.12-04.32.29:743][900]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.12-04.32.58:808][630]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.12-04.33.31:696][554]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-04.33.32:963][624]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-04.34.17:109][242]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-04.34.25:295][723]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-04.34.52:107][321]Cmd: DELETE
+[2017.12.12-04.34.52:107][321]Cmd: ACTOR DELETE
+[2017.12.12-04.34.52:125][321]LogEditorActor: Deleted Actor: Brush
+[2017.12.12-04.34.52:157][321]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2017.12.12-04.34.59:494][760]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.12-04.35.44:351][302]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-04.35.45:108][320]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-04.36.08:616][105]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush)
+[2017.12.12-04.36.43:730][227]LogMaterial: Missing cached shader map for material T_Frame_M_Mat, compiling. 
+[2017.12.12-04.36.50:334][396]Cmd: POLY SELECT ADJACENT ALL
+[2017.12.12-04.37.04:173][720]LogMaterial: Missing cached shader map for material T_Frame_Mat, compiling. 
+[2017.12.12-04.37.06:680][772]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-04.37.12:849][915]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-04.38.20:982][757]LogMaterial: Missing cached shader map for material T_Wood_Floor_Walnut_M_Mat, compiling. 
+[2017.12.12-04.40.52:255][979]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush)
+[2017.12.12-04.40.55:886][176]Cmd: DUPLICATE
+[2017.12.12-04.40.55:886][176]Cmd: ACTOR DUPLICATE
+[2017.12.12-04.43.10:345][722]Cmd: DUPLICATE
+[2017.12.12-04.43.10:345][722]Cmd: ACTOR DUPLICATE
+[2017.12.12-04.44.23:911][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.12-04.44.29:296][984]LogSavePackage: Save=5344.47ms
+[2017.12.12-04.44.29:297][984]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level28BB2E18C476A0AD1D6ABD29F729748CC.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.12-04.44.29:315][984]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.12-04.44.35:050][228]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-04.44.35:071][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-04.44.35:071][228]PIE: New page: PIE session: level2 (Dec 11, 2017, 4:44:35 PM)
+[2017.12.12-04.44.35:071][228]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level2
+[2017.12.12-04.44.35:152][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081256s)
+[2017.12.12-04.44.35:153][228]LogAIModule: Creating AISystem for world level2
+[2017.12.12-04.44.35:153][228]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2017.12.12-04.44.35:153][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level2.level2 to /Game/UEDPIE_0_level2.level2 (0.082711s)
+[2017.12.12-04.44.35:212][228]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-04.44.35:227][228]LogInit: FAudioDevice initialized.
+[2017.12.12-04.44.35:260][228]LogLoad: Game class is 'GameModeBase'
+[2017.12.12-04.44.35:291][228]LogWorld: Bringing World /Game/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.12.11-22.44.35
+[2017.12.12-04.44.35:291][228]LogWorld: Bringing up level for play took: 0.011245
+[2017.12.12-04.44.35:293][228]PIE: Play in editor start time for /Game/UEDPIE_0_level2 0.051
+[2017.12.12-04.54.44:160][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.12.12-04.54.48:179][977]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2017.12.12-04.54.52:705][246]Cmd: TRANSACTION UNDO
+[2017.12.12-04.54.52:706][246]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.12-04.54.54:467][351]Cmd: TRANSACTION UNDO
+[2017.12.12-04.54.54:467][351]LogEditorTransaction: Undo Move Actors
+[2017.12.12-04.55.02:155][812]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2017.12.12-04.55.26:121][240]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-04.55.27:014][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.12.12-04.55.40:312][ 75]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.12-04.55.42:554][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.12.12-04.55.47:922][518]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.12-04.56.38:230][525]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush3)
+[2017.12.12-04.56.51:906][284]Cmd: DUPLICATE
+[2017.12.12-04.56.51:906][284]Cmd: ACTOR DUPLICATE
+[2017.12.12-04.57.19:710][916]Cmd: TRANSACTION UNDO
+[2017.12.12-04.57.19:710][916]LogEditorTransaction: Undo Move Actors
+[2017.12.12-04.59.21:807][102]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.00.26:940][922]Cmd: DUPLICATE
+[2017.12.12-05.00.26:940][922]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.01.32:037][618]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush6)
+[2017.12.12-05.01.40:064][ 91]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush6)
+[2017.12.12-05.02.15:209][ 47]Cmd: DUPLICATE
+[2017.12.12-05.02.15:209][ 47]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.06.09:131][326]LogSavePackage: Save=2880.73ms
+[2017.12.12-05.06.09:131][326]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2_Auto2C7AF86F245ED18BE0DC51A90725788F8.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto2.umap'
+[2017.12.12-05.06.09:138][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto2.umap
+[2017.12.12-05.06.09:143][326]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 2.981
+[2017.12.12-05.06.09:143][326]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.981
+[2017.12.12-05.06.09:152][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Frame_M_Mat] ([1] browsable assets)...
+[2017.12.12-05.06.09:208][326]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Frame_M_Mat.T_Frame_M_Mat]
+[2017.12.12-05.06.09:208][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Frame_M_Mat]
+[2017.12.12-05.06.09:242][326]LogSavePackage: Save=30.35ms
+[2017.12.12-05.06.09:242][326]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Frame_M_Mat_Auto2698EEC75452BF8D3773161868CB5922F.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Frame_M_Mat_Auto2.uasset'
+[2017.12.12-05.06.09:248][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Frame_M_Mat_Auto2.uasset
+[2017.12.12-05.06.09:271][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Frame_Mat] ([1] browsable assets)...
+[2017.12.12-05.06.09:326][326]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Frame_Mat.T_Frame_Mat]
+[2017.12.12-05.06.09:326][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Frame_Mat]
+[2017.12.12-05.06.09:365][326]LogSavePackage: Save=34.67ms
+[2017.12.12-05.06.09:365][326]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Frame_Mat_Auto27EC6B74B4A5DB786CD6EFFA50119B983.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Frame_Mat_Auto2.uasset'
+[2017.12.12-05.06.09:372][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Frame_Mat_Auto2.uasset
+[2017.12.12-05.06.09:377][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat] ([1] browsable assets)...
+[2017.12.12-05.06.09:429][326]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat.T_Wood_Floor_Walnut_M_Mat]
+[2017.12.12-05.06.09:429][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat]
+[2017.12.12-05.06.09:474][326]LogSavePackage: Save=39.36ms
+[2017.12.12-05.06.09:474][326]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/T_Wood_Floor_Walnut_M_Mat_Auto27712E68E4500B8AB8C9656B4EB274AF2.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat_Auto2.uasset'
+[2017.12.12-05.06.09:480][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat_Auto2.uasset
+[2017.12.12-05.06.09:480][326]LogFileHelpers: Auto-saving content packages took 0.332
+[2017.12.12-05.06.32:898][706]Cmd: DUPLICATE
+[2017.12.12-05.06.32:898][706]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.08.03:349][850]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.09.04:589][384]Cmd: DUPLICATE
+[2017.12.12-05.09.04:590][384]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.09.27:830][633]Cmd: DUPLICATE
+[2017.12.12-05.09.27:830][633]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.11.55:816][967]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.12.04:064][450]Cmd: DUPLICATE
+[2017.12.12-05.12.04:064][450]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.13.23:058][654]Cmd: EDCALLBACK SURFPROPS
+[2017.12.12-05.13.43:825][818]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-05.13.44:863][878]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.14.13:728][568]Cmd: DUPLICATE
+[2017.12.12-05.14.13:728][568]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.15.00:808][ 15]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.15.21:890][235]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.15.31:473][799]Cmd: DUPLICATE
+[2017.12.12-05.15.31:473][799]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.15.45:252][457]LogEditorViewport: Clicking on Actor (double click): Brush (Curved Stair Brush25)
+[2017.12.12-05.16.08:292][762]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.16.21:699][430]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.17.06:777][679]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush28)
+[2017.12.12-05.17.58:166][617]Cmd: DUPLICATE
+[2017.12.12-05.17.58:166][617]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.18.38:689][713]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.18.39:342][749]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.18.39:878][780]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.18.59:752][914]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.19.04:482][186]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.20.16:132][221]Cmd: DUPLICATE
+[2017.12.12-05.20.16:132][221]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.22.45:128][509]Cmd: DUPLICATE
+[2017.12.12-05.22.45:128][509]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.23.32:774][788]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.23.33:681][838]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.23.34:339][876]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.23.35:011][915]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.25.18:293][428]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.26.07:064][ 53]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.26.55:140][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.12-05.27.08:653][696]LogSavePackage: Save=6134.41ms
+[2017.12.12-05.27.08:653][696]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2EE5300594D8398C48FBC7ABDB1750D6E.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.12-05.27.08:673][696]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.12-05.32.51:854][897]Cmd: DUPLICATE
+[2017.12.12-05.32.51:854][897]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.34.04:106][542]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.34.05:426][614]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush39)
+[2017.12.12-05.34.14:190][130]Cmd: DUPLICATE
+[2017.12.12-05.34.14:190][130]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.35.24:920][791]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.38.14:675][131]Cmd: DUPLICATE
+[2017.12.12-05.38.14:675][131]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.39.08:045][458]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-05.39.11:191][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level2" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.12-05.39.18:224][639]LogSavePackage: Save=5570.35ms
+[2017.12.12-05.39.18:224][639]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level22883D1EF47A0E40561CDF4ABA36AF51F.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap'
+[2017.12.12-05.39.18:252][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level2.umap
+[2017.12.12-05.54.38:553][470]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.54.44:704][832]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.55.14:340][592]Cmd: DUPLICATE
+[2017.12.12-05.55.14:340][592]Cmd: ACTOR DUPLICATE
+[2017.12.12-05.55.18:080][592]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush46)
+[2017.12.12-05.56.23:692][688]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.56.39:624][557]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush43)
+[2017.12.12-05.56.45:851][850]LogEditorViewport: Clicking Background
+[2017.12.12-05.56.51:004][153]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-05.57.25:262][112]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-05.58.22:128][ 34]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.00.12:580][908]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush43)
+[2017.12.12-06.00.16:300][123]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush43)
+[2017.12.12-06.00.40:963][150]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush41)
+[2017.12.12-06.04.55:288][343]Cmd: DUPLICATE
+[2017.12.12-06.04.55:288][343]Cmd: ACTOR DUPLICATE
+[2017.12.12-06.05.17:400][804]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-06.05.18:604][867]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-06.05.29:476][444]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.05.44:049][954]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.05.44:915][  2]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.05.45:999][ 64]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.05.46:832][111]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.07.33:246][271]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2017.12.12-06.07.55:704][ 28]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.07.56:501][ 73]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.09.56:031][511]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush51)
+[2017.12.12-06.10.03:764][792]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush51)
+[2017.12.12-06.11.06:596][ 24]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-06.11.08:752][151]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-06.11.57:773][369]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush50)
+[2017.12.12-06.17.42:307][ 81]LogSavePackage: Save=2865.50ms
+[2017.12.12-06.17.42:307][ 81]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level2_Auto3CAB3D42647361CA24D2A2AB13D9E3F66.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto3.umap'
+[2017.12.12-06.17.42:315][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level2_Auto3.umap
+[2017.12.12-06.17.42:318][ 81]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level2' took 50.718
+[2017.12.12-06.17.42:318][ 81]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 50.718
+[2017.12.12-06.18.25:862][ 83]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush55)
+[2017.12.12-06.19.38:660][846]LogEditorViewport: Clicking Background
+[2017.12.12-06.19.42:945][ 95]LogEditorViewport: Clicking Background
+[2017.12.12-06.20.21:298][206]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.20.22:070][250]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2017.12.12-06.20.27:125][545]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.12-06.21.21:842][280]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube9)
+[2017.12.12-06.21.54:463][208]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush67)
+[2017.12.12-06.21.59:668][395]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush67)
+[2017.12.12-06.22.04:415][658]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush67)
+[2017.12.12-06.23.48:178][ 32]Cmd: TRANSACTION UNDO
+[2017.12.12-06.23.48:179][ 32]LogEditorTransaction: Undo Move Actors
+[2017.12.12-06.23.48:350][ 32]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush22.BrushComponent0) Component already registered.
+[2017.12.12-06.24.43:528][223]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.12-06.25.26:629][785]LogEditorViewport: Clicking on Actor (context menu): Brush (Curved Stair Brush71)
+[2017.12.12-06.26.38:885][191]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.12-06.26.48:071][613]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush71)
+[2017.12.12-06.27.21:220][267]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush69)
+[2017.12.12-06.28.32:609][872]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2017.12.12-06.30.24:313][710]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.12.12-06.32.31:295][692]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.12-06.33.25:709][714]Cmd: DUPLICATE
+[2017.12.12-06.33.25:709][714]Cmd: ACTOR DUPLICATE
+[2017.12.12-06.33.33:645][888]Cmd: TRANSACTION UNDO
+[2017.12.12-06.33.33:645][888]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.12-06.33.37:049][964]Cmd: TRANSACTION UNDO
+[2017.12.12-06.33.37:049][964]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.12-06.33.40:190][ 98]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.33.43:866][310]Cmd: DUPLICATE
+[2017.12.12-06.33.43:867][310]Cmd: ACTOR DUPLICATE
+[2017.12.12-06.33.47:709][313]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.34.16:950][425]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2017.12.12-06.35.57:851][451]Cmd: EDCALLBACK SURFPROPS
+[2017.12.12-06.39.02:222][205]Cmd: TRANSACTION UNDO
+[2017.12.12-06.39.02:222][205]LogEditorTransaction: Undo Rotate Actors
+[2017.12.12-06.39.02:331][205]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.12-06.39.02:332][205]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush23.BrushComponent0) Component already registered.
+[2017.12.12-06.39.02:538][205]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush87.BrushComponent0) Component already registered.
+[2017.12.12-06.39.02:542][205]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush28.BrushComponent0) Component already registered.
+[2017.12.12-06.39.02:544][205]LogActorComponent: ~FComponentReregisterContext: (/Game/level2.level2:PersistentLevel.CurvedStairBrush60.BrushComponent0) Component already registered.
+[2017.12.12-06.39.05:145][254]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.39.06:164][310]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.39.15:121][715]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.12-06.39.41:237][ 61]Cmd: DELETE
+[2017.12.12-06.39.41:238][ 61]Cmd: ACTOR DELETE
+[2017.12.12-06.39.41:911][ 61]LogEditorActor: Deleted Actor: Brush
