@@ -506,3 +506,521 @@ LogInit: Object subsystem initialized
 [2017.12.12-08.22.40:891][206]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
 [2017.12.12-08.22.40:893][206]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
 [2017.12.12-08.22.40:893][206]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.12-14.42.57:773][336]LogHttp: Warning: 00000183A7C53880: request failed, libcurl error: 0 (No error)
+[2017.12.12-14.42.57:774][336]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x183a5b83fb8 [can pipeline])
+[2017.12.12-14.42.57:774][336]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2017.12.12-14.42.57:774][336]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.106.149) port 443 (#11))
+[2017.12.12-14.42.57:774][336]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 3 (Closing connection 11)
+[2017.12.12-14.43.00:454][336]LogSavePackage: Save=1882.57ms
+[2017.12.12-14.43.00:454][336]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_Auto17E97F8D8492BDA75E834EBAEC19367C0.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto1.umap'
+[2017.12.12-14.43.00:458][336]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/Autosaves/Game/level1_Auto1.umap
+[2017.12.12-14.43.00:462][336]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 2.315
+[2017.12.12-14.43.00:462][336]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.315
+[2017.12.12-23.45.44:307][798]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.12-23.49.11:810][812]LogHttp: Warning: 00000183A7C50D00: request failed, libcurl error: 0 (No error)
+[2017.12.12-23.49.11:811][812]LogHttp: Warning: 00000183A7C50D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x183a5b83fb8 [can pipeline])
+[2017.12.12-23.49.11:811][812]LogHttp: Warning: 00000183A7C50D00: libcurl info message cache 1 (Re-using existing connection! (#99) with host datarouter.ol.epicgames.com)
+[2017.12.12-23.49.11:811][812]LogHttp: Warning: 00000183A7C50D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.158.153) port 443 (#99))
+[2017.12.12-23.49.11:811][812]LogHttp: Warning: 00000183A7C50D00: libcurl info message cache 3 (Closing connection 99)
+[2017.12.12-23.49.13:009][814]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.12.12-23.51.11:894][936]LogHttp: Warning: 00000183A7C50A00: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.12-23.51.11:894][936]LogHttp: Warning: 00000183A7C50A00: libcurl info message cache 0 (  Trying 34.235.90.8...)
+[2017.12.12-23.51.11:894][936]LogHttp: Warning: 00000183A7C50A00: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (34.235.90.8) port 443 (#100))
+[2017.12.12-23.51.11:895][936]LogHttp: Warning: 00000183A7C50A00: libcurl info message cache 2 (ALPN, offering http/1.1)
+[2017.12.12-23.51.11:895][936]LogHttp: Warning: 00000183A7C50A00: libcurl info message cache 3 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.12-23.51.11:895][936]LogHttp: Warning: 00000183A7C50A00: libcurl info message cache 4 (SSL re-using session ID)
+[2017.12.12-23.51.11:895][936]LogHttp: Warning: 00000183A7C50A00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.12-23.51.11:895][936]LogHttp: Warning: 00000183A7C50A00: libcurl info message cache 6 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.12-23.51.11:895][936]LogHttp: Warning: 00000183A7C50A00: libcurl info message cache 7 (Closing connection 100)
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 1 (  Trying 52.0.171.154...)
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.171.154) port 443 (#101))
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.12-23.53.11:950][138]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 8 (Closing connection 101)
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 1 (  Trying 52.203.110.56...)
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.110.56) port 443 (#102))
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.12-23.55.12:006][341]LogHttp: Warning: 00000183A7C52E00: libcurl info message cache 8 (Closing connection 102)
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 1 (  Trying 52.20.233.124...)
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.20.233.124) port 443 (#103))
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.12-23.57.12:101][546]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 8 (Closing connection 103)
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 1 (  Trying 52.21.10.217...)
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.10.217) port 443 (#104))
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.12-23.59.12:145][748]LogHttp: Warning: 00000183A7C52680: libcurl info message cache 8 (Closing connection 104)
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 1 (  Trying 52.22.168.245...)
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.168.245) port 443 (#105))
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.01.12:220][952]LogHttp: Warning: 00000183A7C50100: libcurl info message cache 8 (Closing connection 105)
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 1 (  Trying 34.225.81.108...)
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.81.108) port 443 (#106))
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.03.12:328][158]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 8 (Closing connection 106)
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 1 (  Trying 52.21.103.241...)
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.103.241) port 443 (#107))
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.05.12:399][279]LogHttp: Warning: 00000183A7C52C80: libcurl info message cache 8 (Closing connection 107)
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 1 (  Trying 52.3.9.249...)
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.9.249) port 443 (#108))
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.07.12:443][481]LogHttp: Warning: 00000183A7C53D00: libcurl info message cache 8 (Closing connection 108)
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 1 (  Trying 34.226.163.250...)
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.226.163.250) port 443 (#109))
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.09.12:521][685]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 8 (Closing connection 109)
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 1 (  Trying 52.22.168.245...)
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.168.245) port 443 (#110))
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.11.12:568][887]LogHttp: Warning: 00000183A7C53880: libcurl info message cache 8 (Closing connection 110)
+[2017.12.13-00.12.46:153][501]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-00.12.46:176][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.12.46:176][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-00.12.46:177][501]PIE: New page: PIE session: level1 (Dec 12, 2017, 12:12:46 PM)
+[2017.12.13-00.12.46:177][501]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.12.13-00.12.46:362][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.184163s)
+[2017.12.13-00.12.46:365][501]LogAIModule: Creating AISystem for world level1
+[2017.12.13-00.12.46:366][501]LogPlayLevel: PIE: World Init took: (0.003849s)
+[2017.12.13-00.12.46:367][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.189735s)
+[2017.12.13-00.12.46:381][501]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-00.12.46:391][501]LogInit: FAudioDevice initialized.
+[2017.12.13-00.12.46:421][501]LogLoad: Game class is 'GameModeBase'
+[2017.12.13-00.12.46:449][501]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.12.12-18.12.46
+[2017.12.13-00.12.46:452][501]LogWorld: Bringing up level for play took: 0.029158
+[2017.12.13-00.12.46:455][501]PIE: Play in editor start time for /Game/UEDPIE_0_level1 -0.445
+[2017.12.13-00.12.46:456][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.12.46:462][501]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.12.46:462][501]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.12.46:463][501]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.12.46:463][501]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.00:948][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.13.00:992][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 1 (  Trying 52.21.10.217...)
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.10.217) port 443 (#111))
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.13.12:620][ 47]LogHttp: Warning: 000001843BEBA500: libcurl info message cache 8 (Closing connection 111)
+[2017.12.13-00.13.25:972][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x302)
+[2017.12.13-00.13.31:079][146]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.31:079][146]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.31:080][146]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.31:080][146]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.36:423][464]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.12.13-00.13.38:806][604]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.13.42:833][844]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.13.46:506][ 62]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.13.47:032][ 93]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.47:032][ 93]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.47:033][ 93]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.47:033][ 93]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.13.51:613][367]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.13.54:686][551]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.13.59:976][868]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.03:334][ 69]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.05:105][174]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.09:822][449]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.09:822][449]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.09:823][449]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.09:823][449]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.11:037][522]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.12:116][586]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.13:730][682]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.15:430][783]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.17:241][891]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.22:219][186]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.22:219][186]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.22:220][186]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.22:220][186]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.40:952][304]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.45:084][551]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.45:084][551]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.45:084][551]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.45:084][551]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.49:232][800]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.54:137][ 94]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.54:137][ 94]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.54:138][ 94]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.54:138][ 94]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.14.55:519][177]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.56:914][260]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.14.57:927][320]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.02:805][609]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.02:805][609]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.02:806][609]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.02:806][609]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.07:843][903]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.10:305][ 50]LogEditorViewport: Clicking Background
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 1 (  Trying 52.21.103.241...)
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.103.241) port 443 (#112))
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.15.12:676][192]LogHttp: Warning: 000001844752C400: libcurl info message cache 8 (Closing connection 112)
+[2017.12.13-00.15.12:806][199]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.12:806][199]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.12:807][199]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.12:807][199]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.15:353][350]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.21:893][741]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.24:283][884]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.29:160][176]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.29:160][176]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.29:161][176]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.29:161][176]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.29:975][225]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.34:971][524]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.34:971][524]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.34:973][524]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.34:973][524]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.35:787][573]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.36:983][644]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.39:919][819]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.40:741][867]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.46:349][199]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.50:359][439]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.15.55:040][710]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.55:040][710]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.55:041][710]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.15.55:041][710]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.16.29:029][693]LogRenderer: Reallocating scene render targets to support 900x520 Format 10 NumSamples 1 (Frame:101486).
+[2017.12.13-00.16.29:226][694]LogRenderer: Reallocating scene render targets to support 900x556 Format 10 NumSamples 1 (Frame:101494).
+[2017.12.13-00.16.31:270][809]LogRenderer: Reallocating scene render targets to support 908x556 Format 10 NumSamples 1 (Frame:101963).
+[2017.12.13-00.16.31:453][810]LogRenderer: Reallocating scene render targets to support 980x556 Format 10 NumSamples 1 (Frame:101971).
+[2017.12.13-00.16.31:633][811]LogRenderer: Reallocating scene render targets to support 1004x556 Format 10 NumSamples 1 (Frame:101979).
+[2017.12.13-00.16.31:743][812]LogRenderer: Reallocating scene render targets to support 1008x556 Format 10 NumSamples 1 (Frame:101985).
+[2017.12.13-00.16.38:191][190]LogEditorViewport: Clicking Background
+[2017.12.13-00.16.46:432][684]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2017.12.13-00.16.53:770][863]LogRenderer: Reallocating scene render targets to support 1020x556 Format 10 NumSamples 1 (Frame:106179).
+[2017.12.13-00.16.53:803][864]LogRenderer: Reallocating scene render targets to support 1024x556 Format 10 NumSamples 1 (Frame:106181).
+[2017.12.13-00.16.53:845][865]LogRenderer: Reallocating scene render targets to support 1032x556 Format 10 NumSamples 1 (Frame:106183).
+[2017.12.13-00.16.53:886][866]LogRenderer: Reallocating scene render targets to support 1036x556 Format 10 NumSamples 1 (Frame:106185).
+[2017.12.13-00.16.59:539][189]LogRenderer: Reallocating scene render targets to support 1036x588 Format 10 NumSamples 1 (Frame:107317).
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 1 (  Trying 34.238.8.55...)
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.238.8.55) port 443 (#113))
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.17.12:802][975]LogHttp: Warning: 000001859D1F4700: libcurl info message cache 8 (Closing connection 113)
+[2017.12.13-00.17.25:090][704]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.31:214][ 58]LogRenderer: Reallocating scene render targets to support 1128x588 Format 10 NumSamples 1 (Frame:114725).
+[2017.12.13-00.17.31:386][ 59]LogRenderer: Reallocating scene render targets to support 1152x588 Format 10 NumSamples 1 (Frame:114733).
+[2017.12.13-00.17.31:481][ 60]LogRenderer: Reallocating scene render targets to support 1156x588 Format 10 NumSamples 1 (Frame:114739).
+[2017.12.13-00.17.31:581][ 61]LogRenderer: Reallocating scene render targets to support 1188x588 Format 10 NumSamples 1 (Frame:114745).
+[2017.12.13-00.17.44:208][792]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.46:226][913]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.47:404][983]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.48:304][ 37]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.48:846][ 69]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.49:462][106]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.51:280][215]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.52:597][294]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.52:713][301]LogEditorViewport: Clicking Background
+[2017.12.13-00.17.58:830][667]Cmd: CAMERA SNAP
+[2017.12.13-00.18.31:624][470]LogEditorViewport: Clicking Background
+[2017.12.13-00.18.33:451][578]LogEditorViewport: Clicking Background
+[2017.12.13-00.18.53:204][429]LogEditorViewport: Clicking Background
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 1 (  Trying 52.22.126.139...)
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.126.139) port 443 (#114))
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.19.12:926][ 14]LogHttp: Warning: 0000018428DE4A00: libcurl info message cache 8 (Closing connection 114)
+[2017.12.13-00.19.18:751][321]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-00.19.32:026][117]LogEditorViewport: Clicking Background
+[2017.12.13-00.19.40:288][612]LogEditorViewport: Clicking Background
+[2017.12.13-00.19.47:691][ 56]LogEditorViewport: Clicking Background
+[2017.12.13-00.20.13:058][561]LogEditorViewport: Clicking Background
+[2017.12.13-00.20.28:313][476]LogEditorViewport: Clicking Background
+[2017.12.13-00.20.33:097][763]LogEditorViewport: Clicking Background
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 1 (  Trying 34.235.234.117...)
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.234.117) port 443 (#115))
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.21.12:993][107]LogHttp: Warning: 000001843656F880: libcurl info message cache 8 (Closing connection 115)
+[2017.12.13-00.21.20:853][558]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.20:853][558]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.20:854][558]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.20:854][558]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.28:478][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x416)
+[2017.12.13-00.21.33:744][122]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.33:744][122]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.33:745][122]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.33:745][122]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.40:880][539]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.40:881][539]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.40:882][539]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.21.40:882][539]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.22.23:402][ 75]LogEditorViewport: Clicking Background
+[2017.12.13-00.22.31:217][536]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.22.35:059][765]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.22.39:632][ 27]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.22.43:559][239]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.22.48:295][521]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.22.48:295][521]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.22.48:296][521]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.22.48:296][521]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.22.55:353][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2017.12.13-00.23.00:451][223]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.23.00:451][223]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.23.00:451][223]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.23.00:451][223]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 1 (  Trying 34.234.221.146...)
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.221.146) port 443 (#116))
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.23.13:042][979]LogHttp: Warning: 00000183D7077B80: libcurl info message cache 8 (Closing connection 116)
+[2017.12.13-00.23.42:389][732]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.23.42:390][732]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.23.42:390][732]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.23.42:390][732]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.23.50:704][227]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.23.56:007][532]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.24.00:976][822]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.00:976][822]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.00:976][822]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.00:976][822]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.03:608][980]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.24.10:820][406]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.10:820][406]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.10:821][406]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.10:821][406]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.17:300][781]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-00.24.17:314][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.24.17:314][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-00.24.17:315][781]PIE: New page: PIE session: level1 (Dec 12, 2017, 12:24:17 PM)
+[2017.12.13-00.24.17:315][781]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.12.13-00.24.17:409][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093511s)
+[2017.12.13-00.24.17:410][781]LogAIModule: Creating AISystem for world level1
+[2017.12.13-00.24.17:410][781]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2017.12.13-00.24.17:411][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.095653s)
+[2017.12.13-00.24.17:423][781]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-00.24.17:434][781]LogInit: FAudioDevice initialized.
+[2017.12.13-00.24.17:473][781]LogLoad: Game class is 'GameModeBase'
+[2017.12.13-00.24.17:512][781]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.12.12-18.24.17
+[2017.12.13-00.24.17:516][781]LogWorld: Bringing up level for play took: 0.041605
+[2017.12.13-00.24.17:520][781]PIE: Play in editor start time for /Game/UEDPIE_0_level1 0.62
+[2017.12.13-00.24.17:537][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.24.17:543][781]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.17:543][781]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.17:543][781]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.17:543][781]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.24.36:647][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.24.36:689][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 1 (  Trying 52.0.171.154...)
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.171.154) port 443 (#117))
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.25.13:124][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.25.13:125][ 88]LogHttp: Warning: 00000183CB686F80: libcurl info message cache 8 (Closing connection 117)
+[2017.12.13-00.25.24:541][768]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.24:541][768]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.24:542][768]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.24:542][768]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.25:456][823]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.25.27:863][965]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.25.32:888][263]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.32:888][263]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.32:889][263]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.32:889][263]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.36:013][451]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.25.40:082][694]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.25.44:050][931]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.25.49:053][229]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.49:053][229]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.49:054][229]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.49:054][229]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.25.53:323][485]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.25.58:763][810]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.26.00:199][895]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.26.02:132][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.26.07:147][309]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.07:147][309]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.07:148][309]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.07:148][309]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.20:348][ 94]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.26.24:664][351]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.13-00.26.26:662][469]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-00.26.26:675][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.26.26:675][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-00.26.26:675][469]PIE: New page: PIE session: level1 (Dec 12, 2017, 12:26:26 PM)
+[2017.12.13-00.26.26:676][469]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.12.13-00.26.26:752][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077105s)
+[2017.12.13-00.26.26:753][469]LogAIModule: Creating AISystem for world level1
+[2017.12.13-00.26.26:753][469]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2017.12.13-00.26.26:754][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.078386s)
+[2017.12.13-00.26.26:765][469]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-00.26.26:774][469]LogInit: FAudioDevice initialized.
+[2017.12.13-00.26.26:810][469]LogLoad: Game class is 'GameModeBase'
+[2017.12.13-00.26.26:827][469]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.12.12-18.26.26
+[2017.12.13-00.26.26:829][469]LogWorld: Bringing up level for play took: 0.017745
+[2017.12.13-00.26.26:831][469]PIE: Play in editor start time for /Game/UEDPIE_0_level1 -0.069
+[2017.12.13-00.26.26:832][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.26.26:854][469]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.26:854][469]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.26:854][469]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.26:854][469]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.29:672][632]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.29:672][632]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.29:673][632]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.26.29:673][632]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 1 (  Trying 54.175.138.11...)
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.175.138.11) port 443 (#118))
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.27.13:196][244]LogHttp: Warning: 00000183A0D03D00: libcurl info message cache 8 (Closing connection 118)
+[2017.12.13-00.27.52:962][629]LogNet: Browse: /Game/level2
+[2017.12.13-00.27.52:962][629]LogLoad: LoadMap: /Game/level2
+[2017.12.13-00.28.00:061][629]LogAIModule: Creating AISystem for world level2
+[2017.12.13-00.28.00:062][629]LogLoad: Game class is 'GameModeBase'
+[2017.12.13-00.28.00:087][629]LogWorld: Bringing World /Game/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.12.12-18.28.00
+[2017.12.13-00.28.00:088][629]LogWorld: Bringing up level for play took: 0.024899
+[2017.12.13-00.28.00:089][629]LogLoad: Took 7.127392 seconds to LoadMap(/Game/level2)
+[2017.12.13-00.28.06:620][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.28.06:661][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.28.12:658][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.13-00.28.14:276][354]LogSavePackage: Save=1555.63ms
+[2017.12.13-00.28.14:276][354]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1DD81721C4955663A62241B94B8229915.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap'
+[2017.12.13-00.28.14:283][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1.umap
+[2017.12.13-00.28.14:318][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset" SILENT=true
+[2017.12.13-00.28.15:377][354]LogSavePackage: Save=915.17ms
+[2017.12.13-00.28.15:377][354]LogSavePackage: Moving '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Saved/level1_BuiltDataEA3E65B549318BB97C274EAC4A0450D2.tmp' to '../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset'
+[2017.12.13-00.28.15:380][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/debor/OneDrive/Documents/Unreal Projects/brat2Level1/Content/level1_BuiltData.uasset
+[2017.12.13-00.29.13:240][821]LogHttp: Warning: 000001846566F100: request failed, libcurl error: 35 (SSL connect error)
+[2017.12.13-00.29.13:240][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.12.13-00.29.13:240][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 1 (  Trying 52.3.9.249...)
+[2017.12.13-00.29.13:240][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.9.249) port 443 (#119))
+[2017.12.13-00.29.13:240][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.12.13-00.29.13:240][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.13-00.29.13:240][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 5 (SSL re-using session ID)
+[2017.12.13-00.29.13:241][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.13-00.29.13:241][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.12.13-00.29.13:241][821]LogHttp: Warning: 000001846566F100: libcurl info message cache 8 (Closing connection 119)
+[2017.12.13-00.32.36:916][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-00.32.36:932][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.32.36:932][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-00.32.36:932][ 51]PIE: New page: PIE session: level1 (Dec 12, 2017, 12:32:36 PM)
+[2017.12.13-00.32.36:932][ 51]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2017.12.13-00.32.37:005][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072752s)
+[2017.12.13-00.32.37:006][ 51]LogAIModule: Creating AISystem for world level1
+[2017.12.13-00.32.37:006][ 51]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2017.12.13-00.32.37:007][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.074262s)
+[2017.12.13-00.32.37:018][ 51]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-00.32.37:027][ 51]LogInit: FAudioDevice initialized.
+[2017.12.13-00.32.37:065][ 51]LogLoad: Game class is 'GameModeBase'
+[2017.12.13-00.32.37:085][ 51]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2017.12.12-18.32.37
+[2017.12.13-00.32.37:088][ 51]LogWorld: Bringing up level for play took: 0.022170
+[2017.12.13-00.32.37:090][ 51]PIE: Play in editor start time for /Game/UEDPIE_0_level1 0.189
+[2017.12.13-00.32.37:091][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.32.37:110][ 51]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.32.37:110][ 51]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.32.37:111][ 51]AssetCheck: Error: T_Default_Material_Grid_N T_Single_Tile_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.32.37:111][ 51]AssetCheck: Error: T_Default_Material_Grid_M T_Checker_Noise_M Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2017.12.13-00.35.38:024][900]LogNet: Browse: /Game/level2
+[2017.12.13-00.35.38:024][900]LogLoad: LoadMap: /Game/level2
+[2017.12.13-00.35.39:710][900]LogAIModule: Creating AISystem for world level2
+[2017.12.13-00.35.39:711][900]LogLoad: Game class is 'GameModeBase'
+[2017.12.13-00.35.39:738][900]LogWorld: Bringing World /Game/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.12.12-18.35.39
+[2017.12.13-00.35.39:739][900]LogWorld: Bringing up level for play took: 0.026287
+[2017.12.13-00.35.39:740][900]LogLoad: Took 1.715761 seconds to LoadMap(/Game/level2)
+[2017.12.13-00.37.06:307][ 85]Cmd: LevelEditor.ToggleImmersive
+[2017.12.13-00.37.06:507][ 87]LogRenderer: Reallocating scene render targets to support 1280x624 Format 10 NumSamples 1 (Frame:5188).
+[2017.12.13-00.37.06:586][ 88]LogRenderer: Reallocating scene render targets to support 1540x740 Format 10 NumSamples 1 (Frame:5190).
+[2017.12.13-00.44.00:735][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.44.00:819][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2017.12.13-00.44.14:554][721]Cmd: SELECT NONE
+[2017.12.13-00.44.20:898][101]LogEditorViewport: Clicking Background
